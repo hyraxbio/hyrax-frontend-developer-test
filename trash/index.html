@@ -134,8 +134,9 @@
         var smallerCountries = smallerCountries.filter(item => {
           return item.code;
         });
+        
 
-        console.log(smallerCountries);
+        dataDownload(JSON.stringify(smallerCountries, null, 2), 'countries.json');
       })
     })
   </script>
