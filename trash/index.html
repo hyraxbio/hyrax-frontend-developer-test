@@ -1,0 +1,143 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <script>
+    function dataDownload(data, filename) {
+      var a = document.createElement("a");
+      document.body.appendChild(a);
+      a.style = "display: none";
+      var blob = new Blob([data], {type: "octet/stream"});
+      var url = window.URL.createObjectURL(blob);
+      a.href = url;
+      a.download = filename;
+      a.click();
+      window.URL.revokeObjectURL(url);
+    }
+    var countryCodeReplacements = [
+      {
+        find: 'Bahamas, The',
+        replace: 'Bahamas',
+        
+      }, {
+        find: 'British Virgin Is.',
+        replace: 'Virgin Islands, British',
+        
+      }, {
+        find: 'Brunei Darussalam',
+        replace: 'Brunei',
+      }, {
+        find: 'Central African Rep.',
+        replace: 'Central African Republic',
+        
+      }, {
+        find: "Cote D'ivoire",
+        replace: "Cote d'Ivoire"
+      }, {
+        find: 'Burma',
+        replace: 'Myanmar'
+      }, {
+        find: 'Congo, Repub. of the',
+        replace: 'Congo'
+      }, {
+        find: 'Congo, Dem. Rep.',
+        replace: 'Congo, The Democratic Republic Of The'
+      }, {
+        find: 'Gambia, The',
+        replace: 'Gambia'
+      }, {
+        find: 'Korea, North',
+        replace: `Korea, Democratic People's Republic Of`
+      }, {
+        find: 'Korea, South',
+        replace: 'Korea, Republic Of'
+      }, {
+        find: 'Kazakstan',
+        replace: 'Kazakhstan'
+      }, {
+        find: 'Viet Nam',
+        replace: 'Vietnam'
+      }, {
+        find: 'Syria',
+        replace: 'Syrian Arab Republic'
+      }, {
+        find: 'Virgin Islands',
+        replace: 'Virgin Islands, U.s.'
+      }, {
+        find: 'Tanzania, United Republic Of',
+        replace: 'Tanzania'
+      }, {
+        find: `Lao People's Democratic Republic`,
+        replace: 'Laos'
+      }, {
+        find: 'Macedonia, The Former Yugoslav Republic Of',
+        replace: 'Macedonia'
+      }, {
+        find: 'Taiwan, Province Of China',
+        replace: 'Taiwan'
+      }, {
+        find: 'Micronesia, Fed. St.',
+        replace: 'Micronesia, Federated States Of'
+      }, {
+        find: 'Russian Federation',
+        replace: 'Russia'
+      }, {
+        find: 'Libyan Arab Jamahiriya',
+        replace: 'Libya'
+      }, {
+        find: 'Iran, Islamic Republic Of',
+        replace: 'Iran'
+      }, {
+        find: 'Palestinian Territory, Occupied',
+        replace: 'Palestine'
+      }, {
+        find: 'Gaza Strip',
+        replace: 'Palestine'
+      }
+    ];
+
+    function applyCountryCodeReplacements(countryCodeName) {
+      countryCodeReplacements.forEach(repl => {
+        if (countryCodeName === repl.find) {
+          countryCodeName = repl.replace;
+        }
+        countryCodeName = countryCodeName.replace(' And ', ' & ').replace(' and ', ' & ');
+      });
+      return countryCodeName;
+    }
+    
+    fetch('countries.json').then(response => {
+      response.json().then(countries => {
+        var infoArray = countries.info.map(country => {
+          country.Country = applyCountryCodeReplacements(country.Country);
+          return country;
+        });
+        var codesArray = countries.codes.map(country => {
+          country.name = applyCountryCodeReplacements(country.name);
+          return country;
+        });
+        var smallerCountries = infoArray.map(country => {
+          return {
+            name: country.Country,
+            code: (codesArray.find(item => {
+              return item.name.toLowerCase() === country.Country.toLowerCase()
+            }) || {}).code,
+            region: country.Region,
+            population: country.Population,
+            area: country["Area (sq. mi.)"],
+            gdp: country["GDP ($ per capita)"]
+          }
+        });
+        var smallerCountries = smallerCountries.filter(item => {
+          return item.code;
+        });
+
+        console.log(smallerCountries);
+      })
+    })
+  </script>
+</body>
+</html>
