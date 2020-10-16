@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "name": "Afghanistan",
     "code": "AF",
     "region": "ASIA (EX. NEAR EAST)",
@@ -8,6 +9,7 @@
     "gdp": 700
   },
   {
+    "id": 2,
     "name": "Albania",
     "code": "AL",
     "region": "EASTERN EUROPE",
@@ -16,6 +18,7 @@
     "gdp": 4500
   },
   {
+    "id": 3,
     "name": "Algeria",
     "code": "DZ",
     "region": "NORTHERN AFRICA",
@@ -24,6 +27,7 @@
     "gdp": 6000
   },
   {
+    "id": 4,
     "name": "American Samoa",
     "code": "AS",
     "region": "OCEANIA",
@@ -32,6 +36,7 @@
     "gdp": 8000
   },
   {
+    "id": 5,
     "name": "Andorra",
     "code": "AD",
     "region": "WESTERN EUROPE",
@@ -40,6 +45,7 @@
     "gdp": 19000
   },
   {
+    "id": 6,
     "name": "Angola",
     "code": "AO",
     "region": "SUB-SAHARAN AFRICA",
@@ -48,6 +54,7 @@
     "gdp": 1900
   },
   {
+    "id": 7,
     "name": "Anguilla",
     "code": "AI",
     "region": "LATIN AMER. & CARIB",
@@ -56,6 +63,7 @@
     "gdp": 8600
   },
   {
+    "id": 8,
     "name": "Antigua & Barbuda",
     "code": "AG",
     "region": "LATIN AMER. & CARIB",
@@ -64,6 +72,7 @@
     "gdp": 11000
   },
   {
+    "id": 9,
     "name": "Argentina",
     "code": "AR",
     "region": "LATIN AMER. & CARIB",
@@ -72,6 +81,7 @@
     "gdp": 11200
   },
   {
+    "id": 10,
     "name": "Armenia",
     "code": "AM",
     "region": "C.W. OF IND. STATES",
@@ -80,6 +90,7 @@
     "gdp": 3500
   },
   {
+    "id": 11,
     "name": "Aruba",
     "code": "AW",
     "region": "LATIN AMER. & CARIB",
@@ -88,6 +99,7 @@
     "gdp": 28000
   },
   {
+    "id": 12,
     "name": "Australia",
     "code": "AU",
     "region": "OCEANIA",
@@ -96,6 +108,7 @@
     "gdp": 29000
   },
   {
+    "id": 13,
     "name": "Austria",
     "code": "AT",
     "region": "WESTERN EUROPE",
@@ -104,6 +117,7 @@
     "gdp": 30000
   },
   {
+    "id": 14,
     "name": "Azerbaijan",
     "code": "AZ",
     "region": "C.W. OF IND. STATES",
@@ -112,6 +126,7 @@
     "gdp": 3400
   },
   {
+    "id": 15,
     "name": "Bahamas",
     "code": "BS",
     "region": "LATIN AMER. & CARIB",
@@ -120,6 +135,7 @@
     "gdp": 16700
   },
   {
+    "id": 16,
     "name": "Bahrain",
     "code": "BH",
     "region": "NEAR EAST",
@@ -128,6 +144,7 @@
     "gdp": 16900
   },
   {
+    "id": 17,
     "name": "Bangladesh",
     "code": "BD",
     "region": "ASIA (EX. NEAR EAST)",
@@ -136,6 +153,7 @@
     "gdp": 1900
   },
   {
+    "id": 18,
     "name": "Barbados",
     "code": "BB",
     "region": "LATIN AMER. & CARIB",
@@ -144,6 +162,7 @@
     "gdp": 15700
   },
   {
+    "id": 19,
     "name": "Belarus",
     "code": "BY",
     "region": "C.W. OF IND. STATES",
@@ -152,6 +171,7 @@
     "gdp": 6100
   },
   {
+    "id": 20,
     "name": "Belgium",
     "code": "BE",
     "region": "WESTERN EUROPE",
@@ -160,6 +180,7 @@
     "gdp": 29100
   },
   {
+    "id": 21,
     "name": "Belize",
     "code": "BZ",
     "region": "LATIN AMER. & CARIB",
@@ -168,6 +189,7 @@
     "gdp": 4900
   },
   {
+    "id": 22,
     "name": "Benin",
     "code": "BJ",
     "region": "SUB-SAHARAN AFRICA",
@@ -176,6 +198,7 @@
     "gdp": 1100
   },
   {
+    "id": 23,
     "name": "Bermuda",
     "code": "BM",
     "region": "NORTHERN AMERICA",
@@ -184,6 +207,7 @@
     "gdp": 36000
   },
   {
+    "id": 24,
     "name": "Bhutan",
     "code": "BT",
     "region": "ASIA (EX. NEAR EAST)",
@@ -192,6 +216,7 @@
     "gdp": 1300
   },
   {
+    "id": 25,
     "name": "Bolivia",
     "code": "BO",
     "region": "LATIN AMER. & CARIB",
@@ -200,6 +225,7 @@
     "gdp": 2400
   },
   {
+    "id": 26,
     "name": "Bosnia & Herzegovina",
     "code": "BA",
     "region": "EASTERN EUROPE",
@@ -208,6 +234,7 @@
     "gdp": 6100
   },
   {
+    "id": 27,
     "name": "Botswana",
     "code": "BW",
     "region": "SUB-SAHARAN AFRICA",
@@ -216,6 +243,7 @@
     "gdp": 9000
   },
   {
+    "id": 28,
     "name": "Brazil",
     "code": "BR",
     "region": "LATIN AMER. & CARIB",
@@ -224,6 +252,7 @@
     "gdp": 7600
   },
   {
+    "id": 29,
     "name": "Virgin Islands, British",
     "code": "VG",
     "region": "LATIN AMER. & CARIB",
@@ -232,6 +261,7 @@
     "gdp": 16000
   },
   {
+    "id": 30,
     "name": "Brunei",
     "code": "BN",
     "region": "ASIA (EX. NEAR EAST)",
@@ -240,6 +270,7 @@
     "gdp": 18600
   },
   {
+    "id": 31,
     "name": "Bulgaria",
     "code": "BG",
     "region": "EASTERN EUROPE",
@@ -248,6 +279,7 @@
     "gdp": 7600
   },
   {
+    "id": 32,
     "name": "Burkina Faso",
     "code": "BF",
     "region": "SUB-SAHARAN AFRICA",
@@ -256,6 +288,7 @@
     "gdp": 1100
   },
   {
+    "id": 33,
     "name": "Myanmar",
     "code": "MM",
     "region": "ASIA (EX. NEAR EAST)",
@@ -264,6 +297,7 @@
     "gdp": 1800
   },
   {
+    "id": 34,
     "name": "Burundi",
     "code": "BI",
     "region": "SUB-SAHARAN AFRICA",
@@ -272,6 +306,7 @@
     "gdp": 600
   },
   {
+    "id": 35,
     "name": "Cambodia",
     "code": "KH",
     "region": "ASIA (EX. NEAR EAST)",
@@ -280,6 +315,7 @@
     "gdp": 1900
   },
   {
+    "id": 36,
     "name": "Cameroon",
     "code": "CM",
     "region": "SUB-SAHARAN AFRICA",
@@ -288,6 +324,7 @@
     "gdp": 1800
   },
   {
+    "id": 37,
     "name": "Canada",
     "code": "CA",
     "region": "NORTHERN AMERICA",
@@ -296,6 +333,7 @@
     "gdp": 29800
   },
   {
+    "id": 38,
     "name": "Cape Verde",
     "code": "CV",
     "region": "SUB-SAHARAN AFRICA",
@@ -304,6 +342,7 @@
     "gdp": 1400
   },
   {
+    "id": 39,
     "name": "Cayman Islands",
     "code": "KY",
     "region": "LATIN AMER. & CARIB",
@@ -312,6 +351,7 @@
     "gdp": 35000
   },
   {
+    "id": 40,
     "name": "Central African Republic",
     "code": "CF",
     "region": "SUB-SAHARAN AFRICA",
@@ -320,6 +360,7 @@
     "gdp": 1100
   },
   {
+    "id": 41,
     "name": "Chad",
     "code": "TD",
     "region": "SUB-SAHARAN AFRICA",
@@ -328,6 +369,7 @@
     "gdp": 1200
   },
   {
+    "id": 42,
     "name": "Chile",
     "code": "CL",
     "region": "LATIN AMER. & CARIB",
@@ -336,6 +378,7 @@
     "gdp": 9900
   },
   {
+    "id": 43,
     "name": "China",
     "code": "CN",
     "region": "ASIA (EX. NEAR EAST)",
@@ -344,6 +387,7 @@
     "gdp": 5000
   },
   {
+    "id": 44,
     "name": "Colombia",
     "code": "CO",
     "region": "LATIN AMER. & CARIB",
@@ -352,6 +396,7 @@
     "gdp": 6300
   },
   {
+    "id": 45,
     "name": "Comoros",
     "code": "KM",
     "region": "SUB-SAHARAN AFRICA",
@@ -360,6 +405,7 @@
     "gdp": 700
   },
   {
+    "id": 46,
     "name": "Congo, The Democratic Republic Of The",
     "code": "CD",
     "region": "SUB-SAHARAN AFRICA",
@@ -368,6 +414,7 @@
     "gdp": 700
   },
   {
+    "id": 47,
     "name": "Congo",
     "code": "CG",
     "region": "SUB-SAHARAN AFRICA",
@@ -376,6 +423,7 @@
     "gdp": 700
   },
   {
+    "id": 48,
     "name": "Cook Islands",
     "code": "CK",
     "region": "OCEANIA",
@@ -384,6 +432,7 @@
     "gdp": 5000
   },
   {
+    "id": 49,
     "name": "Costa Rica",
     "code": "CR",
     "region": "LATIN AMER. & CARIB",
@@ -392,6 +441,7 @@
     "gdp": 9100
   },
   {
+    "id": 50,
     "name": "Cote d'Ivoire",
     "code": "CI",
     "region": "SUB-SAHARAN AFRICA",
@@ -400,6 +450,7 @@
     "gdp": 1400
   },
   {
+    "id": 51,
     "name": "Croatia",
     "code": "HR",
     "region": "EASTERN EUROPE",
@@ -408,6 +459,7 @@
     "gdp": 10600
   },
   {
+    "id": 52,
     "name": "Cuba",
     "code": "CU",
     "region": "LATIN AMER. & CARIB",
@@ -416,6 +468,7 @@
     "gdp": 2900
   },
   {
+    "id": 53,
     "name": "Cyprus",
     "code": "CY",
     "region": "NEAR EAST",
@@ -424,6 +477,7 @@
     "gdp": 19200
   },
   {
+    "id": 54,
     "name": "Czech Republic",
     "code": "CZ",
     "region": "EASTERN EUROPE",
@@ -432,6 +486,7 @@
     "gdp": 15700
   },
   {
+    "id": 55,
     "name": "Denmark",
     "code": "DK",
     "region": "WESTERN EUROPE",
@@ -440,6 +495,7 @@
     "gdp": 31100
   },
   {
+    "id": 56,
     "name": "Djibouti",
     "code": "DJ",
     "region": "SUB-SAHARAN AFRICA",
@@ -448,6 +504,7 @@
     "gdp": 1300
   },
   {
+    "id": 57,
     "name": "Dominica",
     "code": "DM",
     "region": "LATIN AMER. & CARIB",
@@ -456,6 +513,7 @@
     "gdp": 5400
   },
   {
+    "id": 58,
     "name": "Dominican Republic",
     "code": "DO",
     "region": "LATIN AMER. & CARIB",
@@ -464,6 +522,7 @@
     "gdp": 6000
   },
   {
+    "id": 59,
     "name": "East Timor",
     "code": "TP",
     "region": "ASIA (EX. NEAR EAST)",
@@ -472,6 +531,7 @@
     "gdp": 500
   },
   {
+    "id": 60,
     "name": "Ecuador",
     "code": "EC",
     "region": "LATIN AMER. & CARIB",
@@ -480,6 +540,7 @@
     "gdp": 3300
   },
   {
+    "id": 61,
     "name": "Egypt",
     "code": "EG",
     "region": "NORTHERN AFRICA",
@@ -488,6 +549,7 @@
     "gdp": 4000
   },
   {
+    "id": 62,
     "name": "El Salvador",
     "code": "SV",
     "region": "LATIN AMER. & CARIB",
@@ -496,6 +558,7 @@
     "gdp": 4800
   },
   {
+    "id": 63,
     "name": "Equatorial Guinea",
     "code": "GQ",
     "region": "SUB-SAHARAN AFRICA",
@@ -504,6 +567,7 @@
     "gdp": 2700
   },
   {
+    "id": 64,
     "name": "Eritrea",
     "code": "ER",
     "region": "SUB-SAHARAN AFRICA",
@@ -512,6 +576,7 @@
     "gdp": 700
   },
   {
+    "id": 65,
     "name": "Estonia",
     "code": "EE",
     "region": "BALTICS",
@@ -520,6 +585,7 @@
     "gdp": 12300
   },
   {
+    "id": 66,
     "name": "Ethiopia",
     "code": "ET",
     "region": "SUB-SAHARAN AFRICA",
@@ -528,6 +594,7 @@
     "gdp": 700
   },
   {
+    "id": 67,
     "name": "Faroe Islands",
     "code": "FO",
     "region": "WESTERN EUROPE",
@@ -536,6 +603,7 @@
     "gdp": 22000
   },
   {
+    "id": 68,
     "name": "Fiji",
     "code": "FJ",
     "region": "OCEANIA",
@@ -544,6 +612,7 @@
     "gdp": 5800
   },
   {
+    "id": 69,
     "name": "Finland",
     "code": "FI",
     "region": "WESTERN EUROPE",
@@ -552,6 +621,7 @@
     "gdp": 27400
   },
   {
+    "id": 70,
     "name": "France",
     "code": "FR",
     "region": "WESTERN EUROPE",
@@ -560,6 +630,7 @@
     "gdp": 27600
   },
   {
+    "id": 71,
     "name": "French Guiana",
     "code": "GF",
     "region": "LATIN AMER. & CARIB",
@@ -568,6 +639,7 @@
     "gdp": 8300
   },
   {
+    "id": 72,
     "name": "French Polynesia",
     "code": "PF",
     "region": "OCEANIA",
@@ -576,6 +648,7 @@
     "gdp": 17500
   },
   {
+    "id": 73,
     "name": "Gabon",
     "code": "GA",
     "region": "SUB-SAHARAN AFRICA",
@@ -584,6 +657,7 @@
     "gdp": 5500
   },
   {
+    "id": 74,
     "name": "Gambia",
     "code": "GM",
     "region": "SUB-SAHARAN AFRICA",
@@ -592,6 +666,7 @@
     "gdp": 1700
   },
   {
+    "id": 75,
     "name": "Palestine",
     "code": "PS",
     "region": "NEAR EAST",
@@ -600,6 +675,7 @@
     "gdp": 600
   },
   {
+    "id": 76,
     "name": "Georgia",
     "code": "GE",
     "region": "C.W. OF IND. STATES",
@@ -608,6 +684,7 @@
     "gdp": 2500
   },
   {
+    "id": 77,
     "name": "Germany",
     "code": "DE",
     "region": "WESTERN EUROPE",
@@ -616,6 +693,7 @@
     "gdp": 27600
   },
   {
+    "id": 78,
     "name": "Ghana",
     "code": "GH",
     "region": "SUB-SAHARAN AFRICA",
@@ -624,6 +702,7 @@
     "gdp": 2200
   },
   {
+    "id": 79,
     "name": "Gibraltar",
     "code": "GI",
     "region": "WESTERN EUROPE",
@@ -632,6 +711,7 @@
     "gdp": 17500
   },
   {
+    "id": 80,
     "name": "Greece",
     "code": "GR",
     "region": "WESTERN EUROPE",
@@ -640,6 +720,7 @@
     "gdp": 20000
   },
   {
+    "id": 81,
     "name": "Greenland",
     "code": "GL",
     "region": "NORTHERN AMERICA",
@@ -648,6 +729,7 @@
     "gdp": 20000
   },
   {
+    "id": 82,
     "name": "Grenada",
     "code": "GD",
     "region": "LATIN AMER. & CARIB",
@@ -656,6 +738,7 @@
     "gdp": 5000
   },
   {
+    "id": 83,
     "name": "Guadeloupe",
     "code": "GP",
     "region": "LATIN AMER. & CARIB",
@@ -664,6 +747,7 @@
     "gdp": 8000
   },
   {
+    "id": 84,
     "name": "Guam",
     "code": "GU",
     "region": "OCEANIA",
@@ -672,6 +756,7 @@
     "gdp": 21000
   },
   {
+    "id": 85,
     "name": "Guatemala",
     "code": "GT",
     "region": "LATIN AMER. & CARIB",
@@ -680,6 +765,7 @@
     "gdp": 4100
   },
   {
+    "id": 87,
     "name": "Guinea",
     "code": "GN",
     "region": "SUB-SAHARAN AFRICA",
@@ -688,6 +774,7 @@
     "gdp": 2100
   },
   {
+    "id": 88,
     "name": "Guinea-Bissau",
     "code": "GW",
     "region": "SUB-SAHARAN AFRICA",
@@ -696,6 +783,7 @@
     "gdp": 800
   },
   {
+    "id": 89,
     "name": "Guyana",
     "code": "GY",
     "region": "LATIN AMER. & CARIB",
@@ -704,6 +792,7 @@
     "gdp": 4000
   },
   {
+    "id": 90,
     "name": "Haiti",
     "code": "HT",
     "region": "LATIN AMER. & CARIB",
@@ -712,6 +801,7 @@
     "gdp": 1600
   },
   {
+    "id": 91,
     "name": "Honduras",
     "code": "HN",
     "region": "LATIN AMER. & CARIB",
@@ -720,6 +810,7 @@
     "gdp": 2600
   },
   {
+    "id": 92,
     "name": "Hong Kong",
     "code": "HK",
     "region": "ASIA (EX. NEAR EAST)",
@@ -728,6 +819,7 @@
     "gdp": 28800
   },
   {
+    "id": 93,
     "name": "Hungary",
     "code": "HU",
     "region": "EASTERN EUROPE",
@@ -736,6 +828,7 @@
     "gdp": 13900
   },
   {
+    "id": 94,
     "name": "Iceland",
     "code": "IS",
     "region": "WESTERN EUROPE",
@@ -744,6 +837,7 @@
     "gdp": 30900
   },
   {
+    "id": 95,
     "name": "India",
     "code": "IN",
     "region": "ASIA (EX. NEAR EAST)",
@@ -752,6 +846,7 @@
     "gdp": 2900
   },
   {
+    "id": 96,
     "name": "Indonesia",
     "code": "ID",
     "region": "ASIA (EX. NEAR EAST)",
@@ -760,6 +855,7 @@
     "gdp": 3200
   },
   {
+    "id": 97,
     "name": "Iran",
     "code": "IR",
     "region": "ASIA (EX. NEAR EAST)",
@@ -768,6 +864,7 @@
     "gdp": 7000
   },
   {
+    "id": 98,
     "name": "Iraq",
     "code": "IQ",
     "region": "NEAR EAST",
@@ -776,6 +873,7 @@
     "gdp": 1500
   },
   {
+    "id": 99,
     "name": "Ireland",
     "code": "IE",
     "region": "WESTERN EUROPE",
@@ -784,6 +882,7 @@
     "gdp": 29600
   },
   {
+    "id": 101,
     "name": "Israel",
     "code": "IL",
     "region": "NEAR EAST",
@@ -792,6 +891,7 @@
     "gdp": 19800
   },
   {
+    "id": 102,
     "name": "Italy",
     "code": "IT",
     "region": "WESTERN EUROPE",
@@ -800,6 +900,7 @@
     "gdp": 26700
   },
   {
+    "id": 103,
     "name": "Jamaica",
     "code": "JM",
     "region": "LATIN AMER. & CARIB",
@@ -808,6 +909,7 @@
     "gdp": 3900
   },
   {
+    "id": 104,
     "name": "Japan",
     "code": "JP",
     "region": "ASIA (EX. NEAR EAST)",
@@ -816,6 +918,7 @@
     "gdp": 28200
   },
   {
+    "id": 106,
     "name": "Jordan",
     "code": "JO",
     "region": "NEAR EAST",
@@ -824,6 +927,7 @@
     "gdp": 4300
   },
   {
+    "id": 107,
     "name": "Kazakhstan",
     "code": "KZ",
     "region": "C.W. OF IND. STATES",
@@ -832,6 +936,7 @@
     "gdp": 6300
   },
   {
+    "id": 108,
     "name": "Kenya",
     "code": "KE",
     "region": "SUB-SAHARAN AFRICA",
@@ -840,6 +945,7 @@
     "gdp": 1000
   },
   {
+    "id": 109,
     "name": "Kiribati",
     "code": "KI",
     "region": "OCEANIA",
@@ -848,6 +954,7 @@
     "gdp": 800
   },
   {
+    "id": 110,
     "name": "Korea, Democratic People's Republic Of",
     "code": "KP",
     "region": "ASIA (EX. NEAR EAST)",
@@ -856,6 +963,7 @@
     "gdp": 1300
   },
   {
+    "id": 111,
     "name": "Korea, Republic Of",
     "code": "KR",
     "region": "ASIA (EX. NEAR EAST)",
@@ -864,6 +972,7 @@
     "gdp": 17800
   },
   {
+    "id": 112,
     "name": "Kuwait",
     "code": "KW",
     "region": "NEAR EAST",
@@ -872,6 +981,7 @@
     "gdp": 19000
   },
   {
+    "id": 113,
     "name": "Kyrgyzstan",
     "code": "KG",
     "region": "C.W. OF IND. STATES",
@@ -880,6 +990,7 @@
     "gdp": 1600
   },
   {
+    "id": 114,
     "name": "Laos",
     "code": "LA",
     "region": "ASIA (EX. NEAR EAST)",
@@ -888,6 +999,7 @@
     "gdp": 1700
   },
   {
+    "id": 115,
     "name": "Latvia",
     "code": "LV",
     "region": "BALTICS",
@@ -896,6 +1008,7 @@
     "gdp": 10200
   },
   {
+    "id": 116,
     "name": "Lebanon",
     "code": "LB",
     "region": "NEAR EAST",
@@ -904,6 +1017,7 @@
     "gdp": 4800
   },
   {
+    "id": 117,
     "name": "Lesotho",
     "code": "LS",
     "region": "SUB-SAHARAN AFRICA",
@@ -912,6 +1026,7 @@
     "gdp": 3000
   },
   {
+    "id": 118,
     "name": "Liberia",
     "code": "LR",
     "region": "SUB-SAHARAN AFRICA",
@@ -920,6 +1035,7 @@
     "gdp": 1000
   },
   {
+    "id": 119,
     "name": "Libya",
     "code": "LY",
     "region": "NORTHERN AFRICA",
@@ -928,6 +1044,7 @@
     "gdp": 6400
   },
   {
+    "id": 120,
     "name": "Liechtenstein",
     "code": "LI",
     "region": "WESTERN EUROPE",
@@ -936,6 +1053,7 @@
     "gdp": 25000
   },
   {
+    "id": 121,
     "name": "Lithuania",
     "code": "LT",
     "region": "BALTICS",
@@ -944,6 +1062,7 @@
     "gdp": 11400
   },
   {
+    "id": 122,
     "name": "Luxembourg",
     "code": "LU",
     "region": "WESTERN EUROPE",
@@ -952,6 +1071,7 @@
     "gdp": 55100
   },
   {
+    "id": 123,
     "name": "Macau",
     "code": "MO",
     "region": "ASIA (EX. NEAR EAST)",
@@ -960,6 +1080,7 @@
     "gdp": 19400
   },
   {
+    "id": 124,
     "name": "Macedonia",
     "code": "MK",
     "region": "EASTERN EUROPE",
@@ -968,6 +1089,7 @@
     "gdp": 6700
   },
   {
+    "id": 125,
     "name": "Madagascar",
     "code": "MG",
     "region": "SUB-SAHARAN AFRICA",
@@ -976,6 +1098,7 @@
     "gdp": 800
   },
   {
+    "id": 126,
     "name": "Malawi",
     "code": "MW",
     "region": "SUB-SAHARAN AFRICA",
@@ -984,6 +1107,7 @@
     "gdp": 600
   },
   {
+    "id": 127,
     "name": "Malaysia",
     "code": "MY",
     "region": "ASIA (EX. NEAR EAST)",
@@ -992,6 +1116,7 @@
     "gdp": 9000
   },
   {
+    "id": 128,
     "name": "Maldives",
     "code": "MV",
     "region": "ASIA (EX. NEAR EAST)",
@@ -1000,6 +1125,7 @@
     "gdp": 3900
   },
   {
+    "id": 129,
     "name": "Mali",
     "code": "ML",
     "region": "SUB-SAHARAN AFRICA",
@@ -1008,6 +1134,7 @@
     "gdp": 900
   },
   {
+    "id": 130,
     "name": "Malta",
     "code": "MT",
     "region": "WESTERN EUROPE",
@@ -1016,6 +1143,7 @@
     "gdp": 17700
   },
   {
+    "id": 131,
     "name": "Marshall Islands",
     "code": "MH",
     "region": "OCEANIA",
@@ -1024,6 +1152,7 @@
     "gdp": 1600
   },
   {
+    "id": 132,
     "name": "Martinique",
     "code": "MQ",
     "region": "LATIN AMER. & CARIB",
@@ -1032,6 +1161,7 @@
     "gdp": 14400
   },
   {
+    "id": 133,
     "name": "Mauritania",
     "code": "MR",
     "region": "SUB-SAHARAN AFRICA",
@@ -1040,6 +1170,7 @@
     "gdp": 1800
   },
   {
+    "id": 134,
     "name": "Mauritius",
     "code": "MU",
     "region": "SUB-SAHARAN AFRICA",
@@ -1048,6 +1179,7 @@
     "gdp": 11400
   },
   {
+    "id": 135,
     "name": "Mayotte",
     "code": "YT",
     "region": "SUB-SAHARAN AFRICA",
@@ -1056,6 +1188,7 @@
     "gdp": 2600
   },
   {
+    "id": 136,
     "name": "Mexico",
     "code": "MX",
     "region": "LATIN AMER. & CARIB",
@@ -1064,6 +1197,7 @@
     "gdp": 9000
   },
   {
+    "id": 137,
     "name": "Micronesia, Federated States Of",
     "code": "FM",
     "region": "OCEANIA",
@@ -1072,6 +1206,7 @@
     "gdp": 2000
   },
   {
+    "id": 139,
     "name": "Monaco",
     "code": "MC",
     "region": "WESTERN EUROPE",
@@ -1080,6 +1215,7 @@
     "gdp": 27000
   },
   {
+    "id": 140,
     "name": "Mongolia",
     "code": "MN",
     "region": "ASIA (EX. NEAR EAST)",
@@ -1088,6 +1224,7 @@
     "gdp": 1800
   },
   {
+    "id": 141,
     "name": "Montserrat",
     "code": "MS",
     "region": "LATIN AMER. & CARIB",
@@ -1096,6 +1233,7 @@
     "gdp": 3400
   },
   {
+    "id": 142,
     "name": "Morocco",
     "code": "MA",
     "region": "NORTHERN AFRICA",
@@ -1104,6 +1242,7 @@
     "gdp": 4000
   },
   {
+    "id": 143,
     "name": "Mozambique",
     "code": "MZ",
     "region": "SUB-SAHARAN AFRICA",
@@ -1112,6 +1251,7 @@
     "gdp": 1200
   },
   {
+    "id": 144,
     "name": "Namibia",
     "code": "NA",
     "region": "SUB-SAHARAN AFRICA",
@@ -1120,6 +1260,7 @@
     "gdp": 7200
   },
   {
+    "id": 145,
     "name": "Nauru",
     "code": "NR",
     "region": "OCEANIA",
@@ -1128,6 +1269,7 @@
     "gdp": 5000
   },
   {
+    "id": 146,
     "name": "Nepal",
     "code": "NP",
     "region": "ASIA (EX. NEAR EAST)",
@@ -1136,6 +1278,7 @@
     "gdp": 1400
   },
   {
+    "id": 147,
     "name": "Netherlands",
     "code": "NL",
     "region": "WESTERN EUROPE",
@@ -1144,6 +1287,7 @@
     "gdp": 28600
   },
   {
+    "id": 148,
     "name": "Netherlands Antilles",
     "code": "AN",
     "region": "LATIN AMER. & CARIB",
@@ -1152,6 +1296,7 @@
     "gdp": 11400
   },
   {
+    "id": 149,
     "name": "New Caledonia",
     "code": "NC",
     "region": "OCEANIA",
@@ -1160,6 +1305,7 @@
     "gdp": 15000
   },
   {
+    "id": 150,
     "name": "New Zealand",
     "code": "NZ",
     "region": "OCEANIA",
@@ -1168,6 +1314,7 @@
     "gdp": 21600
   },
   {
+    "id": 151,
     "name": "Nicaragua",
     "code": "NI",
     "region": "LATIN AMER. & CARIB",
@@ -1176,6 +1323,7 @@
     "gdp": 2300
   },
   {
+    "id": 152,
     "name": "Niger",
     "code": "NE",
     "region": "SUB-SAHARAN AFRICA",
@@ -1184,6 +1332,7 @@
     "gdp": 800
   },
   {
+    "id": 153,
     "name": "Nigeria",
     "code": "NG",
     "region": "SUB-SAHARAN AFRICA",
@@ -1192,6 +1341,7 @@
     "gdp": 900
   },
   {
+    "id": 155,
     "name": "Norway",
     "code": "NO",
     "region": "WESTERN EUROPE",
@@ -1200,6 +1350,7 @@
     "gdp": 37800
   },
   {
+    "id": 156,
     "name": "Oman",
     "code": "OM",
     "region": "NEAR EAST",
@@ -1208,6 +1359,7 @@
     "gdp": 13100
   },
   {
+    "id": 157,
     "name": "Pakistan",
     "code": "PK",
     "region": "ASIA (EX. NEAR EAST)",
@@ -1216,6 +1368,7 @@
     "gdp": 2100
   },
   {
+    "id": 158,
     "name": "Palau",
     "code": "PW",
     "region": "OCEANIA",
@@ -1224,6 +1377,7 @@
     "gdp": 9000
   },
   {
+    "id": 159,
     "name": "Panama",
     "code": "PA",
     "region": "LATIN AMER. & CARIB",
@@ -1232,6 +1386,7 @@
     "gdp": 6300
   },
   {
+    "id": 160,
     "name": "Papua New Guinea",
     "code": "PG",
     "region": "OCEANIA",
@@ -1240,6 +1395,7 @@
     "gdp": 2200
   },
   {
+    "id": 161,
     "name": "Paraguay",
     "code": "PY",
     "region": "LATIN AMER. & CARIB",
@@ -1248,6 +1404,7 @@
     "gdp": 4700
   },
   {
+    "id": 162,
     "name": "Peru",
     "code": "PE",
     "region": "LATIN AMER. & CARIB",
@@ -1256,6 +1413,7 @@
     "gdp": 5100
   },
   {
+    "id": 163,
     "name": "Philippines",
     "code": "PH",
     "region": "ASIA (EX. NEAR EAST)",
@@ -1264,6 +1422,7 @@
     "gdp": 4600
   },
   {
+    "id": 164,
     "name": "Poland",
     "code": "PL",
     "region": "EASTERN EUROPE",
@@ -1272,6 +1431,7 @@
     "gdp": 11100
   },
   {
+    "id": 165,
     "name": "Portugal",
     "code": "PT",
     "region": "WESTERN EUROPE",
@@ -1280,6 +1440,7 @@
     "gdp": 18000
   },
   {
+    "id": 166,
     "name": "Puerto Rico",
     "code": "PR",
     "region": "LATIN AMER. & CARIB",
@@ -1288,6 +1449,7 @@
     "gdp": 16800
   },
   {
+    "id": 167,
     "name": "Qatar",
     "code": "QA",
     "region": "NEAR EAST",
@@ -1296,6 +1458,7 @@
     "gdp": 21500
   },
   {
+    "id": 168,
     "name": "Reunion",
     "code": "RE",
     "region": "SUB-SAHARAN AFRICA",
@@ -1304,6 +1467,7 @@
     "gdp": 5800
   },
   {
+    "id": 169,
     "name": "Romania",
     "code": "RO",
     "region": "EASTERN EUROPE",
@@ -1312,6 +1476,7 @@
     "gdp": 7000
   },
   {
+    "id": 170,
     "name": "Russia",
     "code": "RU",
     "region": "C.W. OF IND. STATES",
@@ -1320,6 +1485,7 @@
     "gdp": 8900
   },
   {
+    "id": 171,
     "name": "Rwanda",
     "code": "RW",
     "region": "SUB-SAHARAN AFRICA",
@@ -1328,6 +1494,7 @@
     "gdp": 1300
   },
   {
+    "id": 172,
     "name": "Saint Helena",
     "code": "SH",
     "region": "SUB-SAHARAN AFRICA",
@@ -1336,6 +1503,7 @@
     "gdp": 2500
   },
   {
+    "id": 173,
     "name": "Saint Kitts & Nevis",
     "code": "KN",
     "region": "LATIN AMER. & CARIB",
@@ -1344,6 +1512,7 @@
     "gdp": 8800
   },
   {
+    "id": 174,
     "name": "Saint Lucia",
     "code": "LC",
     "region": "LATIN AMER. & CARIB",
@@ -1352,6 +1521,7 @@
     "gdp": 5400
   },
   {
+    "id": 176,
     "name": "Saint Vincent & the Grenadines",
     "code": "VC",
     "region": "LATIN AMER. & CARIB",
@@ -1360,6 +1530,7 @@
     "gdp": 2900
   },
   {
+    "id": 177,
     "name": "Samoa",
     "code": "WS",
     "region": "OCEANIA",
@@ -1368,6 +1539,7 @@
     "gdp": 5600
   },
   {
+    "id": 178,
     "name": "San Marino",
     "code": "SM",
     "region": "WESTERN EUROPE",
@@ -1376,6 +1548,7 @@
     "gdp": 34600
   },
   {
+    "id": 179,
     "name": "Sao Tome & Principe",
     "code": "ST",
     "region": "SUB-SAHARAN AFRICA",
@@ -1384,6 +1557,7 @@
     "gdp": 1200
   },
   {
+    "id": 180,
     "name": "Saudi Arabia",
     "code": "SA",
     "region": "NEAR EAST",
@@ -1392,6 +1566,7 @@
     "gdp": 11800
   },
   {
+    "id": 181,
     "name": "Senegal",
     "code": "SN",
     "region": "SUB-SAHARAN AFRICA",
@@ -1400,6 +1575,7 @@
     "gdp": 1600
   },
   {
+    "id": 182,
     "name": "Serbia",
     "code": "RS",
     "region": "EASTERN EUROPE",
@@ -1408,6 +1584,7 @@
     "gdp": 2200
   },
   {
+    "id": 183,
     "name": "Seychelles",
     "code": "SC",
     "region": "SUB-SAHARAN AFRICA",
@@ -1416,6 +1593,7 @@
     "gdp": 7800
   },
   {
+    "id": 184,
     "name": "Sierra Leone",
     "code": "SL",
     "region": "SUB-SAHARAN AFRICA",
@@ -1424,6 +1602,7 @@
     "gdp": 500
   },
   {
+    "id": 185,
     "name": "Singapore",
     "code": "SG",
     "region": "ASIA (EX. NEAR EAST)",
@@ -1432,6 +1611,7 @@
     "gdp": 23700
   },
   {
+    "id": 186,
     "name": "Slovakia",
     "code": "SK",
     "region": "EASTERN EUROPE",
@@ -1440,6 +1620,7 @@
     "gdp": 13300
   },
   {
+    "id": 187,
     "name": "Slovenia",
     "code": "SI",
     "region": "EASTERN EUROPE",
@@ -1448,6 +1629,7 @@
     "gdp": 19000
   },
   {
+    "id": 188,
     "name": "Solomon Islands",
     "code": "SB",
     "region": "OCEANIA",
@@ -1456,6 +1638,7 @@
     "gdp": 1700
   },
   {
+    "id": 189,
     "name": "Somalia",
     "code": "SO",
     "region": "SUB-SAHARAN AFRICA",
@@ -1464,6 +1647,7 @@
     "gdp": 500
   },
   {
+    "id": 190,
     "name": "South Africa",
     "code": "ZA",
     "region": "SUB-SAHARAN AFRICA",
@@ -1472,6 +1656,7 @@
     "gdp": 10700
   },
   {
+    "id": 191,
     "name": "Spain",
     "code": "ES",
     "region": "WESTERN EUROPE",
@@ -1480,6 +1665,7 @@
     "gdp": 22000
   },
   {
+    "id": 192,
     "name": "Sri Lanka",
     "code": "LK",
     "region": "ASIA (EX. NEAR EAST)",
@@ -1488,6 +1674,7 @@
     "gdp": 3700
   },
   {
+    "id": 193,
     "name": "Sudan",
     "code": "SD",
     "region": "SUB-SAHARAN AFRICA",
@@ -1496,6 +1683,7 @@
     "gdp": 1900
   },
   {
+    "id": 194,
     "name": "Suriname",
     "code": "SR",
     "region": "LATIN AMER. & CARIB",
@@ -1504,6 +1692,7 @@
     "gdp": 4000
   },
   {
+    "id": 195,
     "name": "Swaziland",
     "code": "SZ",
     "region": "SUB-SAHARAN AFRICA",
@@ -1512,6 +1701,7 @@
     "gdp": 4900
   },
   {
+    "id": 196,
     "name": "Sweden",
     "code": "SE",
     "region": "WESTERN EUROPE",
@@ -1520,6 +1710,7 @@
     "gdp": 26800
   },
   {
+    "id": 197,
     "name": "Switzerland",
     "code": "CH",
     "region": "WESTERN EUROPE",
@@ -1528,6 +1719,7 @@
     "gdp": 32700
   },
   {
+    "id": 198,
     "name": "Syrian Arab Republic",
     "code": "SY",
     "region": "NEAR EAST",
@@ -1536,6 +1728,7 @@
     "gdp": 3300
   },
   {
+    "id": 199,
     "name": "Taiwan",
     "code": "TW",
     "region": "ASIA (EX. NEAR EAST)",
@@ -1544,6 +1737,7 @@
     "gdp": 23400
   },
   {
+    "id": 200,
     "name": "Tajikistan",
     "code": "TJ",
     "region": "C.W. OF IND. STATES",
@@ -1552,6 +1746,7 @@
     "gdp": 1000
   },
   {
+    "id": 201,
     "name": "Tanzania",
     "code": "TZ",
     "region": "SUB-SAHARAN AFRICA",
@@ -1560,6 +1755,7 @@
     "gdp": 600
   },
   {
+    "id": 202,
     "name": "Thailand",
     "code": "TH",
     "region": "ASIA (EX. NEAR EAST)",
@@ -1568,6 +1764,7 @@
     "gdp": 7400
   },
   {
+    "id": 203,
     "name": "Togo",
     "code": "TG",
     "region": "SUB-SAHARAN AFRICA",
@@ -1576,6 +1773,7 @@
     "gdp": 1500
   },
   {
+    "id": 204,
     "name": "Tonga",
     "code": "TO",
     "region": "OCEANIA",
@@ -1584,6 +1782,7 @@
     "gdp": 2200
   },
   {
+    "id": 205,
     "name": "Trinidad & Tobago",
     "code": "TT",
     "region": "LATIN AMER. & CARIB",
@@ -1592,6 +1791,7 @@
     "gdp": 9500
   },
   {
+    "id": 206,
     "name": "Tunisia",
     "code": "TN",
     "region": "NORTHERN AFRICA",
@@ -1600,6 +1800,7 @@
     "gdp": 6900
   },
   {
+    "id": 207,
     "name": "Turkey",
     "code": "TR",
     "region": "NEAR EAST",
@@ -1608,6 +1809,7 @@
     "gdp": 6700
   },
   {
+    "id": 208,
     "name": "Turkmenistan",
     "code": "TM",
     "region": "C.W. OF IND. STATES",
@@ -1616,6 +1818,7 @@
     "gdp": 5800
   },
   {
+    "id": 210,
     "name": "Tuvalu",
     "code": "TV",
     "region": "OCEANIA",
@@ -1624,6 +1827,7 @@
     "gdp": 1100
   },
   {
+    "id": 211,
     "name": "Uganda",
     "code": "UG",
     "region": "SUB-SAHARAN AFRICA",
@@ -1632,6 +1836,7 @@
     "gdp": 1400
   },
   {
+    "id": 212,
     "name": "Ukraine",
     "code": "UA",
     "region": "C.W. OF IND. STATES",
@@ -1640,6 +1845,7 @@
     "gdp": 5400
   },
   {
+    "id": 213,
     "name": "United Arab Emirates",
     "code": "AE",
     "region": "NEAR EAST",
@@ -1648,6 +1854,7 @@
     "gdp": 23200
   },
   {
+    "id": 214,
     "name": "United Kingdom",
     "code": "GB",
     "region": "WESTERN EUROPE",
@@ -1656,6 +1863,7 @@
     "gdp": 27700
   },
   {
+    "id": 215,
     "name": "United States",
     "code": "US",
     "region": "NORTHERN AMERICA",
@@ -1664,6 +1872,7 @@
     "gdp": 37800
   },
   {
+    "id": 216,
     "name": "Uruguay",
     "code": "UY",
     "region": "LATIN AMER. & CARIB",
@@ -1672,6 +1881,7 @@
     "gdp": 12800
   },
   {
+    "id": 217,
     "name": "Uzbekistan",
     "code": "UZ",
     "region": "C.W. OF IND. STATES",
@@ -1680,6 +1890,7 @@
     "gdp": 1700
   },
   {
+    "id": 218,
     "name": "Vanuatu",
     "code": "VU",
     "region": "OCEANIA",
@@ -1688,6 +1899,7 @@
     "gdp": 2900
   },
   {
+    "id": 219,
     "name": "Venezuela",
     "code": "VE",
     "region": "LATIN AMER. & CARIB",
@@ -1696,6 +1908,7 @@
     "gdp": 4800
   },
   {
+    "id": 220,
     "name": "Vietnam",
     "code": "VN",
     "region": "ASIA (EX. NEAR EAST)",
@@ -1704,6 +1917,7 @@
     "gdp": 2500
   },
   {
+    "id": 221,
     "name": "Virgin Islands, U.s.",
     "code": "VI",
     "region": "LATIN AMER. & CARIB",
@@ -1712,6 +1926,7 @@
     "gdp": 17200
   },
   {
+    "id": 222,
     "name": "Wallis & Futuna",
     "code": "WF",
     "region": "OCEANIA",
@@ -1720,6 +1935,7 @@
     "gdp": 3700
   },
   {
+    "id": 224,
     "name": "Western Sahara",
     "code": "EH",
     "region": "NORTHERN AFRICA",
@@ -1728,6 +1944,7 @@
     "gdp": null
   },
   {
+    "id": 225,
     "name": "Yemen",
     "code": "YE",
     "region": "NEAR EAST",
@@ -1736,6 +1953,7 @@
     "gdp": 800
   },
   {
+    "id": 226,
     "name": "Zambia",
     "code": "ZM",
     "region": "SUB-SAHARAN AFRICA",
@@ -1744,6 +1962,7 @@
     "gdp": 800
   },
   {
+    "id": 227,
     "name": "Zimbabwe",
     "code": "ZW",
     "region": "SUB-SAHARAN AFRICA",

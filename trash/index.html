@@ -109,7 +109,7 @@
       return countryCodeName;
     }
     
-    fetch('countries.json').then(response => {
+    fetch('./countries-unparsed.json').then(response => {
       response.json().then(countries => {
         var infoArray = countries.info.map(country => {
           country.Country = applyCountryCodeReplacements(country.Country);
@@ -119,8 +119,9 @@
           country.name = applyCountryCodeReplacements(country.name);
           return country;
         });
-        var smallerCountries = infoArray.map(country => {
+        var smallerCountries = infoArray.map((country, index) => {
           return {
+            id: index + 1,
             name: country.Country,
             code: (codesArray.find(item => {
               return item.name.toLowerCase() === country.Country.toLowerCase()
