@@ -90,7 +90,6 @@ function paginationLinks(page, size, sort, filteredItemsLength) {
   if (page > maxPageNumber) {
     page = maxPageNumber;
   }
-  var url = 'http://localhost:3000';
   var secondPart = `&page[size]=${size}&sort=${sort}`;
   var paginationLinks = {};
   var firstQueryParams = encodeURI(`page[number]=1${secondPart}`);
@@ -98,14 +97,14 @@ function paginationLinks(page, size, sort, filteredItemsLength) {
   var selfQueryParams = encodeURI(`page[number]=${page}${secondPart}`);
   var prevQueryParams = encodeURI(`page[number]=${page - 1}${secondPart}`);
   var nextQueryParams = encodeURI(`page[number]=${page + 1}${secondPart}`);
-  paginationLinks.last = `${url}?${lastQueryParams}`;
-  paginationLinks.first = `${url}?${firstQueryParams}`;
-  paginationLinks.self = `${url}?${selfQueryParams}`;
+  paginationLinks.last = `/countries?${lastQueryParams}`;
+  paginationLinks.first = `/countries?${firstQueryParams}`;
+  paginationLinks.self = `/countries?${selfQueryParams}`;
   if (page > 1) {
-    paginationLinks.prev = `${url}?${prevQueryParams}`;
+    paginationLinks.prev = `/countries?${prevQueryParams}`;
   }
   if (paginationLinks.self !== paginationLinks.last) {
-    paginationLinks.next = `${url}?${nextQueryParams}`;
+    paginationLinks.next = `/countries?${nextQueryParams}`;
   }
   return paginationLinks;
 }
@@ -116,24 +115,24 @@ function sortedItems(items, sortProp) {
   }
   var direction = sortProp.charAt(0) === '-' ? 'desc' : 'asc';
   sortProp = sortProp.charAt(0) === '-' ? sortProp.replace('-', '') : sortProp;
-  var dateFields = ['paymentDate'];
   var sortedItems;
   if (direction === 'asc') {
-    sortedItems = items.sort(function(a, b){
-      if (dateFields.indexOf(sortProp) > -1) {
-        return moment(a[sortProp]).toDate() - moment(b[sortProp]).toDate();
-      } else {
+    if (sortProp === 'name') {
+      sortedItems = items.sort();
+    } else {
+      sortedItems = items.sort(function(a, b){
         return a[sortProp] - b[sortProp];
-      }
-    });
+      });
+    }
+    
   } else {
-    sortedItems = items.sort(function(a, b){
-      if (dateFields.indexOf(sortProp) > -1) {
-        return moment(b[sortProp]).toDate() - moment(a[sortProp]).toDate();
-      } else {
+    if (sortProp === 'name') {
+      sortedItems = items.reverse();
+    } else {
+      sortedItems = items.sort(function(a, b){
         return b[sortProp] - a[sortProp];
-      }
-    });
+      });
+    }
   }
   return sortedItems;
 }
