@@ -6,7 +6,26 @@
     "region": "ASIA (EX. NEAR EAST)",
     "population": 31056997,
     "area": 647500,
-    "gdp": 700
+    "gdp": 700,
+    "population_density": "48,0",
+    "net_migration": "23,06",
+    "infant_mortality": "163,07",
+    "literacy": "36,0",
+    "phones_per_1000": "3,2",
+    "arable_land_percentage": "12,13",
+    "land_types": {
+      "crops_percentage": "0,22",
+      "other_percentage": "87,65"
+    },
+    "climate": "1",
+    "birthrate": "46,6",
+    "deathrate": "20,34",
+    "agriculture": "0,38",
+    "industry": "0,24",
+    "service": "0,38",
+    "latitude": 33.93911,
+    "longitude": 67.709953,
+    "capital": "Kabul"
   },
   {
     "id": 2,
@@ -15,7 +34,26 @@
     "region": "EASTERN EUROPE",
     "population": 3581655,
     "area": 28748,
-    "gdp": 4500
+    "gdp": 4500,
+    "population_density": "124,6",
+    "net_migration": "-4,93",
+    "infant_mortality": "21,52",
+    "literacy": "86,5",
+    "phones_per_1000": "71,2",
+    "arable_land_percentage": "21,09",
+    "land_types": {
+      "crops_percentage": "4,42",
+      "other_percentage": "74,49"
+    },
+    "climate": "3",
+    "birthrate": "15,11",
+    "deathrate": "5,22",
+    "agriculture": "0,232",
+    "industry": "0,188",
+    "service": "0,579",
+    "latitude": 41.153332,
+    "longitude": 20.168331,
+    "capital": "Tirana"
   },
   {
     "id": 3,
@@ -24,7 +62,26 @@
     "region": "NORTHERN AFRICA",
     "population": 32930091,
     "area": 2381740,
-    "gdp": 6000
+    "gdp": 6000,
+    "population_density": "13,8",
+    "net_migration": "-0,39",
+    "infant_mortality": "31",
+    "literacy": "70,0",
+    "phones_per_1000": "78,1",
+    "arable_land_percentage": "3,22",
+    "land_types": {
+      "crops_percentage": "0,25",
+      "other_percentage": "96,53"
+    },
+    "climate": "1",
+    "birthrate": "17,14",
+    "deathrate": "4,61",
+    "agriculture": "0,101",
+    "industry": "0,6",
+    "service": "0,298",
+    "latitude": 28.033886,
+    "longitude": 1.659626,
+    "capital": "Algiers"
   },
   {
     "id": 4,
@@ -33,7 +90,25 @@
     "region": "OCEANIA",
     "population": 57794,
     "area": 199,
-    "gdp": 8000
+    "gdp": 8000,
+    "population_density": "290,4",
+    "net_migration": "-20,71",
+    "infant_mortality": "9,27",
+    "literacy": "97,0",
+    "phones_per_1000": "259,5",
+    "arable_land_percentage": "10",
+    "land_types": {
+      "crops_percentage": "15",
+      "other_percentage": "75"
+    },
+    "climate": "2",
+    "birthrate": "22,46",
+    "deathrate": "3,27",
+    "agriculture": "",
+    "industry": "",
+    "service": "",
+    "latitude": -14.270972,
+    "longitude": -170.132217
   },
   {
     "id": 5,
@@ -42,7 +117,26 @@
     "region": "WESTERN EUROPE",
     "population": 71201,
     "area": 468,
-    "gdp": 19000
+    "gdp": 19000,
+    "population_density": "152,1",
+    "net_migration": "6,6",
+    "infant_mortality": "4,05",
+    "literacy": "100,0",
+    "phones_per_1000": "497,2",
+    "arable_land_percentage": "2,22",
+    "land_types": {
+      "crops_percentage": "0",
+      "other_percentage": "97,78"
+    },
+    "climate": "3",
+    "birthrate": "8,71",
+    "deathrate": "6,25",
+    "agriculture": "",
+    "industry": "",
+    "service": "",
+    "latitude": 42.546245,
+    "longitude": 1.601554,
+    "capital": "Andorra la Vella"
   },
   {
     "id": 6,
@@ -51,7 +145,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 12127071,
     "area": 1246700,
-    "gdp": 1900
+    "gdp": 1900,
+    "population_density": "9,7",
+    "net_migration": "0",
+    "infant_mortality": "191,19",
+    "literacy": "42,0",
+    "phones_per_1000": "7,8",
+    "arable_land_percentage": "2,41",
+    "land_types": {
+      "crops_percentage": "0,24",
+      "other_percentage": "97,35"
+    },
+    "climate": "",
+    "birthrate": "45,11",
+    "deathrate": "24,2",
+    "agriculture": "0,096",
+    "industry": "0,658",
+    "service": "0,246",
+    "latitude": -11.202692,
+    "longitude": 17.873887,
+    "capital": "Luanda"
   },
   {
     "id": 7,
@@ -60,16 +173,53 @@
     "region": "LATIN AMER. & CARIB",
     "population": 13477,
     "area": 102,
-    "gdp": 8600
+    "gdp": 8600,
+    "population_density": "132,1",
+    "net_migration": "10,76",
+    "infant_mortality": "21,03",
+    "literacy": "95,0",
+    "phones_per_1000": "460,0",
+    "arable_land_percentage": "0",
+    "land_types": {
+      "crops_percentage": "0",
+      "other_percentage": "100"
+    },
+    "climate": "2",
+    "birthrate": "14,17",
+    "deathrate": "5,34",
+    "agriculture": "0,04",
+    "industry": "0,18",
+    "service": "0,78",
+    "latitude": 18.220554,
+    "longitude": -63.068615
   },
   {
     "id": 8,
-    "name": "Antigua & Barbuda",
+    "name": "Antigua and Barbuda",
     "code": "AG",
     "region": "LATIN AMER. & CARIB",
     "population": 69108,
     "area": 443,
-    "gdp": 11000
+    "gdp": 11000,
+    "population_density": "156,0",
+    "net_migration": "-6,15",
+    "infant_mortality": "19,46",
+    "literacy": "89,0",
+    "phones_per_1000": "549,9",
+    "arable_land_percentage": "18,18",
+    "land_types": {
+      "crops_percentage": "4,55",
+      "other_percentage": "77,27"
+    },
+    "climate": "2",
+    "birthrate": "16,93",
+    "deathrate": "5,37",
+    "agriculture": "0,038",
+    "industry": "0,22",
+    "service": "0,743",
+    "latitude": 17.060816,
+    "longitude": -61.796428,
+    "capital": "St. John's"
   },
   {
     "id": 9,
@@ -78,7 +228,26 @@
     "region": "LATIN AMER. & CARIB",
     "population": 39921833,
     "area": 2766890,
-    "gdp": 11200
+    "gdp": 11200,
+    "population_density": "14,4",
+    "net_migration": "0,61",
+    "infant_mortality": "15,18",
+    "literacy": "97,1",
+    "phones_per_1000": "220,4",
+    "arable_land_percentage": "12,31",
+    "land_types": {
+      "crops_percentage": "0,48",
+      "other_percentage": "87,21"
+    },
+    "climate": "3",
+    "birthrate": "16,73",
+    "deathrate": "7,55",
+    "agriculture": "0,095",
+    "industry": "0,358",
+    "service": "0,547",
+    "latitude": -38.416097,
+    "longitude": -63.616672,
+    "capital": "Buenos Aires"
   },
   {
     "id": 10,
@@ -87,7 +256,26 @@
     "region": "C.W. OF IND. STATES",
     "population": 2976372,
     "area": 29800,
-    "gdp": 3500
+    "gdp": 3500,
+    "population_density": "99,9",
+    "net_migration": "-6,47",
+    "infant_mortality": "23,28",
+    "literacy": "98,6",
+    "phones_per_1000": "195,7",
+    "arable_land_percentage": "17,55",
+    "land_types": {
+      "crops_percentage": "2,3",
+      "other_percentage": "80,15"
+    },
+    "climate": "4",
+    "birthrate": "12,07",
+    "deathrate": "8,23",
+    "agriculture": "0,239",
+    "industry": "0,343",
+    "service": "0,418",
+    "latitude": 40.069099,
+    "longitude": 45.038189,
+    "capital": "Yerevan"
   },
   {
     "id": 11,
@@ -96,7 +284,25 @@
     "region": "LATIN AMER. & CARIB",
     "population": 71891,
     "area": 193,
-    "gdp": 28000
+    "gdp": 28000,
+    "population_density": "372,5",
+    "net_migration": "0",
+    "infant_mortality": "5,89",
+    "literacy": "97,0",
+    "phones_per_1000": "516,1",
+    "arable_land_percentage": "10,53",
+    "land_types": {
+      "crops_percentage": "0",
+      "other_percentage": "89,47"
+    },
+    "climate": "2",
+    "birthrate": "11,03",
+    "deathrate": "6,68",
+    "agriculture": "0,004",
+    "industry": "0,333",
+    "service": "0,663",
+    "latitude": 12.52111,
+    "longitude": -69.968338
   },
   {
     "id": 12,
@@ -105,7 +311,26 @@
     "region": "OCEANIA",
     "population": 20264082,
     "area": 7686850,
-    "gdp": 29000
+    "gdp": 29000,
+    "population_density": "2,6",
+    "net_migration": "3,98",
+    "infant_mortality": "4,69",
+    "literacy": "100,0",
+    "phones_per_1000": "565,5",
+    "arable_land_percentage": "6,55",
+    "land_types": {
+      "crops_percentage": "0,04",
+      "other_percentage": "93,41"
+    },
+    "climate": "1",
+    "birthrate": "12,14",
+    "deathrate": "7,51",
+    "agriculture": "0,038",
+    "industry": "0,262",
+    "service": "0,7",
+    "latitude": -25.274398,
+    "longitude": 133.775136,
+    "capital": "Canberra"
   },
   {
     "id": 13,
@@ -114,7 +339,26 @@
     "region": "WESTERN EUROPE",
     "population": 8192880,
     "area": 83870,
-    "gdp": 30000
+    "gdp": 30000,
+    "population_density": "97,7",
+    "net_migration": "2",
+    "infant_mortality": "4,66",
+    "literacy": "98,0",
+    "phones_per_1000": "452,2",
+    "arable_land_percentage": "16,91",
+    "land_types": {
+      "crops_percentage": "0,86",
+      "other_percentage": "82,23"
+    },
+    "climate": "3",
+    "birthrate": "8,74",
+    "deathrate": "9,76",
+    "agriculture": "0,018",
+    "industry": "0,304",
+    "service": "0,678",
+    "latitude": 47.516231,
+    "longitude": 14.550072,
+    "capital": "Vienna"
   },
   {
     "id": 14,
@@ -123,7 +367,26 @@
     "region": "C.W. OF IND. STATES",
     "population": 7961619,
     "area": 86600,
-    "gdp": 3400
+    "gdp": 3400,
+    "population_density": "91,9",
+    "net_migration": "-4,9",
+    "infant_mortality": "81,74",
+    "literacy": "97,0",
+    "phones_per_1000": "137,1",
+    "arable_land_percentage": "19,63",
+    "land_types": {
+      "crops_percentage": "2,71",
+      "other_percentage": "77,66"
+    },
+    "climate": "1",
+    "birthrate": "20,74",
+    "deathrate": "9,75",
+    "agriculture": "0,141",
+    "industry": "0,457",
+    "service": "0,402",
+    "latitude": 40.143105,
+    "longitude": 47.576927,
+    "capital": "Baku"
   },
   {
     "id": 15,
@@ -132,7 +395,26 @@
     "region": "LATIN AMER. & CARIB",
     "population": 303770,
     "area": 13940,
-    "gdp": 16700
+    "gdp": 16700,
+    "population_density": "21,8",
+    "net_migration": "-2,2",
+    "infant_mortality": "25,21",
+    "literacy": "95,6",
+    "phones_per_1000": "460,6",
+    "arable_land_percentage": "0,8",
+    "land_types": {
+      "crops_percentage": "0,4",
+      "other_percentage": "98,8"
+    },
+    "climate": "2",
+    "birthrate": "17,57",
+    "deathrate": "9,05",
+    "agriculture": "0,03",
+    "industry": "0,07",
+    "service": "0,9",
+    "latitude": 25.03428,
+    "longitude": -77.39628,
+    "capital": "Nassau"
   },
   {
     "id": 16,
@@ -141,7 +423,26 @@
     "region": "NEAR EAST",
     "population": 698585,
     "area": 665,
-    "gdp": 16900
+    "gdp": 16900,
+    "population_density": "1050,5",
+    "net_migration": "1,05",
+    "infant_mortality": "17,27",
+    "literacy": "89,1",
+    "phones_per_1000": "281,3",
+    "arable_land_percentage": "2,82",
+    "land_types": {
+      "crops_percentage": "5,63",
+      "other_percentage": "91,55"
+    },
+    "climate": "1",
+    "birthrate": "17,8",
+    "deathrate": "4,14",
+    "agriculture": "0,005",
+    "industry": "0,387",
+    "service": "0,608",
+    "latitude": 25.930414,
+    "longitude": 50.637772,
+    "capital": "Manama"
   },
   {
     "id": 17,
@@ -150,7 +451,26 @@
     "region": "ASIA (EX. NEAR EAST)",
     "population": 147365352,
     "area": 144000,
-    "gdp": 1900
+    "gdp": 1900,
+    "population_density": "1023,4",
+    "net_migration": "-0,71",
+    "infant_mortality": "62,6",
+    "literacy": "43,1",
+    "phones_per_1000": "7,3",
+    "arable_land_percentage": "62,11",
+    "land_types": {
+      "crops_percentage": "3,07",
+      "other_percentage": "34,82"
+    },
+    "climate": "2",
+    "birthrate": "29,8",
+    "deathrate": "8,27",
+    "agriculture": "0,199",
+    "industry": "0,198",
+    "service": "0,603",
+    "latitude": 23.684994,
+    "longitude": 90.356331,
+    "capital": "Dhaka"
   },
   {
     "id": 18,
@@ -159,7 +479,26 @@
     "region": "LATIN AMER. & CARIB",
     "population": 279912,
     "area": 431,
-    "gdp": 15700
+    "gdp": 15700,
+    "population_density": "649,5",
+    "net_migration": "-0,31",
+    "infant_mortality": "12,5",
+    "literacy": "97,4",
+    "phones_per_1000": "481,9",
+    "arable_land_percentage": "37,21",
+    "land_types": {
+      "crops_percentage": "2,33",
+      "other_percentage": "60,46"
+    },
+    "climate": "2",
+    "birthrate": "12,71",
+    "deathrate": "8,67",
+    "agriculture": "0,06",
+    "industry": "0,16",
+    "service": "0,78",
+    "latitude": 13.193887,
+    "longitude": -59.543198,
+    "capital": "Bridgetown"
   },
   {
     "id": 19,
@@ -168,7 +507,26 @@
     "region": "C.W. OF IND. STATES",
     "population": 10293011,
     "area": 207600,
-    "gdp": 6100
+    "gdp": 6100,
+    "population_density": "49,6",
+    "net_migration": "2,54",
+    "infant_mortality": "13,37",
+    "literacy": "99,6",
+    "phones_per_1000": "319,1",
+    "arable_land_percentage": "29,55",
+    "land_types": {
+      "crops_percentage": "0,6",
+      "other_percentage": "69,85"
+    },
+    "climate": "4",
+    "birthrate": "11,16",
+    "deathrate": "14,02",
+    "agriculture": "0,093",
+    "industry": "0,316",
+    "service": "0,591",
+    "latitude": 53.709807,
+    "longitude": 27.953389,
+    "capital": "Minsk"
   },
   {
     "id": 20,
@@ -177,7 +535,26 @@
     "region": "WESTERN EUROPE",
     "population": 10379067,
     "area": 30528,
-    "gdp": 29100
+    "gdp": 29100,
+    "population_density": "340,0",
+    "net_migration": "1,23",
+    "infant_mortality": "4,68",
+    "literacy": "98,0",
+    "phones_per_1000": "462,6",
+    "arable_land_percentage": "23,28",
+    "land_types": {
+      "crops_percentage": "0,4",
+      "other_percentage": "76,32"
+    },
+    "climate": "3",
+    "birthrate": "10,38",
+    "deathrate": "10,27",
+    "agriculture": "0,01",
+    "industry": "0,24",
+    "service": "0,749",
+    "latitude": 50.503887,
+    "longitude": 4.469936,
+    "capital": "Brussels"
   },
   {
     "id": 21,
@@ -186,7 +563,26 @@
     "region": "LATIN AMER. & CARIB",
     "population": 287730,
     "area": 22966,
-    "gdp": 4900
+    "gdp": 4900,
+    "population_density": "12,5",
+    "net_migration": "0",
+    "infant_mortality": "25,69",
+    "literacy": "94,1",
+    "phones_per_1000": "115,7",
+    "arable_land_percentage": "2,85",
+    "land_types": {
+      "crops_percentage": "1,71",
+      "other_percentage": "95,44"
+    },
+    "climate": "2",
+    "birthrate": "28,84",
+    "deathrate": "5,72",
+    "agriculture": "0,142",
+    "industry": "0,152",
+    "service": "0,612",
+    "latitude": 17.189877,
+    "longitude": -88.49765,
+    "capital": "Belmopan"
   },
   {
     "id": 22,
@@ -195,7 +591,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 7862944,
     "area": 112620,
-    "gdp": 1100
+    "gdp": 1100,
+    "population_density": "69,8",
+    "net_migration": "0",
+    "infant_mortality": "85",
+    "literacy": "40,9",
+    "phones_per_1000": "9,7",
+    "arable_land_percentage": "18,08",
+    "land_types": {
+      "crops_percentage": "2,4",
+      "other_percentage": "79,52"
+    },
+    "climate": "2",
+    "birthrate": "38,85",
+    "deathrate": "12,22",
+    "agriculture": "0,316",
+    "industry": "0,138",
+    "service": "0,546",
+    "latitude": 9.30769,
+    "longitude": 2.315834,
+    "capital": "Porto Novo"
   },
   {
     "id": 23,
@@ -204,7 +619,25 @@
     "region": "NORTHERN AMERICA",
     "population": 65773,
     "area": 53,
-    "gdp": 36000
+    "gdp": 36000,
+    "population_density": "1241,0",
+    "net_migration": "2,49",
+    "infant_mortality": "8,53",
+    "literacy": "98,0",
+    "phones_per_1000": "851,4",
+    "arable_land_percentage": "20",
+    "land_types": {
+      "crops_percentage": "0",
+      "other_percentage": "80"
+    },
+    "climate": "2",
+    "birthrate": "11,4",
+    "deathrate": "7,74",
+    "agriculture": "0,01",
+    "industry": "0,1",
+    "service": "0,89",
+    "latitude": 32.321384,
+    "longitude": -64.75737
   },
   {
     "id": 24,
@@ -213,7 +646,26 @@
     "region": "ASIA (EX. NEAR EAST)",
     "population": 2279723,
     "area": 47000,
-    "gdp": 1300
+    "gdp": 1300,
+    "population_density": "48,5",
+    "net_migration": "0",
+    "infant_mortality": "100,44",
+    "literacy": "42,2",
+    "phones_per_1000": "14,3",
+    "arable_land_percentage": "3,09",
+    "land_types": {
+      "crops_percentage": "0,43",
+      "other_percentage": "96,48"
+    },
+    "climate": "2",
+    "birthrate": "33,65",
+    "deathrate": "12,7",
+    "agriculture": "0,258",
+    "industry": "0,379",
+    "service": "0,363",
+    "latitude": 27.514162,
+    "longitude": 90.433601,
+    "capital": "Thimphu"
   },
   {
     "id": 25,
@@ -222,16 +674,54 @@
     "region": "LATIN AMER. & CARIB",
     "population": 8989046,
     "area": 1098580,
-    "gdp": 2400
+    "gdp": 2400,
+    "population_density": "8,2",
+    "net_migration": "-1,32",
+    "infant_mortality": "53,11",
+    "literacy": "87,2",
+    "phones_per_1000": "71,9",
+    "arable_land_percentage": "2,67",
+    "land_types": {
+      "crops_percentage": "0,19",
+      "other_percentage": "97,14"
+    },
+    "climate": "1,5",
+    "birthrate": "23,3",
+    "deathrate": "7,53",
+    "agriculture": "0,128",
+    "industry": "0,352",
+    "service": "0,52",
+    "latitude": -16.290154,
+    "longitude": -63.588653,
+    "capital": "Sucre"
   },
   {
     "id": 26,
-    "name": "Bosnia & Herzegovina",
+    "name": "Bosnia and Herzegovina",
     "code": "BA",
     "region": "EASTERN EUROPE",
     "population": 4498976,
     "area": 51129,
-    "gdp": 6100
+    "gdp": 6100,
+    "population_density": "88,0",
+    "net_migration": "0,31",
+    "infant_mortality": "21,05",
+    "literacy": "",
+    "phones_per_1000": "215,4",
+    "arable_land_percentage": "13,6",
+    "land_types": {
+      "crops_percentage": "2,96",
+      "other_percentage": "83,44"
+    },
+    "climate": "4",
+    "birthrate": "8,77",
+    "deathrate": "8,27",
+    "agriculture": "0,142",
+    "industry": "0,308",
+    "service": "0,55",
+    "latitude": 43.915886,
+    "longitude": 17.679076,
+    "capital": "Sarajevo"
   },
   {
     "id": 27,
@@ -240,7 +730,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 1639833,
     "area": 600370,
-    "gdp": 9000
+    "gdp": 9000,
+    "population_density": "2,7",
+    "net_migration": "0",
+    "infant_mortality": "54,58",
+    "literacy": "79,8",
+    "phones_per_1000": "80,5",
+    "arable_land_percentage": "0,65",
+    "land_types": {
+      "crops_percentage": "0,01",
+      "other_percentage": "99,34"
+    },
+    "climate": "1",
+    "birthrate": "23,08",
+    "deathrate": "29,5",
+    "agriculture": "0,024",
+    "industry": "0,469",
+    "service": "0,507",
+    "latitude": -22.328474,
+    "longitude": 24.684866,
+    "capital": "Gaborone"
   },
   {
     "id": 28,
@@ -249,16 +758,53 @@
     "region": "LATIN AMER. & CARIB",
     "population": 188078227,
     "area": 8511965,
-    "gdp": 7600
+    "gdp": 7600,
+    "population_density": "22,1",
+    "net_migration": "-0,03",
+    "infant_mortality": "29,61",
+    "literacy": "86,4",
+    "phones_per_1000": "225,3",
+    "arable_land_percentage": "6,96",
+    "land_types": {
+      "crops_percentage": "0,9",
+      "other_percentage": "92,15"
+    },
+    "climate": "2",
+    "birthrate": "16,56",
+    "deathrate": "6,17",
+    "agriculture": "0,084",
+    "industry": "0,4",
+    "service": "0,516",
+    "latitude": -14.235004,
+    "longitude": -51.92528,
+    "capital": "Brasilia"
   },
   {
     "id": 29,
-    "name": "Virgin Islands, British",
+    "name": "British Virgin Islands",
     "code": "VG",
     "region": "LATIN AMER. & CARIB",
     "population": 23098,
     "area": 153,
-    "gdp": 16000
+    "gdp": 16000,
+    "population_density": "151,0",
+    "net_migration": "10,01",
+    "infant_mortality": "18,05",
+    "literacy": "97,8",
+    "phones_per_1000": "506,5",
+    "arable_land_percentage": "20",
+    "land_types": {
+      "crops_percentage": "6,67",
+      "other_percentage": "73,33"
+    },
+    "climate": "2",
+    "birthrate": "14,89",
+    "deathrate": "4,42",
+    "agriculture": "0,018",
+    "industry": "0,062",
+    "service": "0,92",
+    "latitude": 18.420695,
+    "longitude": -64.639968
   },
   {
     "id": 30,
@@ -267,7 +813,26 @@
     "region": "ASIA (EX. NEAR EAST)",
     "population": 379444,
     "area": 5770,
-    "gdp": 18600
+    "gdp": 18600,
+    "population_density": "65,8",
+    "net_migration": "3,59",
+    "infant_mortality": "12,61",
+    "literacy": "93,9",
+    "phones_per_1000": "237,2",
+    "arable_land_percentage": "0,57",
+    "land_types": {
+      "crops_percentage": "0,76",
+      "other_percentage": "98,67"
+    },
+    "climate": "2",
+    "birthrate": "18,79",
+    "deathrate": "3,45",
+    "agriculture": "0,036",
+    "industry": "0,561",
+    "service": "0,403",
+    "latitude": 4.535277,
+    "longitude": 114.727669,
+    "capital": "Bandar Seri Begawan"
   },
   {
     "id": 31,
@@ -276,7 +841,26 @@
     "region": "EASTERN EUROPE",
     "population": 7385367,
     "area": 110910,
-    "gdp": 7600
+    "gdp": 7600,
+    "population_density": "66,6",
+    "net_migration": "-4,58",
+    "infant_mortality": "20,55",
+    "literacy": "98,6",
+    "phones_per_1000": "336,3",
+    "arable_land_percentage": "40,02",
+    "land_types": {
+      "crops_percentage": "1,92",
+      "other_percentage": "58,06"
+    },
+    "climate": "3",
+    "birthrate": "9,65",
+    "deathrate": "14,27",
+    "agriculture": "0,093",
+    "industry": "0,304",
+    "service": "0,603",
+    "latitude": 42.733883,
+    "longitude": 25.48583,
+    "capital": "Sofia"
   },
   {
     "id": 32,
@@ -285,16 +869,54 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 13902972,
     "area": 274200,
-    "gdp": 1100
+    "gdp": 1100,
+    "population_density": "50,7",
+    "net_migration": "0",
+    "infant_mortality": "97,57",
+    "literacy": "26,6",
+    "phones_per_1000": "7,0",
+    "arable_land_percentage": "14,43",
+    "land_types": {
+      "crops_percentage": "0,19",
+      "other_percentage": "85,38"
+    },
+    "climate": "2",
+    "birthrate": "45,62",
+    "deathrate": "15,6",
+    "agriculture": "0,322",
+    "industry": "0,196",
+    "service": "0,482",
+    "latitude": 12.238333,
+    "longitude": -1.561593,
+    "capital": "Ouagadougou"
   },
   {
     "id": 33,
-    "name": "Myanmar",
+    "name": "Myanmar [Burma]",
     "code": "MM",
     "region": "ASIA (EX. NEAR EAST)",
     "population": 47382633,
     "area": 678500,
-    "gdp": 1800
+    "gdp": 1800,
+    "population_density": "69,8",
+    "net_migration": "-1,8",
+    "infant_mortality": "67,24",
+    "literacy": "85,3",
+    "phones_per_1000": "10,1",
+    "arable_land_percentage": "15,19",
+    "land_types": {
+      "crops_percentage": "0,97",
+      "other_percentage": "83,84"
+    },
+    "climate": "2",
+    "birthrate": "17,91",
+    "deathrate": "9,83",
+    "agriculture": "0,564",
+    "industry": "0,082",
+    "service": "0,353",
+    "latitude": 21.913965,
+    "longitude": 95.956223,
+    "capital": "Naypyidaw"
   },
   {
     "id": 34,
@@ -303,7 +925,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 8090068,
     "area": 27830,
-    "gdp": 600
+    "gdp": 600,
+    "population_density": "290,7",
+    "net_migration": "-0,06",
+    "infant_mortality": "69,29",
+    "literacy": "51,6",
+    "phones_per_1000": "3,4",
+    "arable_land_percentage": "35,05",
+    "land_types": {
+      "crops_percentage": "14,02",
+      "other_percentage": "50,93"
+    },
+    "climate": "2",
+    "birthrate": "42,22",
+    "deathrate": "13,46",
+    "agriculture": "0,463",
+    "industry": "0,203",
+    "service": "0,334",
+    "latitude": -3.373056,
+    "longitude": 29.918886,
+    "capital": "Bujumbura"
   },
   {
     "id": 35,
@@ -312,7 +953,26 @@
     "region": "ASIA (EX. NEAR EAST)",
     "population": 13881427,
     "area": 181040,
-    "gdp": 1900
+    "gdp": 1900,
+    "population_density": "76,7",
+    "net_migration": "0",
+    "infant_mortality": "71,48",
+    "literacy": "69,4",
+    "phones_per_1000": "2,6",
+    "arable_land_percentage": "20,96",
+    "land_types": {
+      "crops_percentage": "0,61",
+      "other_percentage": "78,43"
+    },
+    "climate": "2",
+    "birthrate": "26,9",
+    "deathrate": "9,06",
+    "agriculture": "0,35",
+    "industry": "0,3",
+    "service": "0,35",
+    "latitude": 12.565679,
+    "longitude": 104.990963,
+    "capital": "Phnom Penh"
   },
   {
     "id": 36,
@@ -321,7 +981,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 17340702,
     "area": 475440,
-    "gdp": 1800
+    "gdp": 1800,
+    "population_density": "36,5",
+    "net_migration": "0",
+    "infant_mortality": "68,26",
+    "literacy": "79,0",
+    "phones_per_1000": "5,7",
+    "arable_land_percentage": "12,81",
+    "land_types": {
+      "crops_percentage": "2,58",
+      "other_percentage": "84,61"
+    },
+    "climate": "1,5",
+    "birthrate": "33,89",
+    "deathrate": "13,47",
+    "agriculture": "0,448",
+    "industry": "0,17",
+    "service": "0,382",
+    "latitude": 7.369722,
+    "longitude": 12.354722,
+    "capital": "Yaoundé"
   },
   {
     "id": 37,
@@ -330,7 +1009,26 @@
     "region": "NORTHERN AMERICA",
     "population": 33098932,
     "area": 9984670,
-    "gdp": 29800
+    "gdp": 29800,
+    "population_density": "3,3",
+    "net_migration": "5,96",
+    "infant_mortality": "4,75",
+    "literacy": "97,0",
+    "phones_per_1000": "552,2",
+    "arable_land_percentage": "4,96",
+    "land_types": {
+      "crops_percentage": "0,02",
+      "other_percentage": "95,02"
+    },
+    "climate": "",
+    "birthrate": "10,78",
+    "deathrate": "7,8",
+    "agriculture": "0,022",
+    "industry": "0,294",
+    "service": "0,684",
+    "latitude": 56.130366,
+    "longitude": -106.346771,
+    "capital": "Ottawa"
   },
   {
     "id": 38,
@@ -339,7 +1037,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 420979,
     "area": 4033,
-    "gdp": 1400
+    "gdp": 1400,
+    "population_density": "104,4",
+    "net_migration": "-12,07",
+    "infant_mortality": "47,77",
+    "literacy": "76,6",
+    "phones_per_1000": "169,6",
+    "arable_land_percentage": "9,68",
+    "land_types": {
+      "crops_percentage": "0,5",
+      "other_percentage": "89,82"
+    },
+    "climate": "3",
+    "birthrate": "24,87",
+    "deathrate": "6,55",
+    "agriculture": "0,121",
+    "industry": "0,219",
+    "service": "0,66",
+    "latitude": 16.002082,
+    "longitude": -24.013197,
+    "capital": "Praia"
   },
   {
     "id": 39,
@@ -348,7 +1065,25 @@
     "region": "LATIN AMER. & CARIB",
     "population": 45436,
     "area": 262,
-    "gdp": 35000
+    "gdp": 35000,
+    "population_density": "173,4",
+    "net_migration": "18,75",
+    "infant_mortality": "8,19",
+    "literacy": "98,0",
+    "phones_per_1000": "836,3",
+    "arable_land_percentage": "3,85",
+    "land_types": {
+      "crops_percentage": "0",
+      "other_percentage": "96,15"
+    },
+    "climate": "2",
+    "birthrate": "12,74",
+    "deathrate": "4,89",
+    "agriculture": "0,014",
+    "industry": "0,032",
+    "service": "0,954",
+    "latitude": 19.513469,
+    "longitude": -80.566956
   },
   {
     "id": 40,
@@ -357,7 +1092,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 4303356,
     "area": 622984,
-    "gdp": 1100
+    "gdp": 1100,
+    "population_density": "6,9",
+    "net_migration": "0",
+    "infant_mortality": "91",
+    "literacy": "51,0",
+    "phones_per_1000": "2,3",
+    "arable_land_percentage": "3,1",
+    "land_types": {
+      "crops_percentage": "0,14",
+      "other_percentage": "96,76"
+    },
+    "climate": "2",
+    "birthrate": "33,91",
+    "deathrate": "18,65",
+    "agriculture": "0,55",
+    "industry": "0,2",
+    "service": "0,25",
+    "latitude": 6.611111,
+    "longitude": 20.939444,
+    "capital": "Bangui"
   },
   {
     "id": 41,
@@ -366,7 +1120,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 9944201,
     "area": 1284000,
-    "gdp": 1200
+    "gdp": 1200,
+    "population_density": "7,7",
+    "net_migration": "-0,11",
+    "infant_mortality": "93,82",
+    "literacy": "47,5",
+    "phones_per_1000": "1,3",
+    "arable_land_percentage": "2,86",
+    "land_types": {
+      "crops_percentage": "0,02",
+      "other_percentage": "97,12"
+    },
+    "climate": "2",
+    "birthrate": "45,73",
+    "deathrate": "16,38",
+    "agriculture": "0,335",
+    "industry": "0,259",
+    "service": "0,406",
+    "latitude": 15.454166,
+    "longitude": 18.732207,
+    "capital": "N'Djamena"
   },
   {
     "id": 42,
@@ -375,7 +1148,26 @@
     "region": "LATIN AMER. & CARIB",
     "population": 16134219,
     "area": 756950,
-    "gdp": 9900
+    "gdp": 9900,
+    "population_density": "21,3",
+    "net_migration": "0",
+    "infant_mortality": "8,8",
+    "literacy": "96,2",
+    "phones_per_1000": "213,0",
+    "arable_land_percentage": "2,65",
+    "land_types": {
+      "crops_percentage": "0,42",
+      "other_percentage": "96,93"
+    },
+    "climate": "3",
+    "birthrate": "15,23",
+    "deathrate": "5,81",
+    "agriculture": "0,06",
+    "industry": "0,493",
+    "service": "0,447",
+    "latitude": -35.675147,
+    "longitude": -71.542969,
+    "capital": "Santiago"
   },
   {
     "id": 43,
@@ -384,7 +1176,26 @@
     "region": "ASIA (EX. NEAR EAST)",
     "population": 1313973713,
     "area": 9596960,
-    "gdp": 5000
+    "gdp": 5000,
+    "population_density": "136,9",
+    "net_migration": "-0,4",
+    "infant_mortality": "24,18",
+    "literacy": "90,9",
+    "phones_per_1000": "266,7",
+    "arable_land_percentage": "15,4",
+    "land_types": {
+      "crops_percentage": "1,25",
+      "other_percentage": "83,35"
+    },
+    "climate": "1,5",
+    "birthrate": "13,25",
+    "deathrate": "6,97",
+    "agriculture": "0,125",
+    "industry": "0,473",
+    "service": "0,403",
+    "latitude": 35.86166,
+    "longitude": 104.195397,
+    "capital": "Beijing"
   },
   {
     "id": 44,
@@ -393,7 +1204,26 @@
     "region": "LATIN AMER. & CARIB",
     "population": 43593035,
     "area": 1138910,
-    "gdp": 6300
+    "gdp": 6300,
+    "population_density": "38,3",
+    "net_migration": "-0,31",
+    "infant_mortality": "20,97",
+    "literacy": "92,5",
+    "phones_per_1000": "176,2",
+    "arable_land_percentage": "2,42",
+    "land_types": {
+      "crops_percentage": "1,67",
+      "other_percentage": "95,91"
+    },
+    "climate": "2",
+    "birthrate": "20,48",
+    "deathrate": "5,58",
+    "agriculture": "0,125",
+    "industry": "0,342",
+    "service": "0,533",
+    "latitude": 4.570868,
+    "longitude": -74.297333,
+    "capital": "Bogota"
   },
   {
     "id": 45,
@@ -402,25 +1232,82 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 690948,
     "area": 2170,
-    "gdp": 700
+    "gdp": 700,
+    "population_density": "318,4",
+    "net_migration": "0",
+    "infant_mortality": "74,93",
+    "literacy": "56,5",
+    "phones_per_1000": "24,5",
+    "arable_land_percentage": "35,87",
+    "land_types": {
+      "crops_percentage": "23,32",
+      "other_percentage": "40,81"
+    },
+    "climate": "2",
+    "birthrate": "36,93",
+    "deathrate": "8,2",
+    "agriculture": "0,4",
+    "industry": "0,04",
+    "service": "0,56",
+    "latitude": -11.875001,
+    "longitude": 43.872219,
+    "capital": "Moroni"
   },
   {
     "id": 46,
-    "name": "Congo, The Democratic Republic Of The",
+    "name": "Congo [DRC]",
     "code": "CD",
     "region": "SUB-SAHARAN AFRICA",
     "population": 62660551,
     "area": 2345410,
-    "gdp": 700
+    "gdp": 700,
+    "population_density": "26,7",
+    "net_migration": "0",
+    "infant_mortality": "94,69",
+    "literacy": "65,5",
+    "phones_per_1000": "0,2",
+    "arable_land_percentage": "2,96",
+    "land_types": {
+      "crops_percentage": "0,52",
+      "other_percentage": "96,52"
+    },
+    "climate": "2",
+    "birthrate": "43,69",
+    "deathrate": "13,27",
+    "agriculture": "0,55",
+    "industry": "0,11",
+    "service": "0,34",
+    "latitude": -4.038333,
+    "longitude": 21.758664,
+    "capital": "Kinshasa"
   },
   {
     "id": 47,
-    "name": "Congo",
+    "name": "Congo [Republic]",
     "code": "CG",
     "region": "SUB-SAHARAN AFRICA",
     "population": 3702314,
     "area": 342000,
-    "gdp": 700
+    "gdp": 700,
+    "population_density": "10,8",
+    "net_migration": "-0,17",
+    "infant_mortality": "93,86",
+    "literacy": "83,8",
+    "phones_per_1000": "3,7",
+    "arable_land_percentage": "0,51",
+    "land_types": {
+      "crops_percentage": "0,13",
+      "other_percentage": "99,36"
+    },
+    "climate": "2",
+    "birthrate": "42,57",
+    "deathrate": "12,93",
+    "agriculture": "0,062",
+    "industry": "0,57",
+    "service": "0,369",
+    "latitude": -0.228021,
+    "longitude": 15.827659,
+    "capital": "Brazzaville"
   },
   {
     "id": 48,
@@ -429,7 +1316,25 @@
     "region": "OCEANIA",
     "population": 21388,
     "area": 240,
-    "gdp": 5000
+    "gdp": 5000,
+    "population_density": "89,1",
+    "net_migration": "",
+    "infant_mortality": "",
+    "literacy": "95,0",
+    "phones_per_1000": "289,9",
+    "arable_land_percentage": "17,39",
+    "land_types": {
+      "crops_percentage": "13,04",
+      "other_percentage": "69,57"
+    },
+    "climate": "2",
+    "birthrate": "21",
+    "deathrate": "",
+    "agriculture": "0,151",
+    "industry": "0,096",
+    "service": "0,753",
+    "latitude": -21.236736,
+    "longitude": -159.777671
   },
   {
     "id": 49,
@@ -438,16 +1343,54 @@
     "region": "LATIN AMER. & CARIB",
     "population": 4075261,
     "area": 51100,
-    "gdp": 9100
+    "gdp": 9100,
+    "population_density": "79,8",
+    "net_migration": "0,51",
+    "infant_mortality": "9,95",
+    "literacy": "96,0",
+    "phones_per_1000": "340,7",
+    "arable_land_percentage": "4,41",
+    "land_types": {
+      "crops_percentage": "5,88",
+      "other_percentage": "89,71"
+    },
+    "climate": "2",
+    "birthrate": "18,32",
+    "deathrate": "4,36",
+    "agriculture": "0,088",
+    "industry": "0,299",
+    "service": "0,614",
+    "latitude": 9.748917,
+    "longitude": -83.753428,
+    "capital": "San José"
   },
   {
     "id": 50,
-    "name": "Cote d'Ivoire",
+    "name": "C?te d'Ivoire",
     "code": "CI",
     "region": "SUB-SAHARAN AFRICA",
     "population": 17654843,
     "area": 322460,
-    "gdp": 1400
+    "gdp": 1400,
+    "population_density": "54,8",
+    "net_migration": "-0,07",
+    "infant_mortality": "90,83",
+    "literacy": "50,9",
+    "phones_per_1000": "14,6",
+    "arable_land_percentage": "9,75",
+    "land_types": {
+      "crops_percentage": "13,84",
+      "other_percentage": "76,41"
+    },
+    "climate": "2",
+    "birthrate": "35,11",
+    "deathrate": "14,84",
+    "agriculture": "0,279",
+    "industry": "0,171",
+    "service": "0,55",
+    "latitude": 7.539989,
+    "longitude": -5.54708,
+    "capital": "Yamoussoukro"
   },
   {
     "id": 51,
@@ -456,7 +1399,26 @@
     "region": "EASTERN EUROPE",
     "population": 4494749,
     "area": 56542,
-    "gdp": 10600
+    "gdp": 10600,
+    "population_density": "79,5",
+    "net_migration": "1,58",
+    "infant_mortality": "6,84",
+    "literacy": "98,5",
+    "phones_per_1000": "420,4",
+    "arable_land_percentage": "26,09",
+    "land_types": {
+      "crops_percentage": "2,27",
+      "other_percentage": "71,65"
+    },
+    "climate": "",
+    "birthrate": "9,61",
+    "deathrate": "11,48",
+    "agriculture": "0,07",
+    "industry": "0,308",
+    "service": "0,622",
+    "latitude": 45.1,
+    "longitude": 15.2,
+    "capital": "Zagreb"
   },
   {
     "id": 52,
@@ -465,7 +1427,26 @@
     "region": "LATIN AMER. & CARIB",
     "population": 11382820,
     "area": 110860,
-    "gdp": 2900
+    "gdp": 2900,
+    "population_density": "102,7",
+    "net_migration": "-1,58",
+    "infant_mortality": "6,33",
+    "literacy": "97,0",
+    "phones_per_1000": "74,7",
+    "arable_land_percentage": "33,05",
+    "land_types": {
+      "crops_percentage": "7,6",
+      "other_percentage": "59,35"
+    },
+    "climate": "2",
+    "birthrate": "11,89",
+    "deathrate": "7,22",
+    "agriculture": "0,055",
+    "industry": "0,261",
+    "service": "0,684",
+    "latitude": 21.521757,
+    "longitude": -77.781167,
+    "capital": "Havana"
   },
   {
     "id": 53,
@@ -474,7 +1455,26 @@
     "region": "NEAR EAST",
     "population": 784301,
     "area": 9250,
-    "gdp": 19200
+    "gdp": 19200,
+    "population_density": "84,8",
+    "net_migration": "0,43",
+    "infant_mortality": "7,18",
+    "literacy": "97,6",
+    "phones_per_1000": "",
+    "arable_land_percentage": "7,79",
+    "land_types": {
+      "crops_percentage": "4,44",
+      "other_percentage": "87,77"
+    },
+    "climate": "3",
+    "birthrate": "12,56",
+    "deathrate": "7,68",
+    "agriculture": "0,037",
+    "industry": "0,198",
+    "service": "0,765",
+    "latitude": 35.126413,
+    "longitude": 33.429859,
+    "capital": "Nicosia"
   },
   {
     "id": 54,
@@ -483,7 +1483,26 @@
     "region": "EASTERN EUROPE",
     "population": 10235455,
     "area": 78866,
-    "gdp": 15700
+    "gdp": 15700,
+    "population_density": "129,8",
+    "net_migration": "0,97",
+    "infant_mortality": "3,93",
+    "literacy": "99,9",
+    "phones_per_1000": "314,3",
+    "arable_land_percentage": "39,8",
+    "land_types": {
+      "crops_percentage": "3,05",
+      "other_percentage": "57,15"
+    },
+    "climate": "3",
+    "birthrate": "9,02",
+    "deathrate": "10,59",
+    "agriculture": "0,034",
+    "industry": "0,393",
+    "service": "0,573",
+    "latitude": 49.817492,
+    "longitude": 15.472962,
+    "capital": "Prague"
   },
   {
     "id": 55,
@@ -492,7 +1511,26 @@
     "region": "WESTERN EUROPE",
     "population": 5450661,
     "area": 43094,
-    "gdp": 31100
+    "gdp": 31100,
+    "population_density": "126,5",
+    "net_migration": "2,48",
+    "infant_mortality": "4,56",
+    "literacy": "100,0",
+    "phones_per_1000": "614,6",
+    "arable_land_percentage": "54,02",
+    "land_types": {
+      "crops_percentage": "0,19",
+      "other_percentage": "45,79"
+    },
+    "climate": "3",
+    "birthrate": "11,13",
+    "deathrate": "10,36",
+    "agriculture": "0,018",
+    "industry": "0,246",
+    "service": "0,735",
+    "latitude": 56.26392,
+    "longitude": 9.501785,
+    "capital": "Copenagen"
   },
   {
     "id": 56,
@@ -501,7 +1539,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 486530,
     "area": 23000,
-    "gdp": 1300
+    "gdp": 1300,
+    "population_density": "21,2",
+    "net_migration": "0",
+    "infant_mortality": "104,13",
+    "literacy": "67,9",
+    "phones_per_1000": "22,8",
+    "arable_land_percentage": "0,04",
+    "land_types": {
+      "crops_percentage": "0",
+      "other_percentage": "99,96"
+    },
+    "climate": "1",
+    "birthrate": "39,53",
+    "deathrate": "19,31",
+    "agriculture": "0,179",
+    "industry": "0,225",
+    "service": "0,596",
+    "latitude": 11.825138,
+    "longitude": 42.590275,
+    "capital": "Djibouti"
   },
   {
     "id": 57,
@@ -510,7 +1567,26 @@
     "region": "LATIN AMER. & CARIB",
     "population": 68910,
     "area": 754,
-    "gdp": 5400
+    "gdp": 5400,
+    "population_density": "91,4",
+    "net_migration": "-13,87",
+    "infant_mortality": "14,15",
+    "literacy": "94,0",
+    "phones_per_1000": "304,8",
+    "arable_land_percentage": "6,67",
+    "land_types": {
+      "crops_percentage": "20",
+      "other_percentage": "73,33"
+    },
+    "climate": "2",
+    "birthrate": "15,27",
+    "deathrate": "6,73",
+    "agriculture": "0,177",
+    "industry": "0,328",
+    "service": "0,495",
+    "latitude": 15.414999,
+    "longitude": -61.370976,
+    "capital": "Roseau"
   },
   {
     "id": 58,
@@ -519,7 +1595,26 @@
     "region": "LATIN AMER. & CARIB",
     "population": 9183984,
     "area": 48730,
-    "gdp": 6000
+    "gdp": 6000,
+    "population_density": "188,5",
+    "net_migration": "-3,22",
+    "infant_mortality": "32,38",
+    "literacy": "84,7",
+    "phones_per_1000": "97,4",
+    "arable_land_percentage": "22,65",
+    "land_types": {
+      "crops_percentage": "10,33",
+      "other_percentage": "67,02"
+    },
+    "climate": "2",
+    "birthrate": "23,22",
+    "deathrate": "5,73",
+    "agriculture": "0,112",
+    "industry": "0,306",
+    "service": "0,582",
+    "latitude": 18.735693,
+    "longitude": -70.162651,
+    "capital": "Santo Domingo"
   },
   {
     "id": 59,
@@ -528,7 +1623,23 @@
     "region": "ASIA (EX. NEAR EAST)",
     "population": 1062777,
     "area": 15007,
-    "gdp": 500
+    "gdp": 500,
+    "population_density": "70,8",
+    "net_migration": "0",
+    "infant_mortality": "47,41",
+    "literacy": "58,6",
+    "phones_per_1000": "",
+    "arable_land_percentage": "4,71",
+    "land_types": {
+      "crops_percentage": "0,67",
+      "other_percentage": "94,62"
+    },
+    "climate": "2",
+    "birthrate": "26,99",
+    "deathrate": "6,24",
+    "agriculture": "0,085",
+    "industry": "0,231",
+    "service": "0,684"
   },
   {
     "id": 60,
@@ -537,7 +1648,26 @@
     "region": "LATIN AMER. & CARIB",
     "population": 13547510,
     "area": 283560,
-    "gdp": 3300
+    "gdp": 3300,
+    "population_density": "47,8",
+    "net_migration": "-8,58",
+    "infant_mortality": "23,66",
+    "literacy": "92,5",
+    "phones_per_1000": "125,6",
+    "arable_land_percentage": "5,85",
+    "land_types": {
+      "crops_percentage": "4,93",
+      "other_percentage": "89,22"
+    },
+    "climate": "2",
+    "birthrate": "22,29",
+    "deathrate": "4,23",
+    "agriculture": "0,07",
+    "industry": "0,312",
+    "service": "0,618",
+    "latitude": -1.831239,
+    "longitude": -78.183406,
+    "capital": "Quito"
   },
   {
     "id": 61,
@@ -546,7 +1676,26 @@
     "region": "NORTHERN AFRICA",
     "population": 78887007,
     "area": 1001450,
-    "gdp": 4000
+    "gdp": 4000,
+    "population_density": "78,8",
+    "net_migration": "-0,22",
+    "infant_mortality": "32,59",
+    "literacy": "57,7",
+    "phones_per_1000": "131,8",
+    "arable_land_percentage": "2,87",
+    "land_types": {
+      "crops_percentage": "0,48",
+      "other_percentage": "96,65"
+    },
+    "climate": "1",
+    "birthrate": "22,94",
+    "deathrate": "5,23",
+    "agriculture": "0,149",
+    "industry": "0,357",
+    "service": "0,493",
+    "latitude": 26.820553,
+    "longitude": 30.802498,
+    "capital": "Cairo"
   },
   {
     "id": 62,
@@ -555,7 +1704,26 @@
     "region": "LATIN AMER. & CARIB",
     "population": 6822378,
     "area": 21040,
-    "gdp": 4800
+    "gdp": 4800,
+    "population_density": "324,3",
+    "net_migration": "-3,74",
+    "infant_mortality": "25,1",
+    "literacy": "80,2",
+    "phones_per_1000": "142,4",
+    "arable_land_percentage": "31,85",
+    "land_types": {
+      "crops_percentage": "12,07",
+      "other_percentage": "56,08"
+    },
+    "climate": "2",
+    "birthrate": "26,61",
+    "deathrate": "5,78",
+    "agriculture": "0,099",
+    "industry": "0,302",
+    "service": "0,599",
+    "latitude": 13.794185,
+    "longitude": -88.89653,
+    "capital": "San Salvador"
   },
   {
     "id": 63,
@@ -564,7 +1732,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 540109,
     "area": 28051,
-    "gdp": 2700
+    "gdp": 2700,
+    "population_density": "19,3",
+    "net_migration": "0",
+    "infant_mortality": "85,13",
+    "literacy": "85,7",
+    "phones_per_1000": "18,5",
+    "arable_land_percentage": "4,63",
+    "land_types": {
+      "crops_percentage": "3,57",
+      "other_percentage": "91,8"
+    },
+    "climate": "2",
+    "birthrate": "35,59",
+    "deathrate": "15,06",
+    "agriculture": "0,03",
+    "industry": "0,906",
+    "service": "0,062",
+    "latitude": 1.650801,
+    "longitude": 10.267895,
+    "capital": "Malabo"
   },
   {
     "id": 64,
@@ -573,7 +1760,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 4786994,
     "area": 121320,
-    "gdp": 700
+    "gdp": 700,
+    "population_density": "39,5",
+    "net_migration": "0",
+    "infant_mortality": "74,87",
+    "literacy": "58,6",
+    "phones_per_1000": "7,9",
+    "arable_land_percentage": "4,95",
+    "land_types": {
+      "crops_percentage": "0,03",
+      "other_percentage": "95,02"
+    },
+    "climate": "1,5",
+    "birthrate": "34,33",
+    "deathrate": "9,6",
+    "agriculture": "0,102",
+    "industry": "0,254",
+    "service": "0,643",
+    "latitude": 15.179384,
+    "longitude": 39.782334,
+    "capital": "Asmara"
   },
   {
     "id": 65,
@@ -582,7 +1788,26 @@
     "region": "BALTICS",
     "population": 1324333,
     "area": 45226,
-    "gdp": 12300
+    "gdp": 12300,
+    "population_density": "29,3",
+    "net_migration": "-3,16",
+    "infant_mortality": "7,87",
+    "literacy": "99,8",
+    "phones_per_1000": "333,8",
+    "arable_land_percentage": "16,04",
+    "land_types": {
+      "crops_percentage": "0,45",
+      "other_percentage": "83,51"
+    },
+    "climate": "3",
+    "birthrate": "10,04",
+    "deathrate": "13,25",
+    "agriculture": "0,04",
+    "industry": "0,294",
+    "service": "0,666",
+    "latitude": 58.595272,
+    "longitude": 25.013607,
+    "capital": "Tallinn"
   },
   {
     "id": 66,
@@ -591,7 +1816,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 74777981,
     "area": 1127127,
-    "gdp": 700
+    "gdp": 700,
+    "population_density": "66,3",
+    "net_migration": "0",
+    "infant_mortality": "95,32",
+    "literacy": "42,7",
+    "phones_per_1000": "8,2",
+    "arable_land_percentage": "10,71",
+    "land_types": {
+      "crops_percentage": "0,75",
+      "other_percentage": "88,54"
+    },
+    "climate": "2",
+    "birthrate": "37,98",
+    "deathrate": "14,86",
+    "agriculture": "0,475",
+    "industry": "0,099",
+    "service": "0,426",
+    "latitude": 9.145,
+    "longitude": 40.489673,
+    "capital": "Addis Ababa"
   },
   {
     "id": 67,
@@ -600,7 +1844,25 @@
     "region": "WESTERN EUROPE",
     "population": 47246,
     "area": 1399,
-    "gdp": 22000
+    "gdp": 22000,
+    "population_density": "33,8",
+    "net_migration": "1,41",
+    "infant_mortality": "6,24",
+    "literacy": "",
+    "phones_per_1000": "503,8",
+    "arable_land_percentage": "2,14",
+    "land_types": {
+      "crops_percentage": "0",
+      "other_percentage": "97,86"
+    },
+    "climate": "",
+    "birthrate": "14,05",
+    "deathrate": "8,7",
+    "agriculture": "0,27",
+    "industry": "0,11",
+    "service": "0,62",
+    "latitude": 61.892635,
+    "longitude": -6.911806
   },
   {
     "id": 68,
@@ -609,7 +1871,26 @@
     "region": "OCEANIA",
     "population": 905949,
     "area": 18270,
-    "gdp": 5800
+    "gdp": 5800,
+    "population_density": "49,6",
+    "net_migration": "-3,14",
+    "infant_mortality": "12,62",
+    "literacy": "93,7",
+    "phones_per_1000": "112,6",
+    "arable_land_percentage": "10,95",
+    "land_types": {
+      "crops_percentage": "4,65",
+      "other_percentage": "84,4"
+    },
+    "climate": "2",
+    "birthrate": "22,55",
+    "deathrate": "5,65",
+    "agriculture": "0,089",
+    "industry": "0,135",
+    "service": "0,776",
+    "latitude": -16.578193,
+    "longitude": 179.414413,
+    "capital": "Suva"
   },
   {
     "id": 69,
@@ -618,7 +1899,26 @@
     "region": "WESTERN EUROPE",
     "population": 5231372,
     "area": 338145,
-    "gdp": 27400
+    "gdp": 27400,
+    "population_density": "15,5",
+    "net_migration": "0,95",
+    "infant_mortality": "3,57",
+    "literacy": "100,0",
+    "phones_per_1000": "405,3",
+    "arable_land_percentage": "7,19",
+    "land_types": {
+      "crops_percentage": "0,03",
+      "other_percentage": "92,78"
+    },
+    "climate": "3",
+    "birthrate": "10,45",
+    "deathrate": "9,86",
+    "agriculture": "0,028",
+    "industry": "0,295",
+    "service": "0,676",
+    "latitude": 61.92411,
+    "longitude": 25.748151,
+    "capital": "Helsinki"
   },
   {
     "id": 70,
@@ -627,7 +1927,26 @@
     "region": "WESTERN EUROPE",
     "population": 60876136,
     "area": 547030,
-    "gdp": 27600
+    "gdp": 27600,
+    "population_density": "111,3",
+    "net_migration": "0,66",
+    "infant_mortality": "4,26",
+    "literacy": "99,0",
+    "phones_per_1000": "586,4",
+    "arable_land_percentage": "33,53",
+    "land_types": {
+      "crops_percentage": "2,07",
+      "other_percentage": "64,4"
+    },
+    "climate": "4",
+    "birthrate": "11,99",
+    "deathrate": "9,14",
+    "agriculture": "0,022",
+    "industry": "0,214",
+    "service": "0,764",
+    "latitude": 46.227638,
+    "longitude": 2.213749,
+    "capital": "Paris"
   },
   {
     "id": 71,
@@ -636,7 +1955,25 @@
     "region": "LATIN AMER. & CARIB",
     "population": 199509,
     "area": 91000,
-    "gdp": 8300
+    "gdp": 8300,
+    "population_density": "2,2",
+    "net_migration": "6,27",
+    "infant_mortality": "12,07",
+    "literacy": "83,0",
+    "phones_per_1000": "255,6",
+    "arable_land_percentage": "0,14",
+    "land_types": {
+      "crops_percentage": "0,05",
+      "other_percentage": "99,81"
+    },
+    "climate": "2",
+    "birthrate": "20,46",
+    "deathrate": "4,88",
+    "agriculture": "0,066",
+    "industry": "0,156",
+    "service": "0,778",
+    "latitude": 3.933889,
+    "longitude": -53.125782
   },
   {
     "id": 72,
@@ -645,7 +1982,25 @@
     "region": "OCEANIA",
     "population": 274578,
     "area": 4167,
-    "gdp": 17500
+    "gdp": 17500,
+    "population_density": "65,9",
+    "net_migration": "2,94",
+    "infant_mortality": "8,44",
+    "literacy": "98,0",
+    "phones_per_1000": "194,5",
+    "arable_land_percentage": "0,82",
+    "land_types": {
+      "crops_percentage": "5,46",
+      "other_percentage": "93,72"
+    },
+    "climate": "2",
+    "birthrate": "16,68",
+    "deathrate": "4,69",
+    "agriculture": "0,031",
+    "industry": "0,19",
+    "service": "0,769",
+    "latitude": -17.679742,
+    "longitude": -149.406843
   },
   {
     "id": 73,
@@ -654,7 +2009,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 1424906,
     "area": 267667,
-    "gdp": 5500
+    "gdp": 5500,
+    "population_density": "5,3",
+    "net_migration": "0",
+    "infant_mortality": "53,64",
+    "literacy": "63,2",
+    "phones_per_1000": "27,4",
+    "arable_land_percentage": "1,26",
+    "land_types": {
+      "crops_percentage": "0,66",
+      "other_percentage": "98,08"
+    },
+    "climate": "2",
+    "birthrate": "36,16",
+    "deathrate": "12,25",
+    "agriculture": "0,061",
+    "industry": "0,592",
+    "service": "0,348",
+    "latitude": -0.803689,
+    "longitude": 11.609444,
+    "capital": "Libreville"
   },
   {
     "id": 74,
@@ -663,16 +2037,54 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 1641564,
     "area": 11300,
-    "gdp": 1700
+    "gdp": 1700,
+    "population_density": "145,3",
+    "net_migration": "1,57",
+    "infant_mortality": "72,02",
+    "literacy": "40,1",
+    "phones_per_1000": "26,8",
+    "arable_land_percentage": "25",
+    "land_types": {
+      "crops_percentage": "0,5",
+      "other_percentage": "74,5"
+    },
+    "climate": "2",
+    "birthrate": "39,37",
+    "deathrate": "12,25",
+    "agriculture": "0,308",
+    "industry": "0,142",
+    "service": "0,549",
+    "latitude": 13.443182,
+    "longitude": -15.310139,
+    "capital": "Banjul"
   },
   {
     "id": 75,
-    "name": "Palestine",
+    "name": "Palestinian Territories",
     "code": "PS",
     "region": "NEAR EAST",
     "population": 1428757,
     "area": 360,
-    "gdp": 600
+    "gdp": 600,
+    "population_density": "3968,8",
+    "net_migration": "1,6",
+    "infant_mortality": "22,93",
+    "literacy": "",
+    "phones_per_1000": "244,3",
+    "arable_land_percentage": "28,95",
+    "land_types": {
+      "crops_percentage": "21,05",
+      "other_percentage": "50"
+    },
+    "climate": "3",
+    "birthrate": "39,45",
+    "deathrate": "3,8",
+    "agriculture": "0,03",
+    "industry": "0,283",
+    "service": "0,687",
+    "latitude": 31.952162,
+    "longitude": 35.233154,
+    "capital": "East Jerusalem"
   },
   {
     "id": 76,
@@ -681,7 +2093,26 @@
     "region": "C.W. OF IND. STATES",
     "population": 4661473,
     "area": 69700,
-    "gdp": 2500
+    "gdp": 2500,
+    "population_density": "66,9",
+    "net_migration": "-4,7",
+    "infant_mortality": "18,59",
+    "literacy": "99,0",
+    "phones_per_1000": "146,6",
+    "arable_land_percentage": "11,44",
+    "land_types": {
+      "crops_percentage": "3,86",
+      "other_percentage": "84,7"
+    },
+    "climate": "3",
+    "birthrate": "10,41",
+    "deathrate": "9,23",
+    "agriculture": "0,172",
+    "industry": "0,275",
+    "service": "0,553",
+    "latitude": 42.315407,
+    "longitude": 43.356892,
+    "capital": "Tbilisi"
   },
   {
     "id": 77,
@@ -690,7 +2121,26 @@
     "region": "WESTERN EUROPE",
     "population": 82422299,
     "area": 357021,
-    "gdp": 27600
+    "gdp": 27600,
+    "population_density": "230,9",
+    "net_migration": "2,18",
+    "infant_mortality": "4,16",
+    "literacy": "99,0",
+    "phones_per_1000": "667,9",
+    "arable_land_percentage": "33,85",
+    "land_types": {
+      "crops_percentage": "0,59",
+      "other_percentage": "65,56"
+    },
+    "climate": "3",
+    "birthrate": "8,25",
+    "deathrate": "10,62",
+    "agriculture": "0,009",
+    "industry": "0,296",
+    "service": "0,695",
+    "latitude": 51.165691,
+    "longitude": 10.451526,
+    "capital": "Berlin"
   },
   {
     "id": 78,
@@ -699,7 +2149,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 22409572,
     "area": 239460,
-    "gdp": 2200
+    "gdp": 2200,
+    "population_density": "93,6",
+    "net_migration": "-0,64",
+    "infant_mortality": "51,43",
+    "literacy": "74,8",
+    "phones_per_1000": "14,4",
+    "arable_land_percentage": "16,26",
+    "land_types": {
+      "crops_percentage": "9,67",
+      "other_percentage": "74,07"
+    },
+    "climate": "2",
+    "birthrate": "30,52",
+    "deathrate": "9,72",
+    "agriculture": "0,366",
+    "industry": "0,246",
+    "service": "0,387",
+    "latitude": 7.946527,
+    "longitude": -1.023194,
+    "capital": "Accra"
   },
   {
     "id": 79,
@@ -708,7 +2177,25 @@
     "region": "WESTERN EUROPE",
     "population": 27928,
     "area": 7,
-    "gdp": 17500
+    "gdp": 17500,
+    "population_density": "3989,7",
+    "net_migration": "0",
+    "infant_mortality": "5,13",
+    "literacy": "",
+    "phones_per_1000": "877,7",
+    "arable_land_percentage": "0",
+    "land_types": {
+      "crops_percentage": "0",
+      "other_percentage": "100"
+    },
+    "climate": "",
+    "birthrate": "10,74",
+    "deathrate": "9,31",
+    "agriculture": "",
+    "industry": "",
+    "service": "",
+    "latitude": 36.137741,
+    "longitude": -5.345374
   },
   {
     "id": 80,
@@ -717,7 +2204,26 @@
     "region": "WESTERN EUROPE",
     "population": 10688058,
     "area": 131940,
-    "gdp": 20000
+    "gdp": 20000,
+    "population_density": "81,0",
+    "net_migration": "2,35",
+    "infant_mortality": "5,53",
+    "literacy": "97,5",
+    "phones_per_1000": "589,7",
+    "arable_land_percentage": "21,1",
+    "land_types": {
+      "crops_percentage": "8,78",
+      "other_percentage": "70,12"
+    },
+    "climate": "3",
+    "birthrate": "9,68",
+    "deathrate": "10,24",
+    "agriculture": "0,054",
+    "industry": "0,213",
+    "service": "0,733",
+    "latitude": 39.074208,
+    "longitude": 21.824312,
+    "capital": "Athens"
   },
   {
     "id": 81,
@@ -726,7 +2232,25 @@
     "region": "NORTHERN AMERICA",
     "population": 56361,
     "area": 2166086,
-    "gdp": 20000
+    "gdp": 20000,
+    "population_density": "0,0",
+    "net_migration": "-8,37",
+    "infant_mortality": "15,82",
+    "literacy": "",
+    "phones_per_1000": "448,9",
+    "arable_land_percentage": "0",
+    "land_types": {
+      "crops_percentage": "0",
+      "other_percentage": "100"
+    },
+    "climate": "1",
+    "birthrate": "15,93",
+    "deathrate": "7,84",
+    "agriculture": "",
+    "industry": "",
+    "service": "",
+    "latitude": 71.706936,
+    "longitude": -42.604303
   },
   {
     "id": 82,
@@ -735,7 +2259,26 @@
     "region": "LATIN AMER. & CARIB",
     "population": 89703,
     "area": 344,
-    "gdp": 5000
+    "gdp": 5000,
+    "population_density": "260,8",
+    "net_migration": "-13,92",
+    "infant_mortality": "14,62",
+    "literacy": "98,0",
+    "phones_per_1000": "364,5",
+    "arable_land_percentage": "5,88",
+    "land_types": {
+      "crops_percentage": "29,41",
+      "other_percentage": "64,71"
+    },
+    "climate": "2",
+    "birthrate": "22,08",
+    "deathrate": "6,88",
+    "agriculture": "0,054",
+    "industry": "0,18",
+    "service": "0,766",
+    "latitude": 12.262776,
+    "longitude": -61.604171,
+    "capital": "St. George's"
   },
   {
     "id": 83,
@@ -744,7 +2287,25 @@
     "region": "LATIN AMER. & CARIB",
     "population": 452776,
     "area": 1780,
-    "gdp": 8000
+    "gdp": 8000,
+    "population_density": "254,4",
+    "net_migration": "-0,15",
+    "infant_mortality": "8,6",
+    "literacy": "90,0",
+    "phones_per_1000": "463,8",
+    "arable_land_percentage": "11,24",
+    "land_types": {
+      "crops_percentage": "3,55",
+      "other_percentage": "85,21"
+    },
+    "climate": "2",
+    "birthrate": "15,05",
+    "deathrate": "6,09",
+    "agriculture": "0,15",
+    "industry": "0,17",
+    "service": "0,68",
+    "latitude": 16.995971,
+    "longitude": -62.067641
   },
   {
     "id": 84,
@@ -753,7 +2314,25 @@
     "region": "OCEANIA",
     "population": 171019,
     "area": 541,
-    "gdp": 21000
+    "gdp": 21000,
+    "population_density": "316,1",
+    "net_migration": "0",
+    "infant_mortality": "6,94",
+    "literacy": "99,0",
+    "phones_per_1000": "492,0",
+    "arable_land_percentage": "9,09",
+    "land_types": {
+      "crops_percentage": "16,36",
+      "other_percentage": "74,55"
+    },
+    "climate": "2",
+    "birthrate": "18,79",
+    "deathrate": "4,48",
+    "agriculture": "",
+    "industry": "",
+    "service": "",
+    "latitude": 13.444304,
+    "longitude": 144.793731
   },
   {
     "id": 85,
@@ -762,7 +2341,26 @@
     "region": "LATIN AMER. & CARIB",
     "population": 12293545,
     "area": 108890,
-    "gdp": 4100
+    "gdp": 4100,
+    "population_density": "112,9",
+    "net_migration": "-1,67",
+    "infant_mortality": "35,93",
+    "literacy": "70,6",
+    "phones_per_1000": "92,1",
+    "arable_land_percentage": "12,54",
+    "land_types": {
+      "crops_percentage": "5,03",
+      "other_percentage": "82,43"
+    },
+    "climate": "2",
+    "birthrate": "29,88",
+    "deathrate": "5,2",
+    "agriculture": "0,227",
+    "industry": "0,188",
+    "service": "0,585",
+    "latitude": 15.783471,
+    "longitude": -90.230759,
+    "capital": "Guatemala City"
   },
   {
     "id": 87,
@@ -771,7 +2369,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 9690222,
     "area": 245857,
-    "gdp": 2100
+    "gdp": 2100,
+    "population_density": "39,4",
+    "net_migration": "-3,06",
+    "infant_mortality": "90,37",
+    "literacy": "35,9",
+    "phones_per_1000": "2,7",
+    "arable_land_percentage": "3,63",
+    "land_types": {
+      "crops_percentage": "2,58",
+      "other_percentage": "93,79"
+    },
+    "climate": "2",
+    "birthrate": "41,76",
+    "deathrate": "15,48",
+    "agriculture": "0,237",
+    "industry": "0,362",
+    "service": "0,401",
+    "latitude": 9.945587,
+    "longitude": -9.696645,
+    "capital": "Conakry"
   },
   {
     "id": 88,
@@ -780,7 +2397,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 1442029,
     "area": 36120,
-    "gdp": 800
+    "gdp": 800,
+    "population_density": "39,9",
+    "net_migration": "-1,57",
+    "infant_mortality": "107,17",
+    "literacy": "42,4",
+    "phones_per_1000": "7,4",
+    "arable_land_percentage": "10,67",
+    "land_types": {
+      "crops_percentage": "8,82",
+      "other_percentage": "80,51"
+    },
+    "climate": "2",
+    "birthrate": "37,22",
+    "deathrate": "16,53",
+    "agriculture": "0,62",
+    "industry": "0,12",
+    "service": "0,26",
+    "latitude": 11.803749,
+    "longitude": -15.180413,
+    "capital": "Bissau"
   },
   {
     "id": 89,
@@ -789,7 +2425,26 @@
     "region": "LATIN AMER. & CARIB",
     "population": 767245,
     "area": 214970,
-    "gdp": 4000
+    "gdp": 4000,
+    "population_density": "3,6",
+    "net_migration": "-2,07",
+    "infant_mortality": "33,26",
+    "literacy": "98,8",
+    "phones_per_1000": "143,5",
+    "arable_land_percentage": "2,44",
+    "land_types": {
+      "crops_percentage": "0,15",
+      "other_percentage": "97,41"
+    },
+    "climate": "2",
+    "birthrate": "18,28",
+    "deathrate": "8,28",
+    "agriculture": "0,37",
+    "industry": "0,203",
+    "service": "0,427",
+    "latitude": 4.860416,
+    "longitude": -58.93018,
+    "capital": "Georgetown"
   },
   {
     "id": 90,
@@ -798,7 +2453,26 @@
     "region": "LATIN AMER. & CARIB",
     "population": 8308504,
     "area": 27750,
-    "gdp": 1600
+    "gdp": 1600,
+    "population_density": "299,4",
+    "net_migration": "-3,4",
+    "infant_mortality": "73,45",
+    "literacy": "52,9",
+    "phones_per_1000": "16,9",
+    "arable_land_percentage": "28,3",
+    "land_types": {
+      "crops_percentage": "11,61",
+      "other_percentage": "60,09"
+    },
+    "climate": "2",
+    "birthrate": "36,44",
+    "deathrate": "12,17",
+    "agriculture": "0,28",
+    "industry": "0,2",
+    "service": "0,52",
+    "latitude": 18.971187,
+    "longitude": -72.285215,
+    "capital": "Port-au-Prince"
   },
   {
     "id": 91,
@@ -807,7 +2481,26 @@
     "region": "LATIN AMER. & CARIB",
     "population": 7326496,
     "area": 112090,
-    "gdp": 2600
+    "gdp": 2600,
+    "population_density": "65,4",
+    "net_migration": "-1,99",
+    "infant_mortality": "29,32",
+    "literacy": "76,2",
+    "phones_per_1000": "67,5",
+    "arable_land_percentage": "9,55",
+    "land_types": {
+      "crops_percentage": "3,22",
+      "other_percentage": "87,23"
+    },
+    "climate": "2",
+    "birthrate": "28,24",
+    "deathrate": "5,28",
+    "agriculture": "0,139",
+    "industry": "0,312",
+    "service": "0,549",
+    "latitude": 15.199999,
+    "longitude": -86.241905,
+    "capital": "Tegucigalpa"
   },
   {
     "id": 92,
@@ -816,7 +2509,25 @@
     "region": "ASIA (EX. NEAR EAST)",
     "population": 6940432,
     "area": 1092,
-    "gdp": 28800
+    "gdp": 28800,
+    "population_density": "6355,7",
+    "net_migration": "5,24",
+    "infant_mortality": "2,97",
+    "literacy": "93,5",
+    "phones_per_1000": "546,7",
+    "arable_land_percentage": "5,05",
+    "land_types": {
+      "crops_percentage": "1,01",
+      "other_percentage": "93,94"
+    },
+    "climate": "2",
+    "birthrate": "7,29",
+    "deathrate": "6,29",
+    "agriculture": "0,001",
+    "industry": "0,092",
+    "service": "0,906",
+    "latitude": 22.396428,
+    "longitude": 114.109497
   },
   {
     "id": 93,
@@ -825,7 +2536,26 @@
     "region": "EASTERN EUROPE",
     "population": 9981334,
     "area": 93030,
-    "gdp": 13900
+    "gdp": 13900,
+    "population_density": "107,3",
+    "net_migration": "0,86",
+    "infant_mortality": "8,57",
+    "literacy": "99,4",
+    "phones_per_1000": "336,2",
+    "arable_land_percentage": "50,09",
+    "land_types": {
+      "crops_percentage": "2,06",
+      "other_percentage": "47,85"
+    },
+    "climate": "3",
+    "birthrate": "9,72",
+    "deathrate": "13,11",
+    "agriculture": "0,037",
+    "industry": "0,312",
+    "service": "0,651",
+    "latitude": 47.162494,
+    "longitude": 19.503304,
+    "capital": "Budapest"
   },
   {
     "id": 94,
@@ -834,7 +2564,26 @@
     "region": "WESTERN EUROPE",
     "population": 299388,
     "area": 103000,
-    "gdp": 30900
+    "gdp": 30900,
+    "population_density": "2,9",
+    "net_migration": "2,38",
+    "infant_mortality": "3,31",
+    "literacy": "99,9",
+    "phones_per_1000": "647,7",
+    "arable_land_percentage": "0,07",
+    "land_types": {
+      "crops_percentage": "0",
+      "other_percentage": "99,93"
+    },
+    "climate": "3",
+    "birthrate": "13,64",
+    "deathrate": "6,72",
+    "agriculture": "0,086",
+    "industry": "0,15",
+    "service": "0,765",
+    "latitude": 64.963051,
+    "longitude": -19.020835,
+    "capital": "Reykjavík"
   },
   {
     "id": 95,
@@ -843,7 +2592,26 @@
     "region": "ASIA (EX. NEAR EAST)",
     "population": 1095351995,
     "area": 3287590,
-    "gdp": 2900
+    "gdp": 2900,
+    "population_density": "333,2",
+    "net_migration": "-0,07",
+    "infant_mortality": "56,29",
+    "literacy": "59,5",
+    "phones_per_1000": "45,4",
+    "arable_land_percentage": "54,4",
+    "land_types": {
+      "crops_percentage": "2,74",
+      "other_percentage": "42,86"
+    },
+    "climate": "2,5",
+    "birthrate": "22,01",
+    "deathrate": "8,18",
+    "agriculture": "0,186",
+    "industry": "0,276",
+    "service": "0,538",
+    "latitude": 20.593684,
+    "longitude": 78.96288,
+    "capital": "New Delhi"
   },
   {
     "id": 96,
@@ -852,7 +2620,26 @@
     "region": "ASIA (EX. NEAR EAST)",
     "population": 245452739,
     "area": 1919440,
-    "gdp": 3200
+    "gdp": 3200,
+    "population_density": "127,9",
+    "net_migration": "0",
+    "infant_mortality": "35,6",
+    "literacy": "87,9",
+    "phones_per_1000": "52,0",
+    "arable_land_percentage": "11,32",
+    "land_types": {
+      "crops_percentage": "7,23",
+      "other_percentage": "81,45"
+    },
+    "climate": "2",
+    "birthrate": "20,34",
+    "deathrate": "6,25",
+    "agriculture": "0,134",
+    "industry": "0,458",
+    "service": "0,408",
+    "latitude": -0.789275,
+    "longitude": 113.921327,
+    "capital": "Jakarta"
   },
   {
     "id": 97,
@@ -861,7 +2648,26 @@
     "region": "ASIA (EX. NEAR EAST)",
     "population": 68688433,
     "area": 1648000,
-    "gdp": 7000
+    "gdp": 7000,
+    "population_density": "41,7",
+    "net_migration": "-0,84",
+    "infant_mortality": "41,58",
+    "literacy": "79,4",
+    "phones_per_1000": "276,4",
+    "arable_land_percentage": "8,72",
+    "land_types": {
+      "crops_percentage": "1,39",
+      "other_percentage": "89,89"
+    },
+    "climate": "1",
+    "birthrate": "17",
+    "deathrate": "5,55",
+    "agriculture": "0,116",
+    "industry": "0,424",
+    "service": "0,46",
+    "latitude": 32.427908,
+    "longitude": 53.688046,
+    "capital": "Tehran"
   },
   {
     "id": 98,
@@ -870,7 +2676,26 @@
     "region": "NEAR EAST",
     "population": 26783383,
     "area": 437072,
-    "gdp": 1500
+    "gdp": 1500,
+    "population_density": "61,3",
+    "net_migration": "0",
+    "infant_mortality": "50,25",
+    "literacy": "40,4",
+    "phones_per_1000": "38,6",
+    "arable_land_percentage": "13,15",
+    "land_types": {
+      "crops_percentage": "0,78",
+      "other_percentage": "86,07"
+    },
+    "climate": "1",
+    "birthrate": "31,98",
+    "deathrate": "5,37",
+    "agriculture": "0,073",
+    "industry": "0,666",
+    "service": "0,261",
+    "latitude": 33.223191,
+    "longitude": 43.679291,
+    "capital": "Baghdad"
   },
   {
     "id": 99,
@@ -879,7 +2704,26 @@
     "region": "WESTERN EUROPE",
     "population": 4062235,
     "area": 70280,
-    "gdp": 29600
+    "gdp": 29600,
+    "population_density": "57,8",
+    "net_migration": "4,99",
+    "infant_mortality": "5,39",
+    "literacy": "98,0",
+    "phones_per_1000": "500,5",
+    "arable_land_percentage": "15,2",
+    "land_types": {
+      "crops_percentage": "0,03",
+      "other_percentage": "84,77"
+    },
+    "climate": "3",
+    "birthrate": "14,45",
+    "deathrate": "7,82",
+    "agriculture": "0,05",
+    "industry": "0,46",
+    "service": "0,49",
+    "latitude": 53.41291,
+    "longitude": -8.24389,
+    "capital": "Dublin"
   },
   {
     "id": 101,
@@ -888,7 +2732,26 @@
     "region": "NEAR EAST",
     "population": 6352117,
     "area": 20770,
-    "gdp": 19800
+    "gdp": 19800,
+    "population_density": "305,8",
+    "net_migration": "0,68",
+    "infant_mortality": "7,03",
+    "literacy": "95,4",
+    "phones_per_1000": "462,3",
+    "arable_land_percentage": "16,39",
+    "land_types": {
+      "crops_percentage": "4,17",
+      "other_percentage": "79,44"
+    },
+    "climate": "3",
+    "birthrate": "17,97",
+    "deathrate": "6,18",
+    "agriculture": "0,026",
+    "industry": "0,317",
+    "service": "0,657",
+    "latitude": 31.046051,
+    "longitude": 34.851612,
+    "capital": "Jerusalem"
   },
   {
     "id": 102,
@@ -897,7 +2760,26 @@
     "region": "WESTERN EUROPE",
     "population": 58133509,
     "area": 301230,
-    "gdp": 26700
+    "gdp": 26700,
+    "population_density": "193,0",
+    "net_migration": "2,07",
+    "infant_mortality": "5,94",
+    "literacy": "98,6",
+    "phones_per_1000": "430,9",
+    "arable_land_percentage": "27,79",
+    "land_types": {
+      "crops_percentage": "9,53",
+      "other_percentage": "62,68"
+    },
+    "climate": "",
+    "birthrate": "8,72",
+    "deathrate": "10,4",
+    "agriculture": "0,021",
+    "industry": "0,291",
+    "service": "0,688",
+    "latitude": 41.87194,
+    "longitude": 12.56738,
+    "capital": "Rome"
   },
   {
     "id": 103,
@@ -906,7 +2788,26 @@
     "region": "LATIN AMER. & CARIB",
     "population": 2758124,
     "area": 10991,
-    "gdp": 3900
+    "gdp": 3900,
+    "population_density": "250,9",
+    "net_migration": "-4,92",
+    "infant_mortality": "12,36",
+    "literacy": "87,9",
+    "phones_per_1000": "124,0",
+    "arable_land_percentage": "16,07",
+    "land_types": {
+      "crops_percentage": "10,16",
+      "other_percentage": "73,77"
+    },
+    "climate": "2",
+    "birthrate": "20,82",
+    "deathrate": "6,52",
+    "agriculture": "0,049",
+    "industry": "0,337",
+    "service": "0,615",
+    "latitude": 18.109581,
+    "longitude": -77.297508,
+    "capital": "Kingston"
   },
   {
     "id": 104,
@@ -915,7 +2816,26 @@
     "region": "ASIA (EX. NEAR EAST)",
     "population": 127463611,
     "area": 377835,
-    "gdp": 28200
+    "gdp": 28200,
+    "population_density": "337,4",
+    "net_migration": "0",
+    "infant_mortality": "3,26",
+    "literacy": "99,0",
+    "phones_per_1000": "461,2",
+    "arable_land_percentage": "12,19",
+    "land_types": {
+      "crops_percentage": "0,96",
+      "other_percentage": "86,85"
+    },
+    "climate": "3",
+    "birthrate": "9,37",
+    "deathrate": "9,16",
+    "agriculture": "0,017",
+    "industry": "0,258",
+    "service": "0,725",
+    "latitude": 36.204824,
+    "longitude": 138.252924,
+    "capital": "Tokyo"
   },
   {
     "id": 106,
@@ -924,7 +2844,26 @@
     "region": "NEAR EAST",
     "population": 5906760,
     "area": 92300,
-    "gdp": 4300
+    "gdp": 4300,
+    "population_density": "64,0",
+    "net_migration": "6,59",
+    "infant_mortality": "17,35",
+    "literacy": "91,3",
+    "phones_per_1000": "104,5",
+    "arable_land_percentage": "2,67",
+    "land_types": {
+      "crops_percentage": "1,83",
+      "other_percentage": "95,5"
+    },
+    "climate": "1",
+    "birthrate": "21,25",
+    "deathrate": "2,65",
+    "agriculture": "0,033",
+    "industry": "0,287",
+    "service": "0,68",
+    "latitude": 30.585164,
+    "longitude": 36.238414,
+    "capital": "Amman"
   },
   {
     "id": 107,
@@ -933,7 +2872,26 @@
     "region": "C.W. OF IND. STATES",
     "population": 15233244,
     "area": 2717300,
-    "gdp": 6300
+    "gdp": 6300,
+    "population_density": "5,6",
+    "net_migration": "-3,35",
+    "infant_mortality": "29,21",
+    "literacy": "98,4",
+    "phones_per_1000": "164,1",
+    "arable_land_percentage": "7,98",
+    "land_types": {
+      "crops_percentage": "0,05",
+      "other_percentage": "91,97"
+    },
+    "climate": "4",
+    "birthrate": "16",
+    "deathrate": "9,42",
+    "agriculture": "0,067",
+    "industry": "0,386",
+    "service": "0,547",
+    "latitude": 48.019573,
+    "longitude": 66.923684,
+    "capital": "Astana"
   },
   {
     "id": 108,
@@ -942,7 +2900,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 34707817,
     "area": 582650,
-    "gdp": 1000
+    "gdp": 1000,
+    "population_density": "59,6",
+    "net_migration": "-0,1",
+    "infant_mortality": "61,47",
+    "literacy": "85,1",
+    "phones_per_1000": "8,1",
+    "arable_land_percentage": "8,08",
+    "land_types": {
+      "crops_percentage": "0,98",
+      "other_percentage": "90,94"
+    },
+    "climate": "1,5",
+    "birthrate": "39,72",
+    "deathrate": "14,02",
+    "agriculture": "0,163",
+    "industry": "0,188",
+    "service": "0,651",
+    "latitude": -0.023559,
+    "longitude": 37.906193,
+    "capital": "Nairobi"
   },
   {
     "id": 109,
@@ -951,25 +2928,82 @@
     "region": "OCEANIA",
     "population": 105432,
     "area": 811,
-    "gdp": 800
+    "gdp": 800,
+    "population_density": "130,0",
+    "net_migration": "0",
+    "infant_mortality": "48,52",
+    "literacy": "",
+    "phones_per_1000": "42,7",
+    "arable_land_percentage": "2,74",
+    "land_types": {
+      "crops_percentage": "50,68",
+      "other_percentage": "46,58"
+    },
+    "climate": "2",
+    "birthrate": "30,65",
+    "deathrate": "8,26",
+    "agriculture": "0,089",
+    "industry": "0,242",
+    "service": "0,668",
+    "latitude": -3.370417,
+    "longitude": -168.734039,
+    "capital": "Tarawa"
   },
   {
     "id": 110,
-    "name": "Korea, Democratic People's Republic Of",
+    "name": "North Korea",
     "code": "KP",
     "region": "ASIA (EX. NEAR EAST)",
     "population": 23113019,
     "area": 120540,
-    "gdp": 1300
+    "gdp": 1300,
+    "population_density": "191,8",
+    "net_migration": "0",
+    "infant_mortality": "24,04",
+    "literacy": "99,0",
+    "phones_per_1000": "42,4",
+    "arable_land_percentage": "20,76",
+    "land_types": {
+      "crops_percentage": "2,49",
+      "other_percentage": "76,75"
+    },
+    "climate": "3",
+    "birthrate": "15,54",
+    "deathrate": "7,13",
+    "agriculture": "0,3",
+    "industry": "0,34",
+    "service": "0,36",
+    "latitude": 40.339852,
+    "longitude": 127.510093,
+    "capital": "Pyongyang"
   },
   {
     "id": 111,
-    "name": "Korea, Republic Of",
+    "name": "South Korea",
     "code": "KR",
     "region": "ASIA (EX. NEAR EAST)",
     "population": 48846823,
     "area": 98480,
-    "gdp": 17800
+    "gdp": 17800,
+    "population_density": "496,0",
+    "net_migration": "0",
+    "infant_mortality": "7,05",
+    "literacy": "97,9",
+    "phones_per_1000": "486,1",
+    "arable_land_percentage": "17,18",
+    "land_types": {
+      "crops_percentage": "1,95",
+      "other_percentage": "80,87"
+    },
+    "climate": "3",
+    "birthrate": "10",
+    "deathrate": "5,85",
+    "agriculture": "0,033",
+    "industry": "0,403",
+    "service": "0,563",
+    "latitude": 35.907757,
+    "longitude": 127.766922,
+    "capital": "Seoul"
   },
   {
     "id": 112,
@@ -978,7 +3012,26 @@
     "region": "NEAR EAST",
     "population": 2418393,
     "area": 17820,
-    "gdp": 19000
+    "gdp": 19000,
+    "population_density": "135,7",
+    "net_migration": "14,18",
+    "infant_mortality": "9,95",
+    "literacy": "83,5",
+    "phones_per_1000": "211,0",
+    "arable_land_percentage": "0,73",
+    "land_types": {
+      "crops_percentage": "0,11",
+      "other_percentage": "99,16"
+    },
+    "climate": "1",
+    "birthrate": "21,94",
+    "deathrate": "2,41",
+    "agriculture": "0,004",
+    "industry": "0,479",
+    "service": "0,516",
+    "latitude": 29.31166,
+    "longitude": 47.481766,
+    "capital": "Kuwait City"
   },
   {
     "id": 113,
@@ -987,7 +3040,26 @@
     "region": "C.W. OF IND. STATES",
     "population": 5213898,
     "area": 198500,
-    "gdp": 1600
+    "gdp": 1600,
+    "population_density": "26,3",
+    "net_migration": "-2,45",
+    "infant_mortality": "35,64",
+    "literacy": "97,0",
+    "phones_per_1000": "84,0",
+    "arable_land_percentage": "7,3",
+    "land_types": {
+      "crops_percentage": "0,35",
+      "other_percentage": "92,35"
+    },
+    "climate": "2,5",
+    "birthrate": "22,8",
+    "deathrate": "7,08",
+    "agriculture": "0,353",
+    "industry": "0,208",
+    "service": "0,439",
+    "latitude": 41.20438,
+    "longitude": 74.766098,
+    "capital": "Bishkek"
   },
   {
     "id": 114,
@@ -996,7 +3068,26 @@
     "region": "ASIA (EX. NEAR EAST)",
     "population": 6368481,
     "area": 236800,
-    "gdp": 1700
+    "gdp": 1700,
+    "population_density": "26,9",
+    "net_migration": "0",
+    "infant_mortality": "85,22",
+    "literacy": "66,4",
+    "phones_per_1000": "14,1",
+    "arable_land_percentage": "3,8",
+    "land_types": {
+      "crops_percentage": "0,35",
+      "other_percentage": "95,85"
+    },
+    "climate": "2",
+    "birthrate": "35,49",
+    "deathrate": "11,55",
+    "agriculture": "0,455",
+    "industry": "0,287",
+    "service": "0,258",
+    "latitude": 19.85627,
+    "longitude": 102.495496,
+    "capital": "Vientiane"
   },
   {
     "id": 115,
@@ -1005,7 +3096,26 @@
     "region": "BALTICS",
     "population": 2274735,
     "area": 64589,
-    "gdp": 10200
+    "gdp": 10200,
+    "population_density": "35,2",
+    "net_migration": "-2,23",
+    "infant_mortality": "9,55",
+    "literacy": "99,8",
+    "phones_per_1000": "321,4",
+    "arable_land_percentage": "29,67",
+    "land_types": {
+      "crops_percentage": "0,47",
+      "other_percentage": "69,86"
+    },
+    "climate": "3",
+    "birthrate": "9,24",
+    "deathrate": "13,66",
+    "agriculture": "0,04",
+    "industry": "0,261",
+    "service": "0,699",
+    "latitude": 56.879635,
+    "longitude": 24.603189,
+    "capital": "Riga"
   },
   {
     "id": 116,
@@ -1014,7 +3124,26 @@
     "region": "NEAR EAST",
     "population": 3874050,
     "area": 10400,
-    "gdp": 4800
+    "gdp": 4800,
+    "population_density": "372,5",
+    "net_migration": "0",
+    "infant_mortality": "24,52",
+    "literacy": "87,4",
+    "phones_per_1000": "255,6",
+    "arable_land_percentage": "16,62",
+    "land_types": {
+      "crops_percentage": "13,98",
+      "other_percentage": "69,4"
+    },
+    "climate": "",
+    "birthrate": "18,52",
+    "deathrate": "6,21",
+    "agriculture": "0,12",
+    "industry": "0,21",
+    "service": "0,67",
+    "latitude": 33.854721,
+    "longitude": 35.862285,
+    "capital": "Beirut"
   },
   {
     "id": 117,
@@ -1023,7 +3152,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 2022331,
     "area": 30355,
-    "gdp": 3000
+    "gdp": 3000,
+    "population_density": "66,6",
+    "net_migration": "-0,74",
+    "infant_mortality": "84,23",
+    "literacy": "84,8",
+    "phones_per_1000": "23,7",
+    "arable_land_percentage": "10,87",
+    "land_types": {
+      "crops_percentage": "0,13",
+      "other_percentage": "89"
+    },
+    "climate": "3",
+    "birthrate": "24,75",
+    "deathrate": "28,71",
+    "agriculture": "0,163",
+    "industry": "0,443",
+    "service": "0,394",
+    "latitude": -29.609988,
+    "longitude": 28.233608,
+    "capital": "Maseru"
   },
   {
     "id": 118,
@@ -1032,7 +3180,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 3042004,
     "area": 111370,
-    "gdp": 1000
+    "gdp": 1000,
+    "population_density": "27,3",
+    "net_migration": "0",
+    "infant_mortality": "128,87",
+    "literacy": "57,5",
+    "phones_per_1000": "2,3",
+    "arable_land_percentage": "3,95",
+    "land_types": {
+      "crops_percentage": "2,28",
+      "other_percentage": "93,77"
+    },
+    "climate": "2",
+    "birthrate": "44,77",
+    "deathrate": "23,1",
+    "agriculture": "0,769",
+    "industry": "0,054",
+    "service": "0,177",
+    "latitude": 6.428055,
+    "longitude": -9.429499,
+    "capital": "Monrovia"
   },
   {
     "id": 119,
@@ -1041,7 +3208,26 @@
     "region": "NORTHERN AFRICA",
     "population": 5900754,
     "area": 1759540,
-    "gdp": 6400
+    "gdp": 6400,
+    "population_density": "3,4",
+    "net_migration": "0",
+    "infant_mortality": "24,6",
+    "literacy": "82,6",
+    "phones_per_1000": "127,1",
+    "arable_land_percentage": "1,03",
+    "land_types": {
+      "crops_percentage": "0,19",
+      "other_percentage": "98,78"
+    },
+    "climate": "",
+    "birthrate": "26,49",
+    "deathrate": "3,48",
+    "agriculture": "0,076",
+    "industry": "0,499",
+    "service": "0,425",
+    "latitude": 26.3351,
+    "longitude": 17.228331,
+    "capital": "Tripoli"
   },
   {
     "id": 120,
@@ -1050,7 +3236,26 @@
     "region": "WESTERN EUROPE",
     "population": 33987,
     "area": 160,
-    "gdp": 25000
+    "gdp": 25000,
+    "population_density": "212,4",
+    "net_migration": "4,85",
+    "infant_mortality": "4,7",
+    "literacy": "100,0",
+    "phones_per_1000": "585,5",
+    "arable_land_percentage": "25",
+    "land_types": {
+      "crops_percentage": "0",
+      "other_percentage": "75"
+    },
+    "climate": "4",
+    "birthrate": "10,21",
+    "deathrate": "7,18",
+    "agriculture": "0,06",
+    "industry": "0,39",
+    "service": "0,55",
+    "latitude": 47.166,
+    "longitude": 9.555373,
+    "capital": "Vaduz"
   },
   {
     "id": 121,
@@ -1059,7 +3264,26 @@
     "region": "BALTICS",
     "population": 3585906,
     "area": 65200,
-    "gdp": 11400
+    "gdp": 11400,
+    "population_density": "55,0",
+    "net_migration": "-0,71",
+    "infant_mortality": "6,89",
+    "literacy": "99,6",
+    "phones_per_1000": "223,4",
+    "arable_land_percentage": "45,22",
+    "land_types": {
+      "crops_percentage": "0,91",
+      "other_percentage": "53,87"
+    },
+    "climate": "",
+    "birthrate": "8,75",
+    "deathrate": "10,98",
+    "agriculture": "0,055",
+    "industry": "0,325",
+    "service": "0,62",
+    "latitude": 55.169438,
+    "longitude": 23.881275,
+    "capital": "Vilnius"
   },
   {
     "id": 122,
@@ -1068,7 +3292,26 @@
     "region": "WESTERN EUROPE",
     "population": 474413,
     "area": 2586,
-    "gdp": 55100
+    "gdp": 55100,
+    "population_density": "183,5",
+    "net_migration": "8,97",
+    "infant_mortality": "4,81",
+    "literacy": "100,0",
+    "phones_per_1000": "515,4",
+    "arable_land_percentage": "23,28",
+    "land_types": {
+      "crops_percentage": "0,4",
+      "other_percentage": "76,32"
+    },
+    "climate": "",
+    "birthrate": "11,94",
+    "deathrate": "8,41",
+    "agriculture": "0,01",
+    "industry": "0,13",
+    "service": "0,86",
+    "latitude": 49.815273,
+    "longitude": 6.129583,
+    "capital": "Luxembourg"
   },
   {
     "id": 123,
@@ -1077,16 +3320,53 @@
     "region": "ASIA (EX. NEAR EAST)",
     "population": 453125,
     "area": 28,
-    "gdp": 19400
+    "gdp": 19400,
+    "population_density": "16183,0",
+    "net_migration": "4,86",
+    "infant_mortality": "4,39",
+    "literacy": "94,5",
+    "phones_per_1000": "384,9",
+    "arable_land_percentage": "0",
+    "land_types": {
+      "crops_percentage": "0",
+      "other_percentage": "100"
+    },
+    "climate": "2",
+    "birthrate": "8,48",
+    "deathrate": "4,47",
+    "agriculture": "0,001",
+    "industry": "0,072",
+    "service": "0,927",
+    "latitude": 22.198745,
+    "longitude": 113.543873
   },
   {
     "id": 124,
-    "name": "Macedonia",
+    "name": "Macedonia [FYROM]",
     "code": "MK",
     "region": "EASTERN EUROPE",
     "population": 2050554,
     "area": 25333,
-    "gdp": 6700
+    "gdp": 6700,
+    "population_density": "80,9",
+    "net_migration": "-1,45",
+    "infant_mortality": "10,09",
+    "literacy": "",
+    "phones_per_1000": "260,0",
+    "arable_land_percentage": "22,26",
+    "land_types": {
+      "crops_percentage": "1,81",
+      "other_percentage": "75,93"
+    },
+    "climate": "3",
+    "birthrate": "12,02",
+    "deathrate": "8,77",
+    "agriculture": "0,118",
+    "industry": "0,319",
+    "service": "0,563",
+    "latitude": 41.608635,
+    "longitude": 21.745275,
+    "capital": "Skopje"
   },
   {
     "id": 125,
@@ -1095,7 +3375,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 18595469,
     "area": 587040,
-    "gdp": 800
+    "gdp": 800,
+    "population_density": "31,7",
+    "net_migration": "0",
+    "infant_mortality": "76,83",
+    "literacy": "68,9",
+    "phones_per_1000": "3,6",
+    "arable_land_percentage": "5,07",
+    "land_types": {
+      "crops_percentage": "1,03",
+      "other_percentage": "93,91"
+    },
+    "climate": "2",
+    "birthrate": "41,41",
+    "deathrate": "11,11",
+    "agriculture": "0,276",
+    "industry": "0,165",
+    "service": "0,559",
+    "latitude": -18.766947,
+    "longitude": 46.869107,
+    "capital": "Antananarivo"
   },
   {
     "id": 126,
@@ -1104,7 +3403,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 13013926,
     "area": 118480,
-    "gdp": 600
+    "gdp": 600,
+    "population_density": "109,8",
+    "net_migration": "0",
+    "infant_mortality": "103,32",
+    "literacy": "62,7",
+    "phones_per_1000": "7,9",
+    "arable_land_percentage": "23,38",
+    "land_types": {
+      "crops_percentage": "1,49",
+      "other_percentage": "75,13"
+    },
+    "climate": "2",
+    "birthrate": "43,13",
+    "deathrate": "19,33",
+    "agriculture": "0,342",
+    "industry": "0,158",
+    "service": "0,499",
+    "latitude": -13.254308,
+    "longitude": 34.301525,
+    "capital": "Lilongwe"
   },
   {
     "id": 127,
@@ -1113,7 +3431,26 @@
     "region": "ASIA (EX. NEAR EAST)",
     "population": 24385858,
     "area": 329750,
-    "gdp": 9000
+    "gdp": 9000,
+    "population_density": "74,0",
+    "net_migration": "0",
+    "infant_mortality": "17,7",
+    "literacy": "88,7",
+    "phones_per_1000": "179,0",
+    "arable_land_percentage": "5,48",
+    "land_types": {
+      "crops_percentage": "17,61",
+      "other_percentage": "76,91"
+    },
+    "climate": "2",
+    "birthrate": "22,86",
+    "deathrate": "5,05",
+    "agriculture": "0,084",
+    "industry": "0,48",
+    "service": "0,436",
+    "latitude": 4.210484,
+    "longitude": 101.975766,
+    "capital": "Kuala Lumpur"
   },
   {
     "id": 128,
@@ -1122,7 +3459,26 @@
     "region": "ASIA (EX. NEAR EAST)",
     "population": 359008,
     "area": 300,
-    "gdp": 3900
+    "gdp": 3900,
+    "population_density": "1196,7",
+    "net_migration": "0",
+    "infant_mortality": "56,52",
+    "literacy": "97,2",
+    "phones_per_1000": "90,0",
+    "arable_land_percentage": "13,33",
+    "land_types": {
+      "crops_percentage": "16,67",
+      "other_percentage": "70"
+    },
+    "climate": "2",
+    "birthrate": "34,81",
+    "deathrate": "7,06",
+    "agriculture": "0,2",
+    "industry": "0,18",
+    "service": "0,62",
+    "latitude": 3.202778,
+    "longitude": 73.22068,
+    "capital": "Malé"
   },
   {
     "id": 129,
@@ -1131,7 +3487,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 11716829,
     "area": 1240000,
-    "gdp": 900
+    "gdp": 900,
+    "population_density": "9,5",
+    "net_migration": "-0,33",
+    "infant_mortality": "116,79",
+    "literacy": "46,4",
+    "phones_per_1000": "6,4",
+    "arable_land_percentage": "3,82",
+    "land_types": {
+      "crops_percentage": "0,03",
+      "other_percentage": "96,15"
+    },
+    "climate": "2",
+    "birthrate": "49,82",
+    "deathrate": "16,89",
+    "agriculture": "0,45",
+    "industry": "0,17",
+    "service": "0,38",
+    "latitude": 17.570692,
+    "longitude": -3.996166,
+    "capital": "Bamako"
   },
   {
     "id": 130,
@@ -1140,7 +3515,26 @@
     "region": "WESTERN EUROPE",
     "population": 400214,
     "area": 316,
-    "gdp": 17700
+    "gdp": 17700,
+    "population_density": "1266,5",
+    "net_migration": "2,07",
+    "infant_mortality": "3,89",
+    "literacy": "92,8",
+    "phones_per_1000": "505,0",
+    "arable_land_percentage": "28,13",
+    "land_types": {
+      "crops_percentage": "3,13",
+      "other_percentage": "68,74"
+    },
+    "climate": "",
+    "birthrate": "10,22",
+    "deathrate": "8,1",
+    "agriculture": "0,03",
+    "industry": "0,23",
+    "service": "0,74",
+    "latitude": 35.937496,
+    "longitude": 14.375416,
+    "capital": "Valletta"
   },
   {
     "id": 131,
@@ -1149,7 +3543,26 @@
     "region": "OCEANIA",
     "population": 60422,
     "area": 11854,
-    "gdp": 1600
+    "gdp": 1600,
+    "population_density": "5,1",
+    "net_migration": "-6,04",
+    "infant_mortality": "29,45",
+    "literacy": "93,7",
+    "phones_per_1000": "91,2",
+    "arable_land_percentage": "16,67",
+    "land_types": {
+      "crops_percentage": "38,89",
+      "other_percentage": "44,44"
+    },
+    "climate": "2",
+    "birthrate": "33,05",
+    "deathrate": "4,78",
+    "agriculture": "0,317",
+    "industry": "0,149",
+    "service": "0,534",
+    "latitude": 7.131474,
+    "longitude": 171.184478,
+    "capital": "Majuro"
   },
   {
     "id": 132,
@@ -1158,7 +3571,25 @@
     "region": "LATIN AMER. & CARIB",
     "population": 436131,
     "area": 1100,
-    "gdp": 14400
+    "gdp": 14400,
+    "population_density": "396,5",
+    "net_migration": "-0,05",
+    "infant_mortality": "7,09",
+    "literacy": "97,7",
+    "phones_per_1000": "394,4",
+    "arable_land_percentage": "10,38",
+    "land_types": {
+      "crops_percentage": "9,43",
+      "other_percentage": "80,19"
+    },
+    "climate": "2",
+    "birthrate": "13,74",
+    "deathrate": "6,48",
+    "agriculture": "0,06",
+    "industry": "0,11",
+    "service": "0,83",
+    "latitude": 14.641528,
+    "longitude": -61.024174
   },
   {
     "id": 133,
@@ -1167,7 +3598,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 3177388,
     "area": 1030700,
-    "gdp": 1800
+    "gdp": 1800,
+    "population_density": "3,1",
+    "net_migration": "0",
+    "infant_mortality": "70,89",
+    "literacy": "41,7",
+    "phones_per_1000": "12,9",
+    "arable_land_percentage": "0,48",
+    "land_types": {
+      "crops_percentage": "0,01",
+      "other_percentage": "99,51"
+    },
+    "climate": "1",
+    "birthrate": "40,99",
+    "deathrate": "12,16",
+    "agriculture": "0,25",
+    "industry": "0,29",
+    "service": "0,46",
+    "latitude": 21.00789,
+    "longitude": -10.940835,
+    "capital": "Nouakchott"
   },
   {
     "id": 134,
@@ -1176,7 +3626,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 1240827,
     "area": 2040,
-    "gdp": 11400
+    "gdp": 11400,
+    "population_density": "608,3",
+    "net_migration": "-0,9",
+    "infant_mortality": "15,03",
+    "literacy": "85,6",
+    "phones_per_1000": "289,3",
+    "arable_land_percentage": "49,26",
+    "land_types": {
+      "crops_percentage": "2,96",
+      "other_percentage": "47,78"
+    },
+    "climate": "2",
+    "birthrate": "15,43",
+    "deathrate": "6,86",
+    "agriculture": "0,059",
+    "industry": "0,298",
+    "service": "0,643",
+    "latitude": -20.348404,
+    "longitude": 57.552152,
+    "capital": "Port Louis"
   },
   {
     "id": 135,
@@ -1185,7 +3654,25 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 201234,
     "area": 374,
-    "gdp": 2600
+    "gdp": 2600,
+    "population_density": "538,1",
+    "net_migration": "6,78",
+    "infant_mortality": "62,4",
+    "literacy": "",
+    "phones_per_1000": "49,7",
+    "arable_land_percentage": "",
+    "land_types": {
+      "crops_percentage": "",
+      "other_percentage": ""
+    },
+    "climate": "2",
+    "birthrate": "40,95",
+    "deathrate": "7,7",
+    "agriculture": "",
+    "industry": "",
+    "service": "",
+    "latitude": -12.8275,
+    "longitude": 45.166244
   },
   {
     "id": 136,
@@ -1194,16 +3681,54 @@
     "region": "LATIN AMER. & CARIB",
     "population": 107449525,
     "area": 1972550,
-    "gdp": 9000
+    "gdp": 9000,
+    "population_density": "54,5",
+    "net_migration": "-4,87",
+    "infant_mortality": "20,91",
+    "literacy": "92,2",
+    "phones_per_1000": "181,6",
+    "arable_land_percentage": "12,99",
+    "land_types": {
+      "crops_percentage": "1,31",
+      "other_percentage": "85,7"
+    },
+    "climate": "1,5",
+    "birthrate": "20,69",
+    "deathrate": "4,74",
+    "agriculture": "0,038",
+    "industry": "0,259",
+    "service": "0,702",
+    "latitude": 23.634501,
+    "longitude": -102.552784,
+    "capital": "Mexico City"
   },
   {
     "id": 137,
-    "name": "Micronesia, Federated States Of",
+    "name": "Micronesia",
     "code": "FM",
     "region": "OCEANIA",
     "population": 108004,
     "area": 702,
-    "gdp": 2000
+    "gdp": 2000,
+    "population_density": "153,9",
+    "net_migration": "-20,99",
+    "infant_mortality": "30,21",
+    "literacy": "89,0",
+    "phones_per_1000": "114,8",
+    "arable_land_percentage": "5,71",
+    "land_types": {
+      "crops_percentage": "45,71",
+      "other_percentage": "48,58"
+    },
+    "climate": "2",
+    "birthrate": "24,68",
+    "deathrate": "4,75",
+    "agriculture": "0,289",
+    "industry": "0,152",
+    "service": "0,559",
+    "latitude": 7.425554,
+    "longitude": 150.550812,
+    "capital": "Palikir"
   },
   {
     "id": 139,
@@ -1212,7 +3737,26 @@
     "region": "WESTERN EUROPE",
     "population": 32543,
     "area": 2,
-    "gdp": 27000
+    "gdp": 27000,
+    "population_density": "16271,5",
+    "net_migration": "7,75",
+    "infant_mortality": "5,43",
+    "literacy": "99,0",
+    "phones_per_1000": "1035,6",
+    "arable_land_percentage": "0",
+    "land_types": {
+      "crops_percentage": "0",
+      "other_percentage": "100"
+    },
+    "climate": "",
+    "birthrate": "9,19",
+    "deathrate": "12,91",
+    "agriculture": "0,17",
+    "industry": "",
+    "service": "",
+    "latitude": 43.750298,
+    "longitude": 7.412841,
+    "capital": "Monaco"
   },
   {
     "id": 140,
@@ -1221,7 +3765,26 @@
     "region": "ASIA (EX. NEAR EAST)",
     "population": 2832224,
     "area": 1564116,
-    "gdp": 1800
+    "gdp": 1800,
+    "population_density": "1,8",
+    "net_migration": "0",
+    "infant_mortality": "53,79",
+    "literacy": "97,8",
+    "phones_per_1000": "55,1",
+    "arable_land_percentage": "0,77",
+    "land_types": {
+      "crops_percentage": "0",
+      "other_percentage": "99,23"
+    },
+    "climate": "1",
+    "birthrate": "21,59",
+    "deathrate": "6,95",
+    "agriculture": "0,206",
+    "industry": "0,214",
+    "service": "0,58",
+    "latitude": 46.862496,
+    "longitude": 103.846656,
+    "capital": "Ulaanbaatar"
   },
   {
     "id": 141,
@@ -1230,7 +3793,25 @@
     "region": "LATIN AMER. & CARIB",
     "population": 9439,
     "area": 102,
-    "gdp": 3400
+    "gdp": 3400,
+    "population_density": "92,5",
+    "net_migration": "0",
+    "infant_mortality": "7,35",
+    "literacy": "97,0",
+    "phones_per_1000": "",
+    "arable_land_percentage": "20",
+    "land_types": {
+      "crops_percentage": "0",
+      "other_percentage": "80"
+    },
+    "climate": "2",
+    "birthrate": "17,59",
+    "deathrate": "7,1",
+    "agriculture": "",
+    "industry": "",
+    "service": "",
+    "latitude": 16.742498,
+    "longitude": -62.187366
   },
   {
     "id": 142,
@@ -1239,7 +3820,26 @@
     "region": "NORTHERN AFRICA",
     "population": 33241259,
     "area": 446550,
-    "gdp": 4000
+    "gdp": 4000,
+    "population_density": "74,4",
+    "net_migration": "-0,98",
+    "infant_mortality": "41,62",
+    "literacy": "51,7",
+    "phones_per_1000": "40,4",
+    "arable_land_percentage": "19,61",
+    "land_types": {
+      "crops_percentage": "2,17",
+      "other_percentage": "78,22"
+    },
+    "climate": "",
+    "birthrate": "21,98",
+    "deathrate": "5,58",
+    "agriculture": "0,217",
+    "industry": "0,357",
+    "service": "0,426",
+    "latitude": 31.791702,
+    "longitude": -7.09262,
+    "capital": "Rabat"
   },
   {
     "id": 143,
@@ -1248,7 +3848,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 19686505,
     "area": 801590,
-    "gdp": 1200
+    "gdp": 1200,
+    "population_density": "24,6",
+    "net_migration": "0",
+    "infant_mortality": "130,79",
+    "literacy": "47,8",
+    "phones_per_1000": "3,5",
+    "arable_land_percentage": "5,1",
+    "land_types": {
+      "crops_percentage": "0,3",
+      "other_percentage": "94,6"
+    },
+    "climate": "2",
+    "birthrate": "35,18",
+    "deathrate": "21,35",
+    "agriculture": "0,262",
+    "industry": "0,348",
+    "service": "0,39",
+    "latitude": -18.665695,
+    "longitude": 35.529562,
+    "capital": "Maputo"
   },
   {
     "id": 144,
@@ -1257,7 +3876,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 2044147,
     "area": 825418,
-    "gdp": 7200
+    "gdp": 7200,
+    "population_density": "2,5",
+    "net_migration": "0",
+    "infant_mortality": "48,98",
+    "literacy": "84,0",
+    "phones_per_1000": "62,6",
+    "arable_land_percentage": "0,99",
+    "land_types": {
+      "crops_percentage": "0",
+      "other_percentage": "99,01"
+    },
+    "climate": "1",
+    "birthrate": "24,32",
+    "deathrate": "18,86",
+    "agriculture": "0,097",
+    "industry": "0,315",
+    "service": "0,588",
+    "latitude": -22.95764,
+    "longitude": 18.49041,
+    "capital": "Windhoek"
   },
   {
     "id": 145,
@@ -1266,7 +3904,26 @@
     "region": "OCEANIA",
     "population": 13287,
     "area": 21,
-    "gdp": 5000
+    "gdp": 5000,
+    "population_density": "632,7",
+    "net_migration": "0",
+    "infant_mortality": "9,95",
+    "literacy": "",
+    "phones_per_1000": "143,0",
+    "arable_land_percentage": "0",
+    "land_types": {
+      "crops_percentage": "0",
+      "other_percentage": "100"
+    },
+    "climate": "2",
+    "birthrate": "24,76",
+    "deathrate": "6,7",
+    "agriculture": "",
+    "industry": "",
+    "service": "",
+    "latitude": -0.522778,
+    "longitude": 166.931503,
+    "capital": "Yaren"
   },
   {
     "id": 146,
@@ -1275,7 +3932,26 @@
     "region": "ASIA (EX. NEAR EAST)",
     "population": 28287147,
     "area": 147181,
-    "gdp": 1400
+    "gdp": 1400,
+    "population_density": "192,2",
+    "net_migration": "0",
+    "infant_mortality": "66,98",
+    "literacy": "45,2",
+    "phones_per_1000": "15,9",
+    "arable_land_percentage": "21,68",
+    "land_types": {
+      "crops_percentage": "0,64",
+      "other_percentage": "77,68"
+    },
+    "climate": "",
+    "birthrate": "30,98",
+    "deathrate": "9,31",
+    "agriculture": "0,38",
+    "industry": "0,21",
+    "service": "0,41",
+    "latitude": 28.394857,
+    "longitude": 84.124008,
+    "capital": "Kathmandu"
   },
   {
     "id": 147,
@@ -1284,7 +3960,26 @@
     "region": "WESTERN EUROPE",
     "population": 16491461,
     "area": 41526,
-    "gdp": 28600
+    "gdp": 28600,
+    "population_density": "397,1",
+    "net_migration": "2,91",
+    "infant_mortality": "5,04",
+    "literacy": "99,0",
+    "phones_per_1000": "460,8",
+    "arable_land_percentage": "26,71",
+    "land_types": {
+      "crops_percentage": "0,97",
+      "other_percentage": "72,32"
+    },
+    "climate": "3",
+    "birthrate": "10,9",
+    "deathrate": "8,68",
+    "agriculture": "0,021",
+    "industry": "0,244",
+    "service": "0,736",
+    "latitude": 52.132633,
+    "longitude": 5.291266,
+    "capital": "Amsterdam"
   },
   {
     "id": 148,
@@ -1293,7 +3988,25 @@
     "region": "LATIN AMER. & CARIB",
     "population": 221736,
     "area": 960,
-    "gdp": 11400
+    "gdp": 11400,
+    "population_density": "231,0",
+    "net_migration": "-0,41",
+    "infant_mortality": "10,03",
+    "literacy": "96,7",
+    "phones_per_1000": "365,3",
+    "arable_land_percentage": "10",
+    "land_types": {
+      "crops_percentage": "0",
+      "other_percentage": "90"
+    },
+    "climate": "2",
+    "birthrate": "14,78",
+    "deathrate": "6,45",
+    "agriculture": "0,01",
+    "industry": "0,15",
+    "service": "0,84",
+    "latitude": 12.226079,
+    "longitude": -69.060087
   },
   {
     "id": 149,
@@ -1302,7 +4015,25 @@
     "region": "OCEANIA",
     "population": 219246,
     "area": 19060,
-    "gdp": 15000
+    "gdp": 15000,
+    "population_density": "11,5",
+    "net_migration": "0",
+    "infant_mortality": "7,72",
+    "literacy": "91,0",
+    "phones_per_1000": "252,2",
+    "arable_land_percentage": "0,38",
+    "land_types": {
+      "crops_percentage": "0,33",
+      "other_percentage": "99,29"
+    },
+    "climate": "2",
+    "birthrate": "18,11",
+    "deathrate": "5,69",
+    "agriculture": "0,15",
+    "industry": "0,088",
+    "service": "0,762",
+    "latitude": -20.904305,
+    "longitude": 165.618042
   },
   {
     "id": 150,
@@ -1311,7 +4042,26 @@
     "region": "OCEANIA",
     "population": 4076140,
     "area": 268680,
-    "gdp": 21600
+    "gdp": 21600,
+    "population_density": "15,2",
+    "net_migration": "4,05",
+    "infant_mortality": "5,85",
+    "literacy": "99,0",
+    "phones_per_1000": "441,7",
+    "arable_land_percentage": "5,6",
+    "land_types": {
+      "crops_percentage": "6,99",
+      "other_percentage": "87,41"
+    },
+    "climate": "3",
+    "birthrate": "13,76",
+    "deathrate": "7,53",
+    "agriculture": "0,043",
+    "industry": "0,273",
+    "service": "0,684",
+    "latitude": -40.900557,
+    "longitude": 174.885971,
+    "capital": "Wellington"
   },
   {
     "id": 151,
@@ -1320,7 +4070,26 @@
     "region": "LATIN AMER. & CARIB",
     "population": 5570129,
     "area": 129494,
-    "gdp": 2300
+    "gdp": 2300,
+    "population_density": "43,0",
+    "net_migration": "-1,22",
+    "infant_mortality": "29,11",
+    "literacy": "67,5",
+    "phones_per_1000": "39,7",
+    "arable_land_percentage": "15,94",
+    "land_types": {
+      "crops_percentage": "1,94",
+      "other_percentage": "82,12"
+    },
+    "climate": "2",
+    "birthrate": "24,51",
+    "deathrate": "4,45",
+    "agriculture": "0,165",
+    "industry": "0,275",
+    "service": "0,56",
+    "latitude": 12.865416,
+    "longitude": -85.207229,
+    "capital": "Managua"
   },
   {
     "id": 152,
@@ -1329,7 +4098,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 12525094,
     "area": 1267000,
-    "gdp": 800
+    "gdp": 800,
+    "population_density": "9,9",
+    "net_migration": "-0,67",
+    "infant_mortality": "121,69",
+    "literacy": "17,6",
+    "phones_per_1000": "1,9",
+    "arable_land_percentage": "3,54",
+    "land_types": {
+      "crops_percentage": "0,01",
+      "other_percentage": "96,45"
+    },
+    "climate": "1",
+    "birthrate": "50,73",
+    "deathrate": "20,91",
+    "agriculture": "0,39",
+    "industry": "0,17",
+    "service": "0,44",
+    "latitude": 17.607789,
+    "longitude": 8.081666,
+    "capital": "Niamey"
   },
   {
     "id": 153,
@@ -1338,7 +4126,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 131859731,
     "area": 923768,
-    "gdp": 900
+    "gdp": 900,
+    "population_density": "142,7",
+    "net_migration": "0,26",
+    "infant_mortality": "98,8",
+    "literacy": "68,0",
+    "phones_per_1000": "9,3",
+    "arable_land_percentage": "31,29",
+    "land_types": {
+      "crops_percentage": "2,96",
+      "other_percentage": "65,75"
+    },
+    "climate": "1,5",
+    "birthrate": "40,43",
+    "deathrate": "16,94",
+    "agriculture": "0,269",
+    "industry": "0,487",
+    "service": "0,244",
+    "latitude": 9.081999,
+    "longitude": 8.675277,
+    "capital": "Abuja"
   },
   {
     "id": 155,
@@ -1347,7 +4154,26 @@
     "region": "WESTERN EUROPE",
     "population": 4610820,
     "area": 323802,
-    "gdp": 37800
+    "gdp": 37800,
+    "population_density": "14,2",
+    "net_migration": "1,74",
+    "infant_mortality": "3,7",
+    "literacy": "100,0",
+    "phones_per_1000": "461,7",
+    "arable_land_percentage": "2,87",
+    "land_types": {
+      "crops_percentage": "0",
+      "other_percentage": "97,13"
+    },
+    "climate": "3",
+    "birthrate": "11,46",
+    "deathrate": "9,4",
+    "agriculture": "0,021",
+    "industry": "0,415",
+    "service": "0,564",
+    "latitude": 60.472024,
+    "longitude": 8.468946,
+    "capital": "Oslo"
   },
   {
     "id": 156,
@@ -1356,7 +4182,26 @@
     "region": "NEAR EAST",
     "population": 3102229,
     "area": 212460,
-    "gdp": 13100
+    "gdp": 13100,
+    "population_density": "14,6",
+    "net_migration": "0,28",
+    "infant_mortality": "19,51",
+    "literacy": "75,8",
+    "phones_per_1000": "85,5",
+    "arable_land_percentage": "0",
+    "land_types": {
+      "crops_percentage": "0,14",
+      "other_percentage": "99,74"
+    },
+    "climate": "1",
+    "birthrate": "36,24",
+    "deathrate": "3,81",
+    "agriculture": "0,027",
+    "industry": "0,39",
+    "service": "0,583",
+    "latitude": 21.512583,
+    "longitude": 55.923255,
+    "capital": "Muscat"
   },
   {
     "id": 157,
@@ -1365,7 +4210,26 @@
     "region": "ASIA (EX. NEAR EAST)",
     "population": 165803560,
     "area": 803940,
-    "gdp": 2100
+    "gdp": 2100,
+    "population_density": "206,2",
+    "net_migration": "-2,77",
+    "infant_mortality": "72,44",
+    "literacy": "45,7",
+    "phones_per_1000": "31,8",
+    "arable_land_percentage": "27,87",
+    "land_types": {
+      "crops_percentage": "0,87",
+      "other_percentage": "71,26"
+    },
+    "climate": "1",
+    "birthrate": "29,74",
+    "deathrate": "8,23",
+    "agriculture": "0,216",
+    "industry": "0,251",
+    "service": "0,533",
+    "latitude": 30.375321,
+    "longitude": 69.345116,
+    "capital": "Islamabad"
   },
   {
     "id": 158,
@@ -1374,7 +4238,26 @@
     "region": "OCEANIA",
     "population": 20579,
     "area": 458,
-    "gdp": 9000
+    "gdp": 9000,
+    "population_density": "44,9",
+    "net_migration": "2,85",
+    "infant_mortality": "14,84",
+    "literacy": "92,0",
+    "phones_per_1000": "325,6",
+    "arable_land_percentage": "8,7",
+    "land_types": {
+      "crops_percentage": "4,35",
+      "other_percentage": "86,95"
+    },
+    "climate": "2",
+    "birthrate": "18,03",
+    "deathrate": "6,8",
+    "agriculture": "0,062",
+    "industry": "0,12",
+    "service": "0,818",
+    "latitude": 7.51498,
+    "longitude": 134.58252,
+    "capital": "Melekeok"
   },
   {
     "id": 159,
@@ -1383,7 +4266,26 @@
     "region": "LATIN AMER. & CARIB",
     "population": 3191319,
     "area": 78200,
-    "gdp": 6300
+    "gdp": 6300,
+    "population_density": "40,8",
+    "net_migration": "-0,91",
+    "infant_mortality": "20,47",
+    "literacy": "92,6",
+    "phones_per_1000": "137,9",
+    "arable_land_percentage": "7,36",
+    "land_types": {
+      "crops_percentage": "1,98",
+      "other_percentage": "90,66"
+    },
+    "climate": "2",
+    "birthrate": "21,74",
+    "deathrate": "5,36",
+    "agriculture": "0,068",
+    "industry": "0,156",
+    "service": "0,776",
+    "latitude": 8.537981,
+    "longitude": -80.782127,
+    "capital": "Panama City"
   },
   {
     "id": 160,
@@ -1392,7 +4294,26 @@
     "region": "OCEANIA",
     "population": 5670544,
     "area": 462840,
-    "gdp": 2200
+    "gdp": 2200,
+    "population_density": "12,3",
+    "net_migration": "0",
+    "infant_mortality": "51,45",
+    "literacy": "64,6",
+    "phones_per_1000": "10,9",
+    "arable_land_percentage": "0,46",
+    "land_types": {
+      "crops_percentage": "1,44",
+      "other_percentage": "98,1"
+    },
+    "climate": "2",
+    "birthrate": "29,36",
+    "deathrate": "7,25",
+    "agriculture": "0,353",
+    "industry": "0,381",
+    "service": "0,266",
+    "latitude": -6.314993,
+    "longitude": 143.95555,
+    "capital": "Port Moresby"
   },
   {
     "id": 161,
@@ -1401,7 +4322,26 @@
     "region": "LATIN AMER. & CARIB",
     "population": 6506464,
     "area": 406750,
-    "gdp": 4700
+    "gdp": 4700,
+    "population_density": "16,0",
+    "net_migration": "-0,08",
+    "infant_mortality": "25,63",
+    "literacy": "94,0",
+    "phones_per_1000": "49,2",
+    "arable_land_percentage": "7,6",
+    "land_types": {
+      "crops_percentage": "0,23",
+      "other_percentage": "92,17"
+    },
+    "climate": "2",
+    "birthrate": "29,1",
+    "deathrate": "4,49",
+    "agriculture": "0,224",
+    "industry": "0,207",
+    "service": "0,569",
+    "latitude": -23.442503,
+    "longitude": -58.443832,
+    "capital": "Asunción"
   },
   {
     "id": 162,
@@ -1410,7 +4350,26 @@
     "region": "LATIN AMER. & CARIB",
     "population": 28302603,
     "area": 1285220,
-    "gdp": 5100
+    "gdp": 5100,
+    "population_density": "22,0",
+    "net_migration": "-1,05",
+    "infant_mortality": "31,94",
+    "literacy": "90,9",
+    "phones_per_1000": "79,5",
+    "arable_land_percentage": "2,89",
+    "land_types": {
+      "crops_percentage": "0,4",
+      "other_percentage": "96,71"
+    },
+    "climate": "1,5",
+    "birthrate": "20,48",
+    "deathrate": "6,23",
+    "agriculture": "0,08",
+    "industry": "0,27",
+    "service": "0,65",
+    "latitude": -9.189967,
+    "longitude": -75.015152,
+    "capital": "Lima"
   },
   {
     "id": 163,
@@ -1419,7 +4378,26 @@
     "region": "ASIA (EX. NEAR EAST)",
     "population": 89468677,
     "area": 300000,
-    "gdp": 4600
+    "gdp": 4600,
+    "population_density": "298,2",
+    "net_migration": "-1,5",
+    "infant_mortality": "23,51",
+    "literacy": "92,6",
+    "phones_per_1000": "38,4",
+    "arable_land_percentage": "18,95",
+    "land_types": {
+      "crops_percentage": "16,77",
+      "other_percentage": "64,28"
+    },
+    "climate": "2",
+    "birthrate": "24,89",
+    "deathrate": "5,41",
+    "agriculture": "0,144",
+    "industry": "0,326",
+    "service": "0,53",
+    "latitude": 12.879721,
+    "longitude": 121.774017,
+    "capital": "Manila"
   },
   {
     "id": 164,
@@ -1428,7 +4406,26 @@
     "region": "EASTERN EUROPE",
     "population": 38536869,
     "area": 312685,
-    "gdp": 11100
+    "gdp": 11100,
+    "population_density": "123,3",
+    "net_migration": "-0,49",
+    "infant_mortality": "8,51",
+    "literacy": "99,8",
+    "phones_per_1000": "306,3",
+    "arable_land_percentage": "45,91",
+    "land_types": {
+      "crops_percentage": "1,12",
+      "other_percentage": "52,97"
+    },
+    "climate": "3",
+    "birthrate": "9,85",
+    "deathrate": "9,89",
+    "agriculture": "0,05",
+    "industry": "0,311",
+    "service": "0,64",
+    "latitude": 51.919438,
+    "longitude": 19.145136,
+    "capital": "Warsaw"
   },
   {
     "id": 165,
@@ -1437,7 +4434,26 @@
     "region": "WESTERN EUROPE",
     "population": 10605870,
     "area": 92391,
-    "gdp": 18000
+    "gdp": 18000,
+    "population_density": "114,8",
+    "net_migration": "3,57",
+    "infant_mortality": "5,05",
+    "literacy": "93,3",
+    "phones_per_1000": "399,2",
+    "arable_land_percentage": "21,75",
+    "land_types": {
+      "crops_percentage": "7,81",
+      "other_percentage": "70,44"
+    },
+    "climate": "3",
+    "birthrate": "10,72",
+    "deathrate": "10,5",
+    "agriculture": "0,053",
+    "industry": "0,274",
+    "service": "0,673",
+    "latitude": 39.399872,
+    "longitude": -8.224454,
+    "capital": "Lisbon"
   },
   {
     "id": 166,
@@ -1446,7 +4462,25 @@
     "region": "LATIN AMER. & CARIB",
     "population": 3927188,
     "area": 13790,
-    "gdp": 16800
+    "gdp": 16800,
+    "population_density": "284,8",
+    "net_migration": "-1,46",
+    "infant_mortality": "8,24",
+    "literacy": "94,1",
+    "phones_per_1000": "283,1",
+    "arable_land_percentage": "3,95",
+    "land_types": {
+      "crops_percentage": "5,52",
+      "other_percentage": "90,53"
+    },
+    "climate": "2",
+    "birthrate": "12,77",
+    "deathrate": "7,65",
+    "agriculture": "0,01",
+    "industry": "0,45",
+    "service": "0,54",
+    "latitude": 18.220833,
+    "longitude": -66.590149
   },
   {
     "id": 167,
@@ -1455,16 +4489,53 @@
     "region": "NEAR EAST",
     "population": 885359,
     "area": 11437,
-    "gdp": 21500
+    "gdp": 21500,
+    "population_density": "77,4",
+    "net_migration": "16,29",
+    "infant_mortality": "18,61",
+    "literacy": "82,5",
+    "phones_per_1000": "232,0",
+    "arable_land_percentage": "1,64",
+    "land_types": {
+      "crops_percentage": "0,27",
+      "other_percentage": "98,09"
+    },
+    "climate": "1",
+    "birthrate": "15,56",
+    "deathrate": "4,72",
+    "agriculture": "0,002",
+    "industry": "0,801",
+    "service": "0,197",
+    "latitude": 25.354826,
+    "longitude": 51.183884,
+    "capital": "Doha"
   },
   {
     "id": 168,
-    "name": "Reunion",
+    "name": "R?union",
     "code": "RE",
     "region": "SUB-SAHARAN AFRICA",
     "population": 787584,
     "area": 2517,
-    "gdp": 5800
+    "gdp": 5800,
+    "population_density": "312,9",
+    "net_migration": "0",
+    "infant_mortality": "7,78",
+    "literacy": "88,9",
+    "phones_per_1000": "380,9",
+    "arable_land_percentage": "13,6",
+    "land_types": {
+      "crops_percentage": "1,2",
+      "other_percentage": "85,2"
+    },
+    "climate": "2",
+    "birthrate": "18,9",
+    "deathrate": "5,49",
+    "agriculture": "0,08",
+    "industry": "0,19",
+    "service": "0,73",
+    "latitude": -21.115141,
+    "longitude": 55.536384
   },
   {
     "id": 169,
@@ -1473,7 +4544,26 @@
     "region": "EASTERN EUROPE",
     "population": 22303552,
     "area": 237500,
-    "gdp": 7000
+    "gdp": 7000,
+    "population_density": "93,9",
+    "net_migration": "-0,13",
+    "infant_mortality": "26,43",
+    "literacy": "98,4",
+    "phones_per_1000": "196,9",
+    "arable_land_percentage": "40,82",
+    "land_types": {
+      "crops_percentage": "2,25",
+      "other_percentage": "56,93"
+    },
+    "climate": "3",
+    "birthrate": "10,7",
+    "deathrate": "11,77",
+    "agriculture": "0,101",
+    "industry": "0,35",
+    "service": "0,549",
+    "latitude": 45.943161,
+    "longitude": 24.96676,
+    "capital": "Bucharest"
   },
   {
     "id": 170,
@@ -1482,7 +4572,26 @@
     "region": "C.W. OF IND. STATES",
     "population": 142893540,
     "area": 17075200,
-    "gdp": 8900
+    "gdp": 8900,
+    "population_density": "8,4",
+    "net_migration": "1,02",
+    "infant_mortality": "15,39",
+    "literacy": "99,6",
+    "phones_per_1000": "280,6",
+    "arable_land_percentage": "7,33",
+    "land_types": {
+      "crops_percentage": "0,11",
+      "other_percentage": "92,56"
+    },
+    "climate": "",
+    "birthrate": "9,95",
+    "deathrate": "14,65",
+    "agriculture": "0,054",
+    "industry": "0,371",
+    "service": "0,575",
+    "latitude": 61.52401,
+    "longitude": 105.318756,
+    "capital": "Moscow"
   },
   {
     "id": 171,
@@ -1491,7 +4600,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 8648248,
     "area": 26338,
-    "gdp": 1300
+    "gdp": 1300,
+    "population_density": "328,4",
+    "net_migration": "0",
+    "infant_mortality": "91,23",
+    "literacy": "70,4",
+    "phones_per_1000": "2,7",
+    "arable_land_percentage": "40,54",
+    "land_types": {
+      "crops_percentage": "12,16",
+      "other_percentage": "47,3"
+    },
+    "climate": "3",
+    "birthrate": "40,37",
+    "deathrate": "16,09",
+    "agriculture": "0,401",
+    "industry": "0,229",
+    "service": "0,37",
+    "latitude": -1.940278,
+    "longitude": 29.873888,
+    "capital": "Kigali"
   },
   {
     "id": 172,
@@ -1500,16 +4628,53 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 7502,
     "area": 413,
-    "gdp": 2500
+    "gdp": 2500,
+    "population_density": "18,2",
+    "net_migration": "0",
+    "infant_mortality": "19",
+    "literacy": "97,0",
+    "phones_per_1000": "293,3",
+    "arable_land_percentage": "12,9",
+    "land_types": {
+      "crops_percentage": "0",
+      "other_percentage": "87,1"
+    },
+    "climate": "",
+    "birthrate": "12,13",
+    "deathrate": "6,53",
+    "agriculture": "",
+    "industry": "",
+    "service": "",
+    "latitude": -24.143474,
+    "longitude": -10.030696
   },
   {
     "id": 173,
-    "name": "Saint Kitts & Nevis",
+    "name": "Saint Kitts and Nevis",
     "code": "KN",
     "region": "LATIN AMER. & CARIB",
     "population": 39129,
     "area": 261,
-    "gdp": 8800
+    "gdp": 8800,
+    "population_density": "149,9",
+    "net_migration": "-7,11",
+    "infant_mortality": "14,49",
+    "literacy": "97,0",
+    "phones_per_1000": "638,9",
+    "arable_land_percentage": "19,44",
+    "land_types": {
+      "crops_percentage": "2,78",
+      "other_percentage": "77,78"
+    },
+    "climate": "2",
+    "birthrate": "18,02",
+    "deathrate": "8,33",
+    "agriculture": "0,035",
+    "industry": "0,258",
+    "service": "0,707",
+    "latitude": 17.357822,
+    "longitude": -62.782998,
+    "capital": "Basseterre"
   },
   {
     "id": 174,
@@ -1518,16 +4683,54 @@
     "region": "LATIN AMER. & CARIB",
     "population": 168458,
     "area": 616,
-    "gdp": 5400
+    "gdp": 5400,
+    "population_density": "273,5",
+    "net_migration": "-2,67",
+    "infant_mortality": "13,53",
+    "literacy": "67,0",
+    "phones_per_1000": "303,3",
+    "arable_land_percentage": "6,56",
+    "land_types": {
+      "crops_percentage": "22,95",
+      "other_percentage": "70,49"
+    },
+    "climate": "2",
+    "birthrate": "19,68",
+    "deathrate": "5,08",
+    "agriculture": "0,07",
+    "industry": "0,2",
+    "service": "0,73",
+    "latitude": 13.909444,
+    "longitude": -60.978893,
+    "capital": "Castries"
   },
   {
     "id": 176,
-    "name": "Saint Vincent & the Grenadines",
+    "name": "Saint Vincent and the Grenadines",
     "code": "VC",
     "region": "LATIN AMER. & CARIB",
     "population": 117848,
     "area": 389,
-    "gdp": 2900
+    "gdp": 2900,
+    "population_density": "303,0",
+    "net_migration": "-7,64",
+    "infant_mortality": "14,78",
+    "literacy": "96,0",
+    "phones_per_1000": "190,9",
+    "arable_land_percentage": "17,95",
+    "land_types": {
+      "crops_percentage": "17,95",
+      "other_percentage": "64,1"
+    },
+    "climate": "2",
+    "birthrate": "16,18",
+    "deathrate": "5,98",
+    "agriculture": "0,1",
+    "industry": "0,26",
+    "service": "0,64",
+    "latitude": 12.984305,
+    "longitude": -61.287228,
+    "capital": "Kingstown"
   },
   {
     "id": 177,
@@ -1536,7 +4739,26 @@
     "region": "OCEANIA",
     "population": 176908,
     "area": 2944,
-    "gdp": 5600
+    "gdp": 5600,
+    "population_density": "60,1",
+    "net_migration": "-11,7",
+    "infant_mortality": "27,71",
+    "literacy": "99,7",
+    "phones_per_1000": "75,2",
+    "arable_land_percentage": "21,2",
+    "land_types": {
+      "crops_percentage": "24,38",
+      "other_percentage": "54,42"
+    },
+    "climate": "2",
+    "birthrate": "16,43",
+    "deathrate": "6,62",
+    "agriculture": "0,114",
+    "industry": "0,584",
+    "service": "0,302",
+    "latitude": -13.759029,
+    "longitude": -172.104629,
+    "capital": "Apia"
   },
   {
     "id": 178,
@@ -1545,16 +4767,54 @@
     "region": "WESTERN EUROPE",
     "population": 29251,
     "area": 61,
-    "gdp": 34600
+    "gdp": 34600,
+    "population_density": "479,5",
+    "net_migration": "10,98",
+    "infant_mortality": "5,73",
+    "literacy": "96,0",
+    "phones_per_1000": "704,3",
+    "arable_land_percentage": "16,67",
+    "land_types": {
+      "crops_percentage": "0",
+      "other_percentage": "83,33"
+    },
+    "climate": "",
+    "birthrate": "10,02",
+    "deathrate": "8,17",
+    "agriculture": "",
+    "industry": "",
+    "service": "",
+    "latitude": 43.94236,
+    "longitude": 12.457777,
+    "capital": "San Marino"
   },
   {
     "id": 179,
-    "name": "Sao Tome & Principe",
+    "name": "S?o Tom? and Pr?ncipe",
     "code": "ST",
     "region": "SUB-SAHARAN AFRICA",
     "population": 193413,
     "area": 1001,
-    "gdp": 1200
+    "gdp": 1200,
+    "population_density": "193,2",
+    "net_migration": "-2,72",
+    "infant_mortality": "43,11",
+    "literacy": "79,3",
+    "phones_per_1000": "36,2",
+    "arable_land_percentage": "6,25",
+    "land_types": {
+      "crops_percentage": "48,96",
+      "other_percentage": "44,79"
+    },
+    "climate": "2",
+    "birthrate": "40,25",
+    "deathrate": "6,47",
+    "agriculture": "0,167",
+    "industry": "0,148",
+    "service": "0,684",
+    "latitude": 0.18636,
+    "longitude": 6.613081,
+    "capital": "São Tomé"
   },
   {
     "id": 180,
@@ -1563,7 +4823,26 @@
     "region": "NEAR EAST",
     "population": 27019731,
     "area": 1960582,
-    "gdp": 11800
+    "gdp": 11800,
+    "population_density": "13,8",
+    "net_migration": "-2,71",
+    "infant_mortality": "13,24",
+    "literacy": "78,8",
+    "phones_per_1000": "140,6",
+    "arable_land_percentage": "1,67",
+    "land_types": {
+      "crops_percentage": "0,09",
+      "other_percentage": "98,24"
+    },
+    "climate": "1",
+    "birthrate": "29,34",
+    "deathrate": "2,58",
+    "agriculture": "0,033",
+    "industry": "0,613",
+    "service": "0,354",
+    "latitude": 23.885942,
+    "longitude": 45.079162,
+    "capital": "Riyadh"
   },
   {
     "id": 181,
@@ -1572,7 +4851,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 11987121,
     "area": 196190,
-    "gdp": 1600
+    "gdp": 1600,
+    "population_density": "61,1",
+    "net_migration": "0,2",
+    "infant_mortality": "55,51",
+    "literacy": "40,2",
+    "phones_per_1000": "22,2",
+    "arable_land_percentage": "12,78",
+    "land_types": {
+      "crops_percentage": "0,21",
+      "other_percentage": "87,01"
+    },
+    "climate": "2",
+    "birthrate": "32,78",
+    "deathrate": "9,42",
+    "agriculture": "0,172",
+    "industry": "0,209",
+    "service": "0,619",
+    "latitude": 14.497401,
+    "longitude": -14.452362,
+    "capital": "Dakar"
   },
   {
     "id": 182,
@@ -1581,7 +4879,26 @@
     "region": "EASTERN EUROPE",
     "population": 9396411,
     "area": 88361,
-    "gdp": 2200
+    "gdp": 2200,
+    "population_density": "106,3",
+    "net_migration": "-1,33",
+    "infant_mortality": "12,89",
+    "literacy": "93,0",
+    "phones_per_1000": "285,8",
+    "arable_land_percentage": "33,35",
+    "land_types": {
+      "crops_percentage": "3,2",
+      "other_percentage": "63,45"
+    },
+    "climate": "",
+    "birthrate": "",
+    "deathrate": "",
+    "agriculture": "0,166",
+    "industry": "0,255",
+    "service": "0,579",
+    "latitude": 44.016521,
+    "longitude": 21.005859,
+    "capital": "Belgrade"
   },
   {
     "id": 183,
@@ -1590,7 +4907,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 81541,
     "area": 455,
-    "gdp": 7800
+    "gdp": 7800,
+    "population_density": "179,2",
+    "net_migration": "-5,69",
+    "infant_mortality": "15,53",
+    "literacy": "58,0",
+    "phones_per_1000": "262,4",
+    "arable_land_percentage": "2,22",
+    "land_types": {
+      "crops_percentage": "13,33",
+      "other_percentage": "84,45"
+    },
+    "climate": "2",
+    "birthrate": "16,03",
+    "deathrate": "6,29",
+    "agriculture": "0,032",
+    "industry": "0,304",
+    "service": "0,665",
+    "latitude": -4.679574,
+    "longitude": 55.491977,
+    "capital": "Victoria"
   },
   {
     "id": 184,
@@ -1599,7 +4935,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 6005250,
     "area": 71740,
-    "gdp": 500
+    "gdp": 500,
+    "population_density": "83,7",
+    "net_migration": "0",
+    "infant_mortality": "143,64",
+    "literacy": "31,4",
+    "phones_per_1000": "4,0",
+    "arable_land_percentage": "6,98",
+    "land_types": {
+      "crops_percentage": "0,89",
+      "other_percentage": "92,13"
+    },
+    "climate": "2",
+    "birthrate": "45,76",
+    "deathrate": "23,03",
+    "agriculture": "0,49",
+    "industry": "0,31",
+    "service": "0,21",
+    "latitude": 8.460555,
+    "longitude": -11.779889,
+    "capital": "Freetown"
   },
   {
     "id": 185,
@@ -1608,7 +4963,26 @@
     "region": "ASIA (EX. NEAR EAST)",
     "population": 4492150,
     "area": 693,
-    "gdp": 23700
+    "gdp": 23700,
+    "population_density": "6482,2",
+    "net_migration": "11,53",
+    "infant_mortality": "2,29",
+    "literacy": "92,5",
+    "phones_per_1000": "411,4",
+    "arable_land_percentage": "1,64",
+    "land_types": {
+      "crops_percentage": "0",
+      "other_percentage": "98,36"
+    },
+    "climate": "2",
+    "birthrate": "9,34",
+    "deathrate": "4,28",
+    "agriculture": "0",
+    "industry": "0,339",
+    "service": "0,661",
+    "latitude": 1.352083,
+    "longitude": 103.819836,
+    "capital": "Singapore"
   },
   {
     "id": 186,
@@ -1617,7 +4991,26 @@
     "region": "EASTERN EUROPE",
     "population": 5439448,
     "area": 48845,
-    "gdp": 13300
+    "gdp": 13300,
+    "population_density": "111,4",
+    "net_migration": "0,3",
+    "infant_mortality": "7,41",
+    "literacy": "",
+    "phones_per_1000": "220,1",
+    "arable_land_percentage": "30,16",
+    "land_types": {
+      "crops_percentage": "2,62",
+      "other_percentage": "67,22"
+    },
+    "climate": "3",
+    "birthrate": "10,65",
+    "deathrate": "9,45",
+    "agriculture": "0,035",
+    "industry": "0,294",
+    "service": "0,672",
+    "latitude": 48.669026,
+    "longitude": 19.699024,
+    "capital": "Bratislava"
   },
   {
     "id": 187,
@@ -1626,7 +5019,26 @@
     "region": "EASTERN EUROPE",
     "population": 2010347,
     "area": 20273,
-    "gdp": 19000
+    "gdp": 19000,
+    "population_density": "99,2",
+    "net_migration": "1,12",
+    "infant_mortality": "4,45",
+    "literacy": "99,7",
+    "phones_per_1000": "406,1",
+    "arable_land_percentage": "8,6",
+    "land_types": {
+      "crops_percentage": "1,49",
+      "other_percentage": "89,91"
+    },
+    "climate": "",
+    "birthrate": "8,98",
+    "deathrate": "10,31",
+    "agriculture": "0,028",
+    "industry": "0,369",
+    "service": "0,603",
+    "latitude": 46.151241,
+    "longitude": 14.995463,
+    "capital": "Ljubljana"
   },
   {
     "id": 188,
@@ -1635,7 +5047,26 @@
     "region": "OCEANIA",
     "population": 552438,
     "area": 28450,
-    "gdp": 1700
+    "gdp": 1700,
+    "population_density": "19,4",
+    "net_migration": "0",
+    "infant_mortality": "21,29",
+    "literacy": "",
+    "phones_per_1000": "13,4",
+    "arable_land_percentage": "0,64",
+    "land_types": {
+      "crops_percentage": "2",
+      "other_percentage": "97,36"
+    },
+    "climate": "2",
+    "birthrate": "30,01",
+    "deathrate": "3,92",
+    "agriculture": "0,42",
+    "industry": "0,11",
+    "service": "0,47",
+    "latitude": -9.64571,
+    "longitude": 160.156194,
+    "capital": "Honiara"
   },
   {
     "id": 189,
@@ -1644,7 +5075,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 8863338,
     "area": 637657,
-    "gdp": 500
+    "gdp": 500,
+    "population_density": "13,9",
+    "net_migration": "5,37",
+    "infant_mortality": "116,7",
+    "literacy": "37,8",
+    "phones_per_1000": "11,3",
+    "arable_land_percentage": "1,67",
+    "land_types": {
+      "crops_percentage": "0,04",
+      "other_percentage": "98,29"
+    },
+    "climate": "1",
+    "birthrate": "45,13",
+    "deathrate": "16,63",
+    "agriculture": "0,65",
+    "industry": "0,1",
+    "service": "0,25",
+    "latitude": 5.152149,
+    "longitude": 46.199616,
+    "capital": "Mogadishu"
   },
   {
     "id": 190,
@@ -1653,7 +5103,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 44187637,
     "area": 1219912,
-    "gdp": 10700
+    "gdp": 10700,
+    "population_density": "36,2",
+    "net_migration": "-0,29",
+    "infant_mortality": "61,81",
+    "literacy": "86,4",
+    "phones_per_1000": "107,0",
+    "arable_land_percentage": "12,08",
+    "land_types": {
+      "crops_percentage": "0,79",
+      "other_percentage": "87,13"
+    },
+    "climate": "1",
+    "birthrate": "18,2",
+    "deathrate": "22",
+    "agriculture": "0,025",
+    "industry": "0,303",
+    "service": "0,671",
+    "latitude": -30.559482,
+    "longitude": 22.937506,
+    "capital": "Pretoria"
   },
   {
     "id": 191,
@@ -1662,7 +5131,26 @@
     "region": "WESTERN EUROPE",
     "population": 40397842,
     "area": 504782,
-    "gdp": 22000
+    "gdp": 22000,
+    "population_density": "80,0",
+    "net_migration": "0,99",
+    "infant_mortality": "4,42",
+    "literacy": "97,9",
+    "phones_per_1000": "453,5",
+    "arable_land_percentage": "26,07",
+    "land_types": {
+      "crops_percentage": "9,87",
+      "other_percentage": "64,06"
+    },
+    "climate": "3",
+    "birthrate": "10,06",
+    "deathrate": "9,72",
+    "agriculture": "0,04",
+    "industry": "0,295",
+    "service": "0,665",
+    "latitude": 40.463667,
+    "longitude": -3.74922,
+    "capital": "Madrid"
   },
   {
     "id": 192,
@@ -1671,7 +5159,26 @@
     "region": "ASIA (EX. NEAR EAST)",
     "population": 20222240,
     "area": 65610,
-    "gdp": 3700
+    "gdp": 3700,
+    "population_density": "308,2",
+    "net_migration": "-1,31",
+    "infant_mortality": "14,35",
+    "literacy": "92,3",
+    "phones_per_1000": "61,5",
+    "arable_land_percentage": "13,86",
+    "land_types": {
+      "crops_percentage": "15,7",
+      "other_percentage": "70,44"
+    },
+    "climate": "2",
+    "birthrate": "15,51",
+    "deathrate": "6,52",
+    "agriculture": "0,178",
+    "industry": "0,276",
+    "service": "0,545",
+    "latitude": 7.873054,
+    "longitude": 80.771797,
+    "capital": "Sri Jayawardenapura Kotte"
   },
   {
     "id": 193,
@@ -1680,7 +5187,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 41236378,
     "area": 2505810,
-    "gdp": 1900
+    "gdp": 1900,
+    "population_density": "16,5",
+    "net_migration": "-0,02",
+    "infant_mortality": "62,5",
+    "literacy": "61,1",
+    "phones_per_1000": "16,3",
+    "arable_land_percentage": "6,83",
+    "land_types": {
+      "crops_percentage": "0,18",
+      "other_percentage": "92,99"
+    },
+    "climate": "2",
+    "birthrate": "34,53",
+    "deathrate": "8,97",
+    "agriculture": "0,387",
+    "industry": "0,203",
+    "service": "0,41",
+    "latitude": 12.862807,
+    "longitude": 30.217636,
+    "capital": "Khartoum"
   },
   {
     "id": 194,
@@ -1689,7 +5215,26 @@
     "region": "LATIN AMER. & CARIB",
     "population": 439117,
     "area": 163270,
-    "gdp": 4000
+    "gdp": 4000,
+    "population_density": "2,7",
+    "net_migration": "-8,81",
+    "infant_mortality": "23,57",
+    "literacy": "93,0",
+    "phones_per_1000": "184,7",
+    "arable_land_percentage": "0,37",
+    "land_types": {
+      "crops_percentage": "0,06",
+      "other_percentage": "99,57"
+    },
+    "climate": "2",
+    "birthrate": "18,02",
+    "deathrate": "7,27",
+    "agriculture": "0,13",
+    "industry": "0,22",
+    "service": "0,65",
+    "latitude": 3.919305,
+    "longitude": -56.027783,
+    "capital": "Paramaribo"
   },
   {
     "id": 195,
@@ -1698,7 +5243,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 1136334,
     "area": 17363,
-    "gdp": 4900
+    "gdp": 4900,
+    "population_density": "65,5",
+    "net_migration": "0",
+    "infant_mortality": "69,27",
+    "literacy": "81,6",
+    "phones_per_1000": "30,8",
+    "arable_land_percentage": "10,35",
+    "land_types": {
+      "crops_percentage": "0,7",
+      "other_percentage": "88,95"
+    },
+    "climate": "2,5",
+    "birthrate": "27,41",
+    "deathrate": "29,74",
+    "agriculture": "0,119",
+    "industry": "0,515",
+    "service": "0,366",
+    "latitude": -26.522503,
+    "longitude": 31.465866,
+    "capital": "Mbabane"
   },
   {
     "id": 196,
@@ -1707,7 +5271,26 @@
     "region": "WESTERN EUROPE",
     "population": 9016596,
     "area": 449964,
-    "gdp": 26800
+    "gdp": 26800,
+    "population_density": "20,0",
+    "net_migration": "1,67",
+    "infant_mortality": "2,77",
+    "literacy": "99,0",
+    "phones_per_1000": "715,0",
+    "arable_land_percentage": "6,54",
+    "land_types": {
+      "crops_percentage": "0,01",
+      "other_percentage": "93,45"
+    },
+    "climate": "3",
+    "birthrate": "10,27",
+    "deathrate": "10,31",
+    "agriculture": "0,011",
+    "industry": "0,282",
+    "service": "0,707",
+    "latitude": 60.128161,
+    "longitude": 18.643501,
+    "capital": "Stockholm"
   },
   {
     "id": 197,
@@ -1716,16 +5299,54 @@
     "region": "WESTERN EUROPE",
     "population": 7523934,
     "area": 41290,
-    "gdp": 32700
+    "gdp": 32700,
+    "population_density": "182,2",
+    "net_migration": "4,05",
+    "infant_mortality": "4,39",
+    "literacy": "99,0",
+    "phones_per_1000": "680,9",
+    "arable_land_percentage": "10,42",
+    "land_types": {
+      "crops_percentage": "0,61",
+      "other_percentage": "88,97"
+    },
+    "climate": "3",
+    "birthrate": "9,71",
+    "deathrate": "8,49",
+    "agriculture": "0,015",
+    "industry": "0,34",
+    "service": "0,645",
+    "latitude": 46.818188,
+    "longitude": 8.227512,
+    "capital": "Bern"
   },
   {
     "id": 198,
-    "name": "Syrian Arab Republic",
+    "name": "Syria",
     "code": "SY",
     "region": "NEAR EAST",
     "population": 18881361,
     "area": 185180,
-    "gdp": 3300
+    "gdp": 3300,
+    "population_density": "102,0",
+    "net_migration": "0",
+    "infant_mortality": "29,53",
+    "literacy": "76,9",
+    "phones_per_1000": "153,8",
+    "arable_land_percentage": "25,22",
+    "land_types": {
+      "crops_percentage": "4,43",
+      "other_percentage": "70,35"
+    },
+    "climate": "1",
+    "birthrate": "27,76",
+    "deathrate": "4,81",
+    "agriculture": "0,249",
+    "industry": "0,23",
+    "service": "0,519",
+    "latitude": 34.802075,
+    "longitude": 38.996815,
+    "capital": "Damascus"
   },
   {
     "id": 199,
@@ -1734,7 +5355,26 @@
     "region": "ASIA (EX. NEAR EAST)",
     "population": 23036087,
     "area": 35980,
-    "gdp": 23400
+    "gdp": 23400,
+    "population_density": "640,3",
+    "net_migration": "0",
+    "infant_mortality": "6,4",
+    "literacy": "96,1",
+    "phones_per_1000": "591,0",
+    "arable_land_percentage": "24",
+    "land_types": {
+      "crops_percentage": "1",
+      "other_percentage": "75"
+    },
+    "climate": "2",
+    "birthrate": "12,56",
+    "deathrate": "6,48",
+    "agriculture": "0,018",
+    "industry": "0,259",
+    "service": "0,723",
+    "latitude": 23.69781,
+    "longitude": 120.960515,
+    "capital": "Taipei"
   },
   {
     "id": 200,
@@ -1743,7 +5383,26 @@
     "region": "C.W. OF IND. STATES",
     "population": 7320815,
     "area": 143100,
-    "gdp": 1000
+    "gdp": 1000,
+    "population_density": "51,2",
+    "net_migration": "-2,86",
+    "infant_mortality": "110,76",
+    "literacy": "99,4",
+    "phones_per_1000": "33,5",
+    "arable_land_percentage": "6,61",
+    "land_types": {
+      "crops_percentage": "0,92",
+      "other_percentage": "92,47"
+    },
+    "climate": "2",
+    "birthrate": "32,65",
+    "deathrate": "8,25",
+    "agriculture": "0,234",
+    "industry": "0,286",
+    "service": "0,48",
+    "latitude": 38.861034,
+    "longitude": 71.276093,
+    "capital": "Dushanbe"
   },
   {
     "id": 201,
@@ -1752,7 +5411,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 37445392,
     "area": 945087,
-    "gdp": 600
+    "gdp": 600,
+    "population_density": "39,6",
+    "net_migration": "-2,06",
+    "infant_mortality": "98,54",
+    "literacy": "78,2",
+    "phones_per_1000": "4,0",
+    "arable_land_percentage": "4,52",
+    "land_types": {
+      "crops_percentage": "1,08",
+      "other_percentage": "94,4"
+    },
+    "climate": "",
+    "birthrate": "37,71",
+    "deathrate": "16,39",
+    "agriculture": "0,432",
+    "industry": "0,172",
+    "service": "0,396",
+    "latitude": -6.369028,
+    "longitude": 34.888822,
+    "capital": "Dodoma"
   },
   {
     "id": 202,
@@ -1761,7 +5439,26 @@
     "region": "ASIA (EX. NEAR EAST)",
     "population": 64631595,
     "area": 514000,
-    "gdp": 7400
+    "gdp": 7400,
+    "population_density": "125,7",
+    "net_migration": "0",
+    "infant_mortality": "20,48",
+    "literacy": "92,6",
+    "phones_per_1000": "108,9",
+    "arable_land_percentage": "29,36",
+    "land_types": {
+      "crops_percentage": "6,46",
+      "other_percentage": "64,18"
+    },
+    "climate": "2",
+    "birthrate": "13,87",
+    "deathrate": "7,04",
+    "agriculture": "0,099",
+    "industry": "0,441",
+    "service": "0,46",
+    "latitude": 15.870032,
+    "longitude": 100.992541,
+    "capital": "Bangkok"
   },
   {
     "id": 203,
@@ -1770,7 +5467,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 5548702,
     "area": 56785,
-    "gdp": 1500
+    "gdp": 1500,
+    "population_density": "97,7",
+    "net_migration": "0",
+    "infant_mortality": "66,61",
+    "literacy": "60,9",
+    "phones_per_1000": "10,6",
+    "arable_land_percentage": "46,15",
+    "land_types": {
+      "crops_percentage": "2,21",
+      "other_percentage": "51,64"
+    },
+    "climate": "2",
+    "birthrate": "37,01",
+    "deathrate": "9,83",
+    "agriculture": "0,395",
+    "industry": "0,204",
+    "service": "0,401",
+    "latitude": 8.619543,
+    "longitude": 0.824782,
+    "capital": "Lomé"
   },
   {
     "id": 204,
@@ -1779,16 +5495,54 @@
     "region": "OCEANIA",
     "population": 114689,
     "area": 748,
-    "gdp": 2200
+    "gdp": 2200,
+    "population_density": "153,3",
+    "net_migration": "0",
+    "infant_mortality": "12,62",
+    "literacy": "98,5",
+    "phones_per_1000": "97,7",
+    "arable_land_percentage": "23,61",
+    "land_types": {
+      "crops_percentage": "43,06",
+      "other_percentage": "33,33"
+    },
+    "climate": "2",
+    "birthrate": "25,37",
+    "deathrate": "5,28",
+    "agriculture": "0,23",
+    "industry": "0,27",
+    "service": "0,5",
+    "latitude": -21.178986,
+    "longitude": -175.198242,
+    "capital": "Nukualofa"
   },
   {
     "id": 205,
-    "name": "Trinidad & Tobago",
+    "name": "Trinidad and Tobago",
     "code": "TT",
     "region": "LATIN AMER. & CARIB",
     "population": 1065842,
     "area": 5128,
-    "gdp": 9500
+    "gdp": 9500,
+    "population_density": "207,9",
+    "net_migration": "-10,83",
+    "infant_mortality": "24,31",
+    "literacy": "98,6",
+    "phones_per_1000": "303,5",
+    "arable_land_percentage": "14,62",
+    "land_types": {
+      "crops_percentage": "9,16",
+      "other_percentage": "76,22"
+    },
+    "climate": "2",
+    "birthrate": "12,9",
+    "deathrate": "10,57",
+    "agriculture": "0,007",
+    "industry": "0,57",
+    "service": "0,423",
+    "latitude": 10.691803,
+    "longitude": -61.222503,
+    "capital": "Port of Spain"
   },
   {
     "id": 206,
@@ -1797,7 +5551,26 @@
     "region": "NORTHERN AFRICA",
     "population": 10175014,
     "area": 163610,
-    "gdp": 6900
+    "gdp": 6900,
+    "population_density": "62,2",
+    "net_migration": "-0,57",
+    "infant_mortality": "24,77",
+    "literacy": "74,2",
+    "phones_per_1000": "123,6",
+    "arable_land_percentage": "17,86",
+    "land_types": {
+      "crops_percentage": "13,74",
+      "other_percentage": "68,4"
+    },
+    "climate": "3",
+    "birthrate": "15,52",
+    "deathrate": "5,13",
+    "agriculture": "0,132",
+    "industry": "0,318",
+    "service": "0,55",
+    "latitude": 33.886917,
+    "longitude": 9.537499,
+    "capital": "Tunis"
   },
   {
     "id": 207,
@@ -1806,7 +5579,26 @@
     "region": "NEAR EAST",
     "population": 70413958,
     "area": 780580,
-    "gdp": 6700
+    "gdp": 6700,
+    "population_density": "90,2",
+    "net_migration": "0",
+    "infant_mortality": "41,04",
+    "literacy": "86,5",
+    "phones_per_1000": "269,5",
+    "arable_land_percentage": "30,93",
+    "land_types": {
+      "crops_percentage": "3,31",
+      "other_percentage": "65,76"
+    },
+    "climate": "3",
+    "birthrate": "16,62",
+    "deathrate": "5,97",
+    "agriculture": "0,117",
+    "industry": "0,298",
+    "service": "0,585",
+    "latitude": 38.963745,
+    "longitude": 35.243322,
+    "capital": "Ankara"
   },
   {
     "id": 208,
@@ -1815,7 +5607,26 @@
     "region": "C.W. OF IND. STATES",
     "population": 5042920,
     "area": 488100,
-    "gdp": 5800
+    "gdp": 5800,
+    "population_density": "10,3",
+    "net_migration": "-0,86",
+    "infant_mortality": "73,08",
+    "literacy": "98,0",
+    "phones_per_1000": "74,6",
+    "arable_land_percentage": "3,72",
+    "land_types": {
+      "crops_percentage": "0,14",
+      "other_percentage": "96,14"
+    },
+    "climate": "1",
+    "birthrate": "27,61",
+    "deathrate": "8,6",
+    "agriculture": "0,209",
+    "industry": "0,38",
+    "service": "0,411",
+    "latitude": 38.969719,
+    "longitude": 59.556278,
+    "capital": "Ashgabat"
   },
   {
     "id": 210,
@@ -1824,7 +5635,26 @@
     "region": "OCEANIA",
     "population": 11810,
     "area": 26,
-    "gdp": 1100
+    "gdp": 1100,
+    "population_density": "454,2",
+    "net_migration": "0",
+    "infant_mortality": "20,03",
+    "literacy": "",
+    "phones_per_1000": "59,3",
+    "arable_land_percentage": "0",
+    "land_types": {
+      "crops_percentage": "0",
+      "other_percentage": "100"
+    },
+    "climate": "2",
+    "birthrate": "22,18",
+    "deathrate": "7,11",
+    "agriculture": "0,166",
+    "industry": "0,272",
+    "service": "0,562",
+    "latitude": -7.109535,
+    "longitude": 177.64933,
+    "capital": "Funafuti"
   },
   {
     "id": 211,
@@ -1833,7 +5663,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 28195754,
     "area": 236040,
-    "gdp": 1400
+    "gdp": 1400,
+    "population_density": "119,5",
+    "net_migration": "0",
+    "infant_mortality": "67,83",
+    "literacy": "69,9",
+    "phones_per_1000": "3,6",
+    "arable_land_percentage": "25,88",
+    "land_types": {
+      "crops_percentage": "10,65",
+      "other_percentage": "63,47"
+    },
+    "climate": "2",
+    "birthrate": "47,35",
+    "deathrate": "12,24",
+    "agriculture": "0,311",
+    "industry": "0,222",
+    "service": "0,469",
+    "latitude": 1.373333,
+    "longitude": 32.290275,
+    "capital": "Kampala"
   },
   {
     "id": 212,
@@ -1842,7 +5691,26 @@
     "region": "C.W. OF IND. STATES",
     "population": 46710816,
     "area": 603700,
-    "gdp": 5400
+    "gdp": 5400,
+    "population_density": "77,4",
+    "net_migration": "-0,39",
+    "infant_mortality": "20,34",
+    "literacy": "99,7",
+    "phones_per_1000": "259,9",
+    "arable_land_percentage": "56,21",
+    "land_types": {
+      "crops_percentage": "1,61",
+      "other_percentage": "42,18"
+    },
+    "climate": "3",
+    "birthrate": "8,82",
+    "deathrate": "14,39",
+    "agriculture": "0,187",
+    "industry": "0,452",
+    "service": "0,361",
+    "latitude": 48.379433,
+    "longitude": 31.16558,
+    "capital": "Kiev"
   },
   {
     "id": 213,
@@ -1851,7 +5719,26 @@
     "region": "NEAR EAST",
     "population": 2602713,
     "area": 82880,
-    "gdp": 23200
+    "gdp": 23200,
+    "population_density": "31,4",
+    "net_migration": "1,03",
+    "infant_mortality": "14,51",
+    "literacy": "77,9",
+    "phones_per_1000": "475,3",
+    "arable_land_percentage": "0,6",
+    "land_types": {
+      "crops_percentage": "2,25",
+      "other_percentage": "97,15"
+    },
+    "climate": "1",
+    "birthrate": "18,96",
+    "deathrate": "4,4",
+    "agriculture": "0,04",
+    "industry": "0,585",
+    "service": "0,375",
+    "latitude": 23.424076,
+    "longitude": 53.847818,
+    "capital": "Abu Dhabi"
   },
   {
     "id": 214,
@@ -1860,7 +5747,26 @@
     "region": "WESTERN EUROPE",
     "population": 60609153,
     "area": 244820,
-    "gdp": 27700
+    "gdp": 27700,
+    "population_density": "247,6",
+    "net_migration": "2,19",
+    "infant_mortality": "5,16",
+    "literacy": "99,0",
+    "phones_per_1000": "543,5",
+    "arable_land_percentage": "23,46",
+    "land_types": {
+      "crops_percentage": "0,21",
+      "other_percentage": "76,33"
+    },
+    "climate": "3",
+    "birthrate": "10,71",
+    "deathrate": "10,13",
+    "agriculture": "0,005",
+    "industry": "0,237",
+    "service": "0,758",
+    "latitude": 55.378051,
+    "longitude": -3.435973,
+    "capital": "London"
   },
   {
     "id": 215,
@@ -1869,7 +5775,26 @@
     "region": "NORTHERN AMERICA",
     "population": 298444215,
     "area": 9631420,
-    "gdp": 37800
+    "gdp": 37800,
+    "population_density": "31,0",
+    "net_migration": "3,41",
+    "infant_mortality": "6,5",
+    "literacy": "97,0",
+    "phones_per_1000": "898,0",
+    "arable_land_percentage": "19,13",
+    "land_types": {
+      "crops_percentage": "0,22",
+      "other_percentage": "80,65"
+    },
+    "climate": "3",
+    "birthrate": "14,14",
+    "deathrate": "8,26",
+    "agriculture": "0,01",
+    "industry": "0,204",
+    "service": "0,787",
+    "latitude": 37.09024,
+    "longitude": -95.712891,
+    "capital": "Washington D.C."
   },
   {
     "id": 216,
@@ -1878,7 +5803,26 @@
     "region": "LATIN AMER. & CARIB",
     "population": 3431932,
     "area": 176220,
-    "gdp": 12800
+    "gdp": 12800,
+    "population_density": "19,5",
+    "net_migration": "-0,32",
+    "infant_mortality": "11,95",
+    "literacy": "98,0",
+    "phones_per_1000": "291,4",
+    "arable_land_percentage": "7,43",
+    "land_types": {
+      "crops_percentage": "0,23",
+      "other_percentage": "92,34"
+    },
+    "climate": "3",
+    "birthrate": "13,91",
+    "deathrate": "9,05",
+    "agriculture": "0,093",
+    "industry": "0,311",
+    "service": "0,596",
+    "latitude": -32.522779,
+    "longitude": -55.765835,
+    "capital": "Montevideo"
   },
   {
     "id": 217,
@@ -1887,7 +5831,26 @@
     "region": "C.W. OF IND. STATES",
     "population": 27307134,
     "area": 447400,
-    "gdp": 1700
+    "gdp": 1700,
+    "population_density": "61,0",
+    "net_migration": "-1,72",
+    "infant_mortality": "71,1",
+    "literacy": "99,3",
+    "phones_per_1000": "62,9",
+    "arable_land_percentage": "10,83",
+    "land_types": {
+      "crops_percentage": "0,83",
+      "other_percentage": "88,34"
+    },
+    "climate": "1",
+    "birthrate": "26,36",
+    "deathrate": "7,84",
+    "agriculture": "0,342",
+    "industry": "0,229",
+    "service": "0,43",
+    "latitude": 41.377491,
+    "longitude": 64.585262,
+    "capital": "Tashkent"
   },
   {
     "id": 218,
@@ -1896,7 +5859,26 @@
     "region": "OCEANIA",
     "population": 208869,
     "area": 12200,
-    "gdp": 2900
+    "gdp": 2900,
+    "population_density": "17,1",
+    "net_migration": "0",
+    "infant_mortality": "55,16",
+    "literacy": "53,0",
+    "phones_per_1000": "32,6",
+    "arable_land_percentage": "2,46",
+    "land_types": {
+      "crops_percentage": "7,38",
+      "other_percentage": "90,16"
+    },
+    "climate": "2",
+    "birthrate": "22,72",
+    "deathrate": "7,82",
+    "agriculture": "0,26",
+    "industry": "0,12",
+    "service": "0,62",
+    "latitude": -15.376706,
+    "longitude": 166.959158,
+    "capital": "Port Vila"
   },
   {
     "id": 219,
@@ -1905,7 +5887,26 @@
     "region": "LATIN AMER. & CARIB",
     "population": 25730435,
     "area": 912050,
-    "gdp": 4800
+    "gdp": 4800,
+    "population_density": "28,2",
+    "net_migration": "-0,04",
+    "infant_mortality": "22,2",
+    "literacy": "93,4",
+    "phones_per_1000": "140,1",
+    "arable_land_percentage": "2,95",
+    "land_types": {
+      "crops_percentage": "0,92",
+      "other_percentage": "96,13"
+    },
+    "climate": "2",
+    "birthrate": "18,71",
+    "deathrate": "4,92",
+    "agriculture": "0,04",
+    "industry": "0,419",
+    "service": "0,541",
+    "latitude": 6.42375,
+    "longitude": -66.58973,
+    "capital": "Caracas"
   },
   {
     "id": 220,
@@ -1914,25 +5915,80 @@
     "region": "ASIA (EX. NEAR EAST)",
     "population": 84402966,
     "area": 329560,
-    "gdp": 2500
+    "gdp": 2500,
+    "population_density": "256,1",
+    "net_migration": "-0,45",
+    "infant_mortality": "25,95",
+    "literacy": "90,3",
+    "phones_per_1000": "187,7",
+    "arable_land_percentage": "19,97",
+    "land_types": {
+      "crops_percentage": "5,95",
+      "other_percentage": "74,08"
+    },
+    "climate": "2",
+    "birthrate": "16,86",
+    "deathrate": "6,22",
+    "agriculture": "0,209",
+    "industry": "0,41",
+    "service": "0,381",
+    "latitude": 14.058324,
+    "longitude": 108.277199,
+    "capital": "Hanoi"
   },
   {
     "id": 221,
-    "name": "Virgin Islands, U.s.",
+    "name": "U.S. Virgin Islands",
     "code": "VI",
     "region": "LATIN AMER. & CARIB",
     "population": 108605,
     "area": 1910,
-    "gdp": 17200
+    "gdp": 17200,
+    "population_density": "56,9",
+    "net_migration": "-8,94",
+    "infant_mortality": "8,03",
+    "literacy": "",
+    "phones_per_1000": "652,8",
+    "arable_land_percentage": "11,76",
+    "land_types": {
+      "crops_percentage": "2,94",
+      "other_percentage": "85,3"
+    },
+    "climate": "2",
+    "birthrate": "13,96",
+    "deathrate": "6,43",
+    "agriculture": "0,01",
+    "industry": "0,19",
+    "service": "0,8",
+    "latitude": 18.335765,
+    "longitude": -64.896335
   },
   {
     "id": 222,
-    "name": "Wallis & Futuna",
+    "name": "Wallis and Futuna",
     "code": "WF",
     "region": "OCEANIA",
     "population": 16025,
     "area": 274,
-    "gdp": 3700
+    "gdp": 3700,
+    "population_density": "58,5",
+    "net_migration": "",
+    "infant_mortality": "",
+    "literacy": "50,0",
+    "phones_per_1000": "118,6",
+    "arable_land_percentage": "5",
+    "land_types": {
+      "crops_percentage": "25",
+      "other_percentage": "70"
+    },
+    "climate": "2",
+    "birthrate": "",
+    "deathrate": "",
+    "agriculture": "",
+    "industry": "",
+    "service": "",
+    "latitude": -13.768752,
+    "longitude": -177.156097
   },
   {
     "id": 224,
@@ -1941,7 +5997,25 @@
     "region": "NORTHERN AFRICA",
     "population": 273008,
     "area": 266000,
-    "gdp": null
+    "gdp": null,
+    "population_density": "1,0",
+    "net_migration": "",
+    "infant_mortality": "",
+    "literacy": "",
+    "phones_per_1000": "",
+    "arable_land_percentage": "0,02",
+    "land_types": {
+      "crops_percentage": "0",
+      "other_percentage": "99,98"
+    },
+    "climate": "1",
+    "birthrate": "",
+    "deathrate": "",
+    "agriculture": "",
+    "industry": "",
+    "service": "0,4",
+    "latitude": 24.215527,
+    "longitude": -12.885834
   },
   {
     "id": 225,
@@ -1950,7 +6024,26 @@
     "region": "NEAR EAST",
     "population": 21456188,
     "area": 527970,
-    "gdp": 800
+    "gdp": 800,
+    "population_density": "40,6",
+    "net_migration": "0",
+    "infant_mortality": "61,5",
+    "literacy": "50,2",
+    "phones_per_1000": "37,2",
+    "arable_land_percentage": "2,78",
+    "land_types": {
+      "crops_percentage": "0,24",
+      "other_percentage": "96,98"
+    },
+    "climate": "1",
+    "birthrate": "42,89",
+    "deathrate": "8,3",
+    "agriculture": "0,135",
+    "industry": "0,472",
+    "service": "0,393",
+    "latitude": 15.552727,
+    "longitude": 48.516388,
+    "capital": "Sana'a"
   },
   {
     "id": 226,
@@ -1959,7 +6052,26 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 11502010,
     "area": 752614,
-    "gdp": 800
+    "gdp": 800,
+    "population_density": "15,3",
+    "net_migration": "0",
+    "infant_mortality": "88,29",
+    "literacy": "80,6",
+    "phones_per_1000": "8,2",
+    "arable_land_percentage": "7,08",
+    "land_types": {
+      "crops_percentage": "0,03",
+      "other_percentage": "92,9"
+    },
+    "climate": "2",
+    "birthrate": "41",
+    "deathrate": "19,93",
+    "agriculture": "0,22",
+    "industry": "0,29",
+    "service": "0,489",
+    "latitude": -13.133897,
+    "longitude": 27.849332,
+    "capital": "Lusaka"
   },
   {
     "id": 227,
@@ -1968,6 +6080,25 @@
     "region": "SUB-SAHARAN AFRICA",
     "population": 12236805,
     "area": 390580,
-    "gdp": 1900
+    "gdp": 1900,
+    "population_density": "31,3",
+    "net_migration": "0",
+    "infant_mortality": "67,69",
+    "literacy": "90,7",
+    "phones_per_1000": "26,8",
+    "arable_land_percentage": "8,32",
+    "land_types": {
+      "crops_percentage": "0,34",
+      "other_percentage": "91,34"
+    },
+    "climate": "2",
+    "birthrate": "28,01",
+    "deathrate": "21,84",
+    "agriculture": "0,179",
+    "industry": "0,243",
+    "service": "0,579",
+    "latitude": -19.015438,
+    "longitude": 29.154857,
+    "capital": "Harare"
   }
 ]

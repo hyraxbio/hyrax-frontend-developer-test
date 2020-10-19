@@ -169,30 +169,30 @@
                 return country.code === item.code;
               });
               if (countryObj) {
+                countryObj.name = item.name,
                 countryObj.latitude = item.latitude;
                 countryObj.longitude = item.longitude;
               }
-            })
-            
-           
+            });
+            $('.capitals tr').each((index, row) => {
+              var capital = $(row).find('td:nth-child(2)').text();
+              var code = $(row).find('td:nth-child(4)').text();
+              var countryObj = smallerCountries.find(country => {
+                return country.code === code;
+              });
+              if (countryObj) {
+                countryObj.capital = capital;
+              }
+            });
+            dataDownload(JSON.stringify(smallerCountries, null, 2), 'countries.json');
+
           });
         });
 
-        $('.capitals tr').each((index, row) => {
-          var capital = $(row).find('td:nth-child(2)').text();
-          var code = $(row).find('td:nth-child(4)').text();
-          var countryObj = smallerCountries.find(country => {
-            return country.code === code;
-          });
-          if (countryObj) {
-            countryObj.capital = capital;
-            console.log(countryObj)
-          }
-        })
+        
     
         
 
-        // dataDownload(JSON.stringify(smallerCountries, null, 2), 'countries.json');
       })
     })
   </script>

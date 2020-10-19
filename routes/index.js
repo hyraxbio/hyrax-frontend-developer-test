@@ -1,11 +1,41 @@
 var express = require('express');
 var router = express.Router();
-var countries = require('../countries.json')
+var countries = require('../countries.json');
 /* GET home page. */
 
-router.get('/', function(req, res, next) {
-  console.log(req.query);
-  res.json(countriesJSON(countries, req.query));
+// ----------------------------------------------
+// SHOW
+// ----------------------------------------------
+
+router.get('/countries/:id', function(req, res, next) {
+  var country = countries.find(country => {
+    return country.id.toString() === req.params.id;
+  });
+  if (country) {
+    res.json({
+      data: {
+        id: country.id,
+        type: 'country',
+        attributes: country
+      }
+    });
+  } else {
+    res.status(404).json({
+      errors: [{
+        code: 'item not found',
+        detail: `A country with ID ${req.params.id} was not found`,
+        status: 404
+      }]
+    });
+  }
+});
+
+// ----------------------------------------------
+// INDEX
+// ----------------------------------------------
+
+router.get('/countries', function(req, res, next) {
+  res.json(countriesIndex(countries, req.query));
 });
 
 function slicedItems(items, page, size) {
@@ -27,27 +57,26 @@ function filteredItems(payments, searchParams) {
   return filteredItems;
 }
 
-function isFilterMatch(item, params) {
+function isFilterMatch(item, params = {}) {
   var nameParam = params.name;
-  var min_amount = params.min_amount;
-  var max_amount = params.max_amount;
+  var minPop = params.min_population;
+  var maxPop = params.max_population;
   
   var conditions = [];
- 
   
   if (nameParam) {
-    var nameCondition = item.name.toLowerCase().indexOf(description.toLowerCase()) > -1;
+    var nameCondition = item.name.toLowerCase().indexOf(nameParam.toLowerCase()) > -1;
     conditions.push(nameCondition);
   }
 
-  if (min_amount) {
-    var min_amountCondition = item.amount >= min_amount;
-    conditions.push(min_amountCondition);
+  if (minPop) {
+    var minPopCondition = item.population >= minPop;
+    conditions.push(minPopCondition);
   }
 
-  if (max_amount) {
-    var max_amountCondition = item.amount <= max_amount;
-    conditions.push(max_amountCondition);
+  if (maxPop) {
+    var maxPopCondition = item.population <= maxPop;
+    conditions.push(maxPopCondition);
   }
   return conditions.every(function(condition) {
     return condition === true;
@@ -61,7 +90,7 @@ function paginationLinks(page, size, sort, filteredItemsLength) {
   if (page > maxPageNumber) {
     page = maxPageNumber;
   }
-  var url = window.location.protocol + '//' + window.location.hostname + window.location.pathname;
+  var url = 'http://localhost:3000';
   var secondPart = `&page[size]=${size}&sort=${sort}`;
   var paginationLinks = {};
   var firstQueryParams = encodeURI(`page[number]=1${secondPart}`);
@@ -109,31 +138,48 @@ function sortedItems(items, sortProp) {
   return sortedItems;
 }
 
-function countriesJSON(data, queryParams) {
-  queryParams.include = 'smartTagClones';
+function countriesIndex(data, queryParams) {
+  var max_page_size = 100;
+  var min_page_size = 10;
+
   var searchParams = queryParams.filter;
-  var size = parseInt(queryParams['page[size]']);
+  var size = parseInt(queryParams.page.size);
   var filtered = filteredItems(data, searchParams);
   var sorted = sortedItems(filtered, queryParams.sort);
-  var sliced = slicedItems(sorted, queryParams['page[number]'], queryParams['page[size]']);
-  let json = this.serialize(sliced);
-  json.links = paginationLinks(queryParams['page[number]'], queryParams['page[size]'], queryParams.sort, filtered.length);
+  var sliced = slicedItems(sorted, queryParams.page.number, queryParams.page.size);
+  var serialised = sliced.map(country => {
+    return {
+      id: country.id,
+      type: 'country',
+      attributes: {
+        name: country.name,
+        code: country.code,
+        region: country.region,
+        population: country.population
+      }
+    };
+  });
+  var links = paginationLinks(queryParams.page.number, queryParams.page.size, queryParams.sort, filtered.length);
   var page_size_decrement = size - 10;
   var page_size_increment = size + 10;
-  json.meta = {
-    total_data_length: payments.length,
+  var meta = {
+    total_data_length: data.length,
     filtered_data_length: filtered.length,
-    max_page_size: 100,
-    min_page_size: 10,
+    max_page_size: max_page_size,
+    min_page_size: min_page_size,
     page_size: size,
     page_size_decrement: page_size_decrement,
     page_size_increment: page_size_increment,
-    page_size_is_max: size === this.max_page_size,
-    page_size_is_min: size === this.min_page_size,
+    page_size_is_max: size === max_page_size,
+    page_size_is_min: size === min_page_size,
     total_pages: Math.ceil(filtered.length/size),
-    total_amounts: totalAmounts(filtered.models)
   };
-  return json;
+
+  return {
+    data: serialised,
+    links: links,
+    meta: meta
+  };
 }
 
 
