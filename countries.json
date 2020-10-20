@@ -53,7 +53,7 @@
     "service": "0,579",
     "latitude": 41.153332,
     "longitude": 20.168331,
-    "capital": "Tirana"
+    "capital": "Tirane"
   },
   {
     "id": 3,
@@ -108,7 +108,8 @@
     "industry": "",
     "service": "",
     "latitude": -14.270972,
-    "longitude": -170.132217
+    "longitude": -170.132217,
+    "capital": "Pago Pago"
   },
   {
     "id": 5,
@@ -191,35 +192,8 @@
     "industry": "0,18",
     "service": "0,78",
     "latitude": 18.220554,
-    "longitude": -63.068615
-  },
-  {
-    "id": 8,
-    "name": "Antigua and Barbuda",
-    "code": "AG",
-    "region": "LATIN AMER. & CARIB",
-    "population": 69108,
-    "area": 443,
-    "gdp": 11000,
-    "population_density": "156,0",
-    "net_migration": "-6,15",
-    "infant_mortality": "19,46",
-    "literacy": "89,0",
-    "phones_per_1000": "549,9",
-    "arable_land_percentage": "18,18",
-    "land_types": {
-      "crops_percentage": "4,55",
-      "other_percentage": "77,27"
-    },
-    "climate": "2",
-    "birthrate": "16,93",
-    "deathrate": "5,37",
-    "agriculture": "0,038",
-    "industry": "0,22",
-    "service": "0,743",
-    "latitude": 17.060816,
-    "longitude": -61.796428,
-    "capital": "St. John's"
+    "longitude": -63.068615,
+    "capital": "The Valley"
   },
   {
     "id": 9,
@@ -302,7 +276,8 @@
     "industry": "0,333",
     "service": "0,663",
     "latitude": 12.52111,
-    "longitude": -69.968338
+    "longitude": -69.968338,
+    "capital": "Oranjestad"
   },
   {
     "id": 12,
@@ -387,34 +362,6 @@
     "latitude": 40.143105,
     "longitude": 47.576927,
     "capital": "Baku"
-  },
-  {
-    "id": 15,
-    "name": "Bahamas",
-    "code": "BS",
-    "region": "LATIN AMER. & CARIB",
-    "population": 303770,
-    "area": 13940,
-    "gdp": 16700,
-    "population_density": "21,8",
-    "net_migration": "-2,2",
-    "infant_mortality": "25,21",
-    "literacy": "95,6",
-    "phones_per_1000": "460,6",
-    "arable_land_percentage": "0,8",
-    "land_types": {
-      "crops_percentage": "0,4",
-      "other_percentage": "98,8"
-    },
-    "climate": "2",
-    "birthrate": "17,57",
-    "deathrate": "9,05",
-    "agriculture": "0,03",
-    "industry": "0,07",
-    "service": "0,9",
-    "latitude": 25.03428,
-    "longitude": -77.39628,
-    "capital": "Nassau"
   },
   {
     "id": 16,
@@ -610,7 +557,7 @@
     "service": "0,546",
     "latitude": 9.30769,
     "longitude": 2.315834,
-    "capital": "Porto Novo"
+    "capital": "Porto-Novo"
   },
   {
     "id": 23,
@@ -637,7 +584,8 @@
     "industry": "0,1",
     "service": "0,89",
     "latitude": 32.321384,
-    "longitude": -64.75737
+    "longitude": -64.75737,
+    "capital": "Hamilton"
   },
   {
     "id": 24,
@@ -693,35 +641,7 @@
     "service": "0,52",
     "latitude": -16.290154,
     "longitude": -63.588653,
-    "capital": "Sucre"
-  },
-  {
-    "id": 26,
-    "name": "Bosnia and Herzegovina",
-    "code": "BA",
-    "region": "EASTERN EUROPE",
-    "population": 4498976,
-    "area": 51129,
-    "gdp": 6100,
-    "population_density": "88,0",
-    "net_migration": "0,31",
-    "infant_mortality": "21,05",
-    "literacy": "",
-    "phones_per_1000": "215,4",
-    "arable_land_percentage": "13,6",
-    "land_types": {
-      "crops_percentage": "2,96",
-      "other_percentage": "83,44"
-    },
-    "climate": "4",
-    "birthrate": "8,77",
-    "deathrate": "8,27",
-    "agriculture": "0,142",
-    "industry": "0,308",
-    "service": "0,55",
-    "latitude": 43.915886,
-    "longitude": 17.679076,
-    "capital": "Sarajevo"
+    "capital": "La Paz"
   },
   {
     "id": 27,
@@ -780,61 +700,6 @@
     "capital": "Brasilia"
   },
   {
-    "id": 29,
-    "name": "British Virgin Islands",
-    "code": "VG",
-    "region": "LATIN AMER. & CARIB",
-    "population": 23098,
-    "area": 153,
-    "gdp": 16000,
-    "population_density": "151,0",
-    "net_migration": "10,01",
-    "infant_mortality": "18,05",
-    "literacy": "97,8",
-    "phones_per_1000": "506,5",
-    "arable_land_percentage": "20",
-    "land_types": {
-      "crops_percentage": "6,67",
-      "other_percentage": "73,33"
-    },
-    "climate": "2",
-    "birthrate": "14,89",
-    "deathrate": "4,42",
-    "agriculture": "0,018",
-    "industry": "0,062",
-    "service": "0,92",
-    "latitude": 18.420695,
-    "longitude": -64.639968
-  },
-  {
-    "id": 30,
-    "name": "Brunei",
-    "code": "BN",
-    "region": "ASIA (EX. NEAR EAST)",
-    "population": 379444,
-    "area": 5770,
-    "gdp": 18600,
-    "population_density": "65,8",
-    "net_migration": "3,59",
-    "infant_mortality": "12,61",
-    "literacy": "93,9",
-    "phones_per_1000": "237,2",
-    "arable_land_percentage": "0,57",
-    "land_types": {
-      "crops_percentage": "0,76",
-      "other_percentage": "98,67"
-    },
-    "climate": "2",
-    "birthrate": "18,79",
-    "deathrate": "3,45",
-    "agriculture": "0,036",
-    "industry": "0,561",
-    "service": "0,403",
-    "latitude": 4.535277,
-    "longitude": 114.727669,
-    "capital": "Bandar Seri Begawan"
-  },
-  {
     "id": 31,
     "name": "Bulgaria",
     "code": "BG",
@@ -889,34 +754,6 @@
     "latitude": 12.238333,
     "longitude": -1.561593,
     "capital": "Ouagadougou"
-  },
-  {
-    "id": 33,
-    "name": "Myanmar [Burma]",
-    "code": "MM",
-    "region": "ASIA (EX. NEAR EAST)",
-    "population": 47382633,
-    "area": 678500,
-    "gdp": 1800,
-    "population_density": "69,8",
-    "net_migration": "-1,8",
-    "infant_mortality": "67,24",
-    "literacy": "85,3",
-    "phones_per_1000": "10,1",
-    "arable_land_percentage": "15,19",
-    "land_types": {
-      "crops_percentage": "0,97",
-      "other_percentage": "83,84"
-    },
-    "climate": "2",
-    "birthrate": "17,91",
-    "deathrate": "9,83",
-    "agriculture": "0,564",
-    "industry": "0,082",
-    "service": "0,353",
-    "latitude": 21.913965,
-    "longitude": 95.956223,
-    "capital": "Naypyidaw"
   },
   {
     "id": 34,
@@ -1000,7 +837,7 @@
     "service": "0,382",
     "latitude": 7.369722,
     "longitude": 12.354722,
-    "capital": "Yaoundé"
+    "capital": "Yaounde"
   },
   {
     "id": 37,
@@ -1083,39 +920,12 @@
     "industry": "0,032",
     "service": "0,954",
     "latitude": 19.513469,
-    "longitude": -80.566956
-  },
-  {
-    "id": 40,
-    "name": "Central African Republic",
-    "code": "CF",
-    "region": "SUB-SAHARAN AFRICA",
-    "population": 4303356,
-    "area": 622984,
-    "gdp": 1100,
-    "population_density": "6,9",
-    "net_migration": "0",
-    "infant_mortality": "91",
-    "literacy": "51,0",
-    "phones_per_1000": "2,3",
-    "arable_land_percentage": "3,1",
-    "land_types": {
-      "crops_percentage": "0,14",
-      "other_percentage": "96,76"
-    },
-    "climate": "2",
-    "birthrate": "33,91",
-    "deathrate": "18,65",
-    "agriculture": "0,55",
-    "industry": "0,2",
-    "service": "0,25",
-    "latitude": 6.611111,
-    "longitude": 20.939444,
-    "capital": "Bangui"
+    "longitude": -80.566956,
+    "capital": "George Town"
   },
   {
     "id": 41,
-    "name": "Chad",
+    "name": "Chad (Tchad)",
     "code": "TD",
     "region": "SUB-SAHARAN AFRICA",
     "population": 9944201,
@@ -1254,62 +1064,6 @@
     "capital": "Moroni"
   },
   {
-    "id": 46,
-    "name": "Congo [DRC]",
-    "code": "CD",
-    "region": "SUB-SAHARAN AFRICA",
-    "population": 62660551,
-    "area": 2345410,
-    "gdp": 700,
-    "population_density": "26,7",
-    "net_migration": "0",
-    "infant_mortality": "94,69",
-    "literacy": "65,5",
-    "phones_per_1000": "0,2",
-    "arable_land_percentage": "2,96",
-    "land_types": {
-      "crops_percentage": "0,52",
-      "other_percentage": "96,52"
-    },
-    "climate": "2",
-    "birthrate": "43,69",
-    "deathrate": "13,27",
-    "agriculture": "0,55",
-    "industry": "0,11",
-    "service": "0,34",
-    "latitude": -4.038333,
-    "longitude": 21.758664,
-    "capital": "Kinshasa"
-  },
-  {
-    "id": 47,
-    "name": "Congo [Republic]",
-    "code": "CG",
-    "region": "SUB-SAHARAN AFRICA",
-    "population": 3702314,
-    "area": 342000,
-    "gdp": 700,
-    "population_density": "10,8",
-    "net_migration": "-0,17",
-    "infant_mortality": "93,86",
-    "literacy": "83,8",
-    "phones_per_1000": "3,7",
-    "arable_land_percentage": "0,51",
-    "land_types": {
-      "crops_percentage": "0,13",
-      "other_percentage": "99,36"
-    },
-    "climate": "2",
-    "birthrate": "42,57",
-    "deathrate": "12,93",
-    "agriculture": "0,062",
-    "industry": "0,57",
-    "service": "0,369",
-    "latitude": -0.228021,
-    "longitude": 15.827659,
-    "capital": "Brazzaville"
-  },
-  {
     "id": 48,
     "name": "Cook Islands",
     "code": "CK",
@@ -1334,7 +1088,8 @@
     "industry": "0,096",
     "service": "0,753",
     "latitude": -21.236736,
-    "longitude": -159.777671
+    "longitude": -159.777671,
+    "capital": "Rarotonga"
   },
   {
     "id": 49,
@@ -1362,11 +1117,11 @@
     "service": "0,614",
     "latitude": 9.748917,
     "longitude": -83.753428,
-    "capital": "San José"
+    "capital": "San Jose"
   },
   {
     "id": 50,
-    "name": "C?te d'Ivoire",
+    "name": "Cote D'Ivoire (Ivory Coast)",
     "code": "CI",
     "region": "SUB-SAHARAN AFRICA",
     "population": 17654843,
@@ -1530,7 +1285,7 @@
     "service": "0,735",
     "latitude": 56.26392,
     "longitude": 9.501785,
-    "capital": "Copenagen"
+    "capital": "Copenhagen"
   },
   {
     "id": 56,
@@ -1862,7 +1617,8 @@
     "industry": "0,11",
     "service": "0,62",
     "latitude": 61.892635,
-    "longitude": -6.911806
+    "longitude": -6.911806,
+    "capital": "Torshavn"
   },
   {
     "id": 68,
@@ -1973,7 +1729,8 @@
     "industry": "0,156",
     "service": "0,778",
     "latitude": 3.933889,
-    "longitude": -53.125782
+    "longitude": -53.125782,
+    "capital": "Cayenne"
   },
   {
     "id": 72,
@@ -2000,7 +1757,8 @@
     "industry": "0,19",
     "service": "0,769",
     "latitude": -17.679742,
-    "longitude": -149.406843
+    "longitude": -149.406843,
+    "capital": "Papeete"
   },
   {
     "id": 73,
@@ -2029,62 +1787,6 @@
     "latitude": -0.803689,
     "longitude": 11.609444,
     "capital": "Libreville"
-  },
-  {
-    "id": 74,
-    "name": "Gambia",
-    "code": "GM",
-    "region": "SUB-SAHARAN AFRICA",
-    "population": 1641564,
-    "area": 11300,
-    "gdp": 1700,
-    "population_density": "145,3",
-    "net_migration": "1,57",
-    "infant_mortality": "72,02",
-    "literacy": "40,1",
-    "phones_per_1000": "26,8",
-    "arable_land_percentage": "25",
-    "land_types": {
-      "crops_percentage": "0,5",
-      "other_percentage": "74,5"
-    },
-    "climate": "2",
-    "birthrate": "39,37",
-    "deathrate": "12,25",
-    "agriculture": "0,308",
-    "industry": "0,142",
-    "service": "0,549",
-    "latitude": 13.443182,
-    "longitude": -15.310139,
-    "capital": "Banjul"
-  },
-  {
-    "id": 75,
-    "name": "Palestinian Territories",
-    "code": "PS",
-    "region": "NEAR EAST",
-    "population": 1428757,
-    "area": 360,
-    "gdp": 600,
-    "population_density": "3968,8",
-    "net_migration": "1,6",
-    "infant_mortality": "22,93",
-    "literacy": "",
-    "phones_per_1000": "244,3",
-    "arable_land_percentage": "28,95",
-    "land_types": {
-      "crops_percentage": "21,05",
-      "other_percentage": "50"
-    },
-    "climate": "3",
-    "birthrate": "39,45",
-    "deathrate": "3,8",
-    "agriculture": "0,03",
-    "industry": "0,283",
-    "service": "0,687",
-    "latitude": 31.952162,
-    "longitude": 35.233154,
-    "capital": "East Jerusalem"
   },
   {
     "id": 76,
@@ -2195,7 +1897,8 @@
     "industry": "",
     "service": "",
     "latitude": 36.137741,
-    "longitude": -5.345374
+    "longitude": -5.345374,
+    "capital": "Gibraltar"
   },
   {
     "id": 80,
@@ -2250,7 +1953,8 @@
     "industry": "",
     "service": "",
     "latitude": 71.706936,
-    "longitude": -42.604303
+    "longitude": -42.604303,
+    "capital": "Nuuk"
   },
   {
     "id": 82,
@@ -2278,7 +1982,7 @@
     "service": "0,766",
     "latitude": 12.262776,
     "longitude": -61.604171,
-    "capital": "St. George's"
+    "capital": "Saint George's"
   },
   {
     "id": 83,
@@ -2305,7 +2009,8 @@
     "industry": "0,17",
     "service": "0,68",
     "latitude": 16.995971,
-    "longitude": -62.067641
+    "longitude": -62.067641,
+    "capital": "Basse-Terre"
   },
   {
     "id": 84,
@@ -2332,7 +2037,8 @@
     "industry": "",
     "service": "",
     "latitude": 13.444304,
-    "longitude": 144.793731
+    "longitude": 144.793731,
+    "capital": "Agana"
   },
   {
     "id": 85,
@@ -2527,7 +2233,8 @@
     "industry": "0,092",
     "service": "0,906",
     "latitude": 22.396428,
-    "longitude": 114.109497
+    "longitude": 114.109497,
+    "capital": "Beijing"
   },
   {
     "id": 93,
@@ -2583,7 +2290,7 @@
     "service": "0,765",
     "latitude": 64.963051,
     "longitude": -19.020835,
-    "capital": "Reykjavík"
+    "capital": "Reykjavik"
   },
   {
     "id": 95,
@@ -2640,34 +2347,6 @@
     "latitude": -0.789275,
     "longitude": 113.921327,
     "capital": "Jakarta"
-  },
-  {
-    "id": 97,
-    "name": "Iran",
-    "code": "IR",
-    "region": "ASIA (EX. NEAR EAST)",
-    "population": 68688433,
-    "area": 1648000,
-    "gdp": 7000,
-    "population_density": "41,7",
-    "net_migration": "-0,84",
-    "infant_mortality": "41,58",
-    "literacy": "79,4",
-    "phones_per_1000": "276,4",
-    "arable_land_percentage": "8,72",
-    "land_types": {
-      "crops_percentage": "1,39",
-      "other_percentage": "89,89"
-    },
-    "climate": "1",
-    "birthrate": "17",
-    "deathrate": "5,55",
-    "agriculture": "0,116",
-    "industry": "0,424",
-    "service": "0,46",
-    "latitude": 32.427908,
-    "longitude": 53.688046,
-    "capital": "Tehran"
   },
   {
     "id": 98,
@@ -2866,34 +2545,6 @@
     "capital": "Amman"
   },
   {
-    "id": 107,
-    "name": "Kazakhstan",
-    "code": "KZ",
-    "region": "C.W. OF IND. STATES",
-    "population": 15233244,
-    "area": 2717300,
-    "gdp": 6300,
-    "population_density": "5,6",
-    "net_migration": "-3,35",
-    "infant_mortality": "29,21",
-    "literacy": "98,4",
-    "phones_per_1000": "164,1",
-    "arable_land_percentage": "7,98",
-    "land_types": {
-      "crops_percentage": "0,05",
-      "other_percentage": "91,97"
-    },
-    "climate": "4",
-    "birthrate": "16",
-    "deathrate": "9,42",
-    "agriculture": "0,067",
-    "industry": "0,386",
-    "service": "0,547",
-    "latitude": 48.019573,
-    "longitude": 66.923684,
-    "capital": "Astana"
-  },
-  {
     "id": 108,
     "name": "Kenya",
     "code": "KE",
@@ -2950,62 +2601,6 @@
     "capital": "Tarawa"
   },
   {
-    "id": 110,
-    "name": "North Korea",
-    "code": "KP",
-    "region": "ASIA (EX. NEAR EAST)",
-    "population": 23113019,
-    "area": 120540,
-    "gdp": 1300,
-    "population_density": "191,8",
-    "net_migration": "0",
-    "infant_mortality": "24,04",
-    "literacy": "99,0",
-    "phones_per_1000": "42,4",
-    "arable_land_percentage": "20,76",
-    "land_types": {
-      "crops_percentage": "2,49",
-      "other_percentage": "76,75"
-    },
-    "climate": "3",
-    "birthrate": "15,54",
-    "deathrate": "7,13",
-    "agriculture": "0,3",
-    "industry": "0,34",
-    "service": "0,36",
-    "latitude": 40.339852,
-    "longitude": 127.510093,
-    "capital": "Pyongyang"
-  },
-  {
-    "id": 111,
-    "name": "South Korea",
-    "code": "KR",
-    "region": "ASIA (EX. NEAR EAST)",
-    "population": 48846823,
-    "area": 98480,
-    "gdp": 17800,
-    "population_density": "496,0",
-    "net_migration": "0",
-    "infant_mortality": "7,05",
-    "literacy": "97,9",
-    "phones_per_1000": "486,1",
-    "arable_land_percentage": "17,18",
-    "land_types": {
-      "crops_percentage": "1,95",
-      "other_percentage": "80,87"
-    },
-    "climate": "3",
-    "birthrate": "10",
-    "deathrate": "5,85",
-    "agriculture": "0,033",
-    "industry": "0,403",
-    "service": "0,563",
-    "latitude": 35.907757,
-    "longitude": 127.766922,
-    "capital": "Seoul"
-  },
-  {
     "id": 112,
     "name": "Kuwait",
     "code": "KW",
@@ -3060,34 +2655,6 @@
     "latitude": 41.20438,
     "longitude": 74.766098,
     "capital": "Bishkek"
-  },
-  {
-    "id": 114,
-    "name": "Laos",
-    "code": "LA",
-    "region": "ASIA (EX. NEAR EAST)",
-    "population": 6368481,
-    "area": 236800,
-    "gdp": 1700,
-    "population_density": "26,9",
-    "net_migration": "0",
-    "infant_mortality": "85,22",
-    "literacy": "66,4",
-    "phones_per_1000": "14,1",
-    "arable_land_percentage": "3,8",
-    "land_types": {
-      "crops_percentage": "0,35",
-      "other_percentage": "95,85"
-    },
-    "climate": "2",
-    "birthrate": "35,49",
-    "deathrate": "11,55",
-    "agriculture": "0,455",
-    "industry": "0,287",
-    "service": "0,258",
-    "latitude": 19.85627,
-    "longitude": 102.495496,
-    "capital": "Vientiane"
   },
   {
     "id": 115,
@@ -3202,34 +2769,6 @@
     "capital": "Monrovia"
   },
   {
-    "id": 119,
-    "name": "Libya",
-    "code": "LY",
-    "region": "NORTHERN AFRICA",
-    "population": 5900754,
-    "area": 1759540,
-    "gdp": 6400,
-    "population_density": "3,4",
-    "net_migration": "0",
-    "infant_mortality": "24,6",
-    "literacy": "82,6",
-    "phones_per_1000": "127,1",
-    "arable_land_percentage": "1,03",
-    "land_types": {
-      "crops_percentage": "0,19",
-      "other_percentage": "98,78"
-    },
-    "climate": "",
-    "birthrate": "26,49",
-    "deathrate": "3,48",
-    "agriculture": "0,076",
-    "industry": "0,499",
-    "service": "0,425",
-    "latitude": 26.3351,
-    "longitude": 17.228331,
-    "capital": "Tripoli"
-  },
-  {
     "id": 120,
     "name": "Liechtenstein",
     "code": "LI",
@@ -3315,7 +2854,7 @@
   },
   {
     "id": 123,
-    "name": "Macau",
+    "name": "Macao (Macau)",
     "code": "MO",
     "region": "ASIA (EX. NEAR EAST)",
     "population": 453125,
@@ -3338,35 +2877,8 @@
     "industry": "0,072",
     "service": "0,927",
     "latitude": 22.198745,
-    "longitude": 113.543873
-  },
-  {
-    "id": 124,
-    "name": "Macedonia [FYROM]",
-    "code": "MK",
-    "region": "EASTERN EUROPE",
-    "population": 2050554,
-    "area": 25333,
-    "gdp": 6700,
-    "population_density": "80,9",
-    "net_migration": "-1,45",
-    "infant_mortality": "10,09",
-    "literacy": "",
-    "phones_per_1000": "260,0",
-    "arable_land_percentage": "22,26",
-    "land_types": {
-      "crops_percentage": "1,81",
-      "other_percentage": "75,93"
-    },
-    "climate": "3",
-    "birthrate": "12,02",
-    "deathrate": "8,77",
-    "agriculture": "0,118",
-    "industry": "0,319",
-    "service": "0,563",
-    "latitude": 41.608635,
-    "longitude": 21.745275,
-    "capital": "Skopje"
+    "longitude": 113.543873,
+    "capital": "Macao"
   },
   {
     "id": 125,
@@ -3478,7 +2990,7 @@
     "service": "0,62",
     "latitude": 3.202778,
     "longitude": 73.22068,
-    "capital": "Malé"
+    "capital": "Male"
   },
   {
     "id": 129,
@@ -3506,7 +3018,7 @@
     "service": "0,38",
     "latitude": 17.570692,
     "longitude": -3.996166,
-    "capital": "Bamako"
+    "capital": "Bamko"
   },
   {
     "id": 130,
@@ -3589,7 +3101,8 @@
     "industry": "0,11",
     "service": "0,83",
     "latitude": 14.641528,
-    "longitude": -61.024174
+    "longitude": -61.024174,
+    "capital": "Fort-de-France"
   },
   {
     "id": 133,
@@ -3672,7 +3185,8 @@
     "industry": "",
     "service": "",
     "latitude": -12.8275,
-    "longitude": 45.166244
+    "longitude": 45.166244,
+    "capital": "Mamoutzou"
   },
   {
     "id": 136,
@@ -3701,34 +3215,6 @@
     "latitude": 23.634501,
     "longitude": -102.552784,
     "capital": "Mexico City"
-  },
-  {
-    "id": 137,
-    "name": "Micronesia",
-    "code": "FM",
-    "region": "OCEANIA",
-    "population": 108004,
-    "area": 702,
-    "gdp": 2000,
-    "population_density": "153,9",
-    "net_migration": "-20,99",
-    "infant_mortality": "30,21",
-    "literacy": "89,0",
-    "phones_per_1000": "114,8",
-    "arable_land_percentage": "5,71",
-    "land_types": {
-      "crops_percentage": "45,71",
-      "other_percentage": "48,58"
-    },
-    "climate": "2",
-    "birthrate": "24,68",
-    "deathrate": "4,75",
-    "agriculture": "0,289",
-    "industry": "0,152",
-    "service": "0,559",
-    "latitude": 7.425554,
-    "longitude": 150.550812,
-    "capital": "Palikir"
   },
   {
     "id": 139,
@@ -3811,7 +3297,8 @@
     "industry": "",
     "service": "",
     "latitude": 16.742498,
-    "longitude": -62.187366
+    "longitude": -62.187366,
+    "capital": "Plymouth"
   },
   {
     "id": 142,
@@ -3923,7 +3410,7 @@
     "service": "",
     "latitude": -0.522778,
     "longitude": 166.931503,
-    "capital": "Yaren"
+    "capital": "Yaren District"
   },
   {
     "id": 146,
@@ -4006,7 +3493,8 @@
     "industry": "0,15",
     "service": "0,84",
     "latitude": 12.226079,
-    "longitude": -69.060087
+    "longitude": -69.060087,
+    "capital": "Willemstad"
   },
   {
     "id": 149,
@@ -4033,7 +3521,8 @@
     "industry": "0,088",
     "service": "0,762",
     "latitude": -20.904305,
-    "longitude": 165.618042
+    "longitude": 165.618042,
+    "capital": "Noumea"
   },
   {
     "id": 150,
@@ -4257,7 +3746,7 @@
     "service": "0,818",
     "latitude": 7.51498,
     "longitude": 134.58252,
-    "capital": "Melekeok"
+    "capital": "Koror"
   },
   {
     "id": 159,
@@ -4341,7 +3830,7 @@
     "service": "0,569",
     "latitude": -23.442503,
     "longitude": -58.443832,
-    "capital": "Asunción"
+    "capital": "Asuncion"
   },
   {
     "id": 162,
@@ -4480,7 +3969,8 @@
     "industry": "0,45",
     "service": "0,54",
     "latitude": 18.220833,
-    "longitude": -66.590149
+    "longitude": -66.590149,
+    "capital": "San Juan"
   },
   {
     "id": 167,
@@ -4512,7 +4002,7 @@
   },
   {
     "id": 168,
-    "name": "R?union",
+    "name": "Réunion",
     "code": "RE",
     "region": "SUB-SAHARAN AFRICA",
     "population": 787584,
@@ -4535,7 +4025,8 @@
     "industry": "0,19",
     "service": "0,73",
     "latitude": -21.115141,
-    "longitude": 55.536384
+    "longitude": 55.536384,
+    "capital": "Saint-Denis"
   },
   {
     "id": 169,
@@ -4564,34 +4055,6 @@
     "latitude": 45.943161,
     "longitude": 24.96676,
     "capital": "Bucharest"
-  },
-  {
-    "id": 170,
-    "name": "Russia",
-    "code": "RU",
-    "region": "C.W. OF IND. STATES",
-    "population": 142893540,
-    "area": 17075200,
-    "gdp": 8900,
-    "population_density": "8,4",
-    "net_migration": "1,02",
-    "infant_mortality": "15,39",
-    "literacy": "99,6",
-    "phones_per_1000": "280,6",
-    "arable_land_percentage": "7,33",
-    "land_types": {
-      "crops_percentage": "0,11",
-      "other_percentage": "92,56"
-    },
-    "climate": "",
-    "birthrate": "9,95",
-    "deathrate": "14,65",
-    "agriculture": "0,054",
-    "industry": "0,371",
-    "service": "0,575",
-    "latitude": 61.52401,
-    "longitude": 105.318756,
-    "capital": "Moscow"
   },
   {
     "id": 171,
@@ -4646,35 +4109,8 @@
     "industry": "",
     "service": "",
     "latitude": -24.143474,
-    "longitude": -10.030696
-  },
-  {
-    "id": 173,
-    "name": "Saint Kitts and Nevis",
-    "code": "KN",
-    "region": "LATIN AMER. & CARIB",
-    "population": 39129,
-    "area": 261,
-    "gdp": 8800,
-    "population_density": "149,9",
-    "net_migration": "-7,11",
-    "infant_mortality": "14,49",
-    "literacy": "97,0",
-    "phones_per_1000": "638,9",
-    "arable_land_percentage": "19,44",
-    "land_types": {
-      "crops_percentage": "2,78",
-      "other_percentage": "77,78"
-    },
-    "climate": "2",
-    "birthrate": "18,02",
-    "deathrate": "8,33",
-    "agriculture": "0,035",
-    "industry": "0,258",
-    "service": "0,707",
-    "latitude": 17.357822,
-    "longitude": -62.782998,
-    "capital": "Basseterre"
+    "longitude": -10.030696,
+    "capital": "Jamestown"
   },
   {
     "id": 174,
@@ -4734,7 +4170,7 @@
   },
   {
     "id": 177,
-    "name": "Samoa",
+    "name": "Samoa (Western Samoa)",
     "code": "WS",
     "region": "OCEANIA",
     "population": 176908,
@@ -4787,34 +4223,6 @@
     "latitude": 43.94236,
     "longitude": 12.457777,
     "capital": "San Marino"
-  },
-  {
-    "id": 179,
-    "name": "S?o Tom? and Pr?ncipe",
-    "code": "ST",
-    "region": "SUB-SAHARAN AFRICA",
-    "population": 193413,
-    "area": 1001,
-    "gdp": 1200,
-    "population_density": "193,2",
-    "net_migration": "-2,72",
-    "infant_mortality": "43,11",
-    "literacy": "79,3",
-    "phones_per_1000": "36,2",
-    "arable_land_percentage": "6,25",
-    "land_types": {
-      "crops_percentage": "48,96",
-      "other_percentage": "44,79"
-    },
-    "climate": "2",
-    "birthrate": "40,25",
-    "deathrate": "6,47",
-    "agriculture": "0,167",
-    "industry": "0,148",
-    "service": "0,684",
-    "latitude": 0.18636,
-    "longitude": 6.613081,
-    "capital": "São Tomé"
   },
   {
     "id": 180,
@@ -4897,8 +4305,7 @@
     "industry": "0,255",
     "service": "0,579",
     "latitude": 44.016521,
-    "longitude": 21.005859,
-    "capital": "Belgrade"
+    "longitude": 21.005859
   },
   {
     "id": 183,
@@ -5178,7 +4585,7 @@
     "service": "0,545",
     "latitude": 7.873054,
     "longitude": 80.771797,
-    "capital": "Sri Jayawardenapura Kotte"
+    "capital": "Colombo"
   },
   {
     "id": 193,
@@ -5321,62 +4728,6 @@
     "capital": "Bern"
   },
   {
-    "id": 198,
-    "name": "Syria",
-    "code": "SY",
-    "region": "NEAR EAST",
-    "population": 18881361,
-    "area": 185180,
-    "gdp": 3300,
-    "population_density": "102,0",
-    "net_migration": "0",
-    "infant_mortality": "29,53",
-    "literacy": "76,9",
-    "phones_per_1000": "153,8",
-    "arable_land_percentage": "25,22",
-    "land_types": {
-      "crops_percentage": "4,43",
-      "other_percentage": "70,35"
-    },
-    "climate": "1",
-    "birthrate": "27,76",
-    "deathrate": "4,81",
-    "agriculture": "0,249",
-    "industry": "0,23",
-    "service": "0,519",
-    "latitude": 34.802075,
-    "longitude": 38.996815,
-    "capital": "Damascus"
-  },
-  {
-    "id": 199,
-    "name": "Taiwan",
-    "code": "TW",
-    "region": "ASIA (EX. NEAR EAST)",
-    "population": 23036087,
-    "area": 35980,
-    "gdp": 23400,
-    "population_density": "640,3",
-    "net_migration": "0",
-    "infant_mortality": "6,4",
-    "literacy": "96,1",
-    "phones_per_1000": "591,0",
-    "arable_land_percentage": "24",
-    "land_types": {
-      "crops_percentage": "1",
-      "other_percentage": "75"
-    },
-    "climate": "2",
-    "birthrate": "12,56",
-    "deathrate": "6,48",
-    "agriculture": "0,018",
-    "industry": "0,259",
-    "service": "0,723",
-    "latitude": 23.69781,
-    "longitude": 120.960515,
-    "capital": "Taipei"
-  },
-  {
     "id": 200,
     "name": "Tajikistan",
     "code": "TJ",
@@ -5403,34 +4754,6 @@
     "latitude": 38.861034,
     "longitude": 71.276093,
     "capital": "Dushanbe"
-  },
-  {
-    "id": 201,
-    "name": "Tanzania",
-    "code": "TZ",
-    "region": "SUB-SAHARAN AFRICA",
-    "population": 37445392,
-    "area": 945087,
-    "gdp": 600,
-    "population_density": "39,6",
-    "net_migration": "-2,06",
-    "infant_mortality": "98,54",
-    "literacy": "78,2",
-    "phones_per_1000": "4,0",
-    "arable_land_percentage": "4,52",
-    "land_types": {
-      "crops_percentage": "1,08",
-      "other_percentage": "94,4"
-    },
-    "climate": "",
-    "birthrate": "37,71",
-    "deathrate": "16,39",
-    "agriculture": "0,432",
-    "industry": "0,172",
-    "service": "0,396",
-    "latitude": -6.369028,
-    "longitude": 34.888822,
-    "capital": "Dodoma"
   },
   {
     "id": 202,
@@ -5486,7 +4809,7 @@
     "service": "0,401",
     "latitude": 8.619543,
     "longitude": 0.824782,
-    "capital": "Lomé"
+    "capital": "Lome"
   },
   {
     "id": 204,
@@ -5514,35 +4837,7 @@
     "service": "0,5",
     "latitude": -21.178986,
     "longitude": -175.198242,
-    "capital": "Nukualofa"
-  },
-  {
-    "id": 205,
-    "name": "Trinidad and Tobago",
-    "code": "TT",
-    "region": "LATIN AMER. & CARIB",
-    "population": 1065842,
-    "area": 5128,
-    "gdp": 9500,
-    "population_density": "207,9",
-    "net_migration": "-10,83",
-    "infant_mortality": "24,31",
-    "literacy": "98,6",
-    "phones_per_1000": "303,5",
-    "arable_land_percentage": "14,62",
-    "land_types": {
-      "crops_percentage": "9,16",
-      "other_percentage": "76,22"
-    },
-    "climate": "2",
-    "birthrate": "12,9",
-    "deathrate": "10,57",
-    "agriculture": "0,007",
-    "industry": "0,57",
-    "service": "0,423",
-    "latitude": 10.691803,
-    "longitude": -61.222503,
-    "capital": "Port of Spain"
+    "capital": "Nuku'alofa"
   },
   {
     "id": 206,
@@ -5794,7 +5089,7 @@
     "service": "0,787",
     "latitude": 37.09024,
     "longitude": -95.712891,
-    "capital": "Washington D.C."
+    "capital": "Washington"
   },
   {
     "id": 216,
@@ -5878,7 +5173,7 @@
     "service": "0,62",
     "latitude": -15.376706,
     "longitude": 166.959158,
-    "capital": "Port Vila"
+    "capital": "Port-Vila"
   },
   {
     "id": 219,
@@ -5909,61 +5204,6 @@
     "capital": "Caracas"
   },
   {
-    "id": 220,
-    "name": "Vietnam",
-    "code": "VN",
-    "region": "ASIA (EX. NEAR EAST)",
-    "population": 84402966,
-    "area": 329560,
-    "gdp": 2500,
-    "population_density": "256,1",
-    "net_migration": "-0,45",
-    "infant_mortality": "25,95",
-    "literacy": "90,3",
-    "phones_per_1000": "187,7",
-    "arable_land_percentage": "19,97",
-    "land_types": {
-      "crops_percentage": "5,95",
-      "other_percentage": "74,08"
-    },
-    "climate": "2",
-    "birthrate": "16,86",
-    "deathrate": "6,22",
-    "agriculture": "0,209",
-    "industry": "0,41",
-    "service": "0,381",
-    "latitude": 14.058324,
-    "longitude": 108.277199,
-    "capital": "Hanoi"
-  },
-  {
-    "id": 221,
-    "name": "U.S. Virgin Islands",
-    "code": "VI",
-    "region": "LATIN AMER. & CARIB",
-    "population": 108605,
-    "area": 1910,
-    "gdp": 17200,
-    "population_density": "56,9",
-    "net_migration": "-8,94",
-    "infant_mortality": "8,03",
-    "literacy": "",
-    "phones_per_1000": "652,8",
-    "arable_land_percentage": "11,76",
-    "land_types": {
-      "crops_percentage": "2,94",
-      "other_percentage": "85,3"
-    },
-    "climate": "2",
-    "birthrate": "13,96",
-    "deathrate": "6,43",
-    "agriculture": "0,01",
-    "industry": "0,19",
-    "service": "0,8",
-    "latitude": 18.335765,
-    "longitude": -64.896335
-  },
-  {
     "id": 222,
     "name": "Wallis and Futuna",
     "code": "WF",
@@ -5988,7 +5228,8 @@
     "industry": "",
     "service": "",
     "latitude": -13.768752,
-    "longitude": -177.156097
+    "longitude": -177.156097,
+    "capital": "Mata-Utu"
   },
   {
     "id": 224,
@@ -6015,7 +5256,8 @@
     "industry": "",
     "service": "0,4",
     "latitude": 24.215527,
-    "longitude": -12.885834
+    "longitude": -12.885834,
+    "capital": "El Aioun"
   },
   {
     "id": 225,
@@ -6043,7 +5285,7 @@
     "service": "0,393",
     "latitude": 15.552727,
     "longitude": 48.516388,
-    "capital": "Sana'a"
+    "capital": "Sanaa"
   },
   {
     "id": 226,

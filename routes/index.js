@@ -3,6 +3,14 @@ var router = express.Router();
 var countries = require('../countries.json');
 /* GET home page. */
 
+router.get('/', function(req, res, next) {
+  res.json({
+    data: {
+      message: 'Hello world'
+    }
+  });
+});
+
 // ----------------------------------------------
 // SHOW
 // ----------------------------------------------
@@ -140,7 +148,8 @@ function sortedItems(items, sortProp) {
 function countriesIndex(data, queryParams) {
   var max_page_size = 100;
   var min_page_size = 10;
-
+  queryParams.page = queryParams.page || {};
+  queryParams.page.size = queryParams.page.size || 50;
   var searchParams = queryParams.filter;
   var size = parseInt(queryParams.page.size);
   var filtered = filteredItems(data, searchParams);
@@ -152,6 +161,7 @@ function countriesIndex(data, queryParams) {
       type: 'country',
       attributes: {
         name: country.name,
+        capital: country.capital,
         code: country.code,
         region: country.region,
         population: country.population
